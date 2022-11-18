@@ -17,8 +17,8 @@ Topics in neuromodulation don't seem to have a higher proportion of review paper
 - Smaller literature topics (ataxia, Huntington, Lewy body) seem to have higher proportions of review papers
 - Error bars represent the estimated upper and lower bounds obtained via the Clinical Queries filters
 - Figure includes literature over entire Embase database (1974-2022)
-- ![Figure](demo/fig2.png)
 - ![Figure](demo/fig1.png)
+- ![Figure](demo/fig2.png)
 
 The proportion of review papers for DBS in general, DBS in Parkinson's, and DBS in tremor does not appear to have changed over the past decade
 - Error bars represent the estimated upper and lower bounds obtained via the Clinical Queries filters
