@@ -1,0 +1,271 @@
+	• All labelled DBS literature
+		Embase <1974 to 2022 November 16>
+		
+		1	brain depth stimulation/	49334
+		2	limit 1 to "reviews (maximizes specificity)"	1087
+		3	limit 1 to "reviews (maximizes sensitivity)"	15226
+		4	limit 1 to "reviews (best balance of sensitivity and specificity)"	8106
+		5	limit 1 to "review"	6915
+	• Non-conference DBS literature: 
+		Embase <1974 to 2022 November 16>
+		
+		1	brain depth stimulation/	49334
+		2	limit 1 to (embase or medline)	39941
+		3	limit 1 to (conference abstract or conference paper or "conference review")	10013
+		4	limit 1 to conference abstracts	9290
+		5	1 not (3 or 4)	39321
+		
+		○ Link:
+			§ https://libaccess.mcmaster.ca/login?url=http://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=N&PAGE=main&SHAREDSEARCHID=2cIZHyvHIuh6fPfM07CuIMuusk4XgbQHJUg0JGk7LWC1OrIladC87Zgv1JiYyzHgf
+	• Preliminary results for DBS
+		Embase <1974 to 2022 November 16>
+		
+		1	brain depth stimulation/	49334
+		2	limit 1 to (embase or medline)	39941
+		3	limit 1 to (conference abstract or conference paper or "conference review")	10013
+		4	1 not 3	39321
+		5	limit 4 to human	27994
+		6	limit 5 to "review"	6357
+		7	limit 5 to "reviews (maximizes specificity)"	866
+		8	limit 5 to "reviews (maximizes sensitivity)"	11381
+		9	limit 5 to "reviews (best balance of sensitivity and specificity)"	7041
+		
+		Link:
+			https://libaccess.mcmaster.ca/login?url=http://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=N&PAGE=main&SHAREDSEARCHID=5qJphv7h0gJynRoLQW5S8hAK1xupKPG6NZ4GamHnDpzs6cIyMFOZ6in90gMmltGNz
+	• Preliminary results for VNS
+		Embase <1974 to 2022 November 17>
+		
+		1	vagus nerve stimulation/	12406
+		2	limit 1 to (embase or medline)	10012
+		3	limit 1 to (conference abstract or conference paper or "conference review")	2647
+		4	1 not 3	9759
+		5	limit 4 to human	6919
+		6	limit 5 to "review"	1905
+		7	limit 5 to "reviews (maximizes specificity)"	190
+		8	limit 5 to "reviews (maximizes sensitivity)"	3164
+		9	limit 5 to "reviews (best balance of sensitivity and specificity)"	2066
+		
+		Link:
+			https://libaccess.mcmaster.ca/login?url=http://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=N&PAGE=main&SHAREDSEARCHID=21oPOQlB7BSXp7cOpRIUpAE9ULdvfg5Uwtzzfu3dHhKBRPwZrrQX2SwW3OzgL55rE
+	• Preliminary results for TMS
+		Embase <1974 to 2022 November 17>
+		
+		1	transcranial magnetic stimulation/	25313
+		2	limit 1 to (embase or medline)	20799
+		3	limit 1 to (conference abstract or conference paper or "conference review")	4759
+		4	1 not 3	20554
+		5	limit 4 to human	19337
+		6	limit 5 to "review"	3506
+		7	limit 5 to "reviews (maximizes specificity)"	643
+		8	limit 5 to "reviews (maximizes sensitivity)"	7140
+		9	limit 5 to "reviews (best balance of sensitivity and specificity)"	4033
+		
+		Link:
+			https://libaccess.mcmaster.ca/login?url=http://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=N&PAGE=main&SHAREDSEARCHID=wtAuRg13GkYegIAhlDQaCXolm3PYhMZk1WSuYIBWJWvg2AvI52bjJsJrCEbxBlBw
+	• Preliminary results for epilepsy DBS
+		Embase <1974 to 2022 November 17>
+		
+		1	brain depth stimulation/ and exp epilepsy/	4156
+		2	limit 1 to (embase or medline)	3542
+		3	limit 1 to (conference abstract or conference paper or "conference review")	694
+		4	1 not 3	3462
+		5	limit 4 to human	2723
+		6	limit 5 to "review"	839
+		7	limit 5 to "reviews (maximizes specificity)"	64
+		8	limit 5 to "reviews (maximizes sensitivity)"	1221
+		9	limit 5 to "reviews (best balance of sensitivity and specificity)"	889
+		
+		Link
+			https://libaccess.mcmaster.ca/login?url=http://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=N&PAGE=main&SHAREDSEARCHID=4B3yhNCm6zaKRF5lQzIkz4ZMBYEgv8fBM4drPAsqHH3CzzuivGUhU3E8D8bfiMIzD
+			
+	• Preliminary results for motor dysfunction DBS
+		Embase <1974 to 2022 November 17>
+		
+		1	brain depth stimulation/ and exp motor dysfunction/	13514
+		2	limit 1 to (embase or medline)	9428
+		3	limit 1 to (conference abstract or conference paper or "conference review")	4290
+		4	1 not 3	9224
+		5	limit 4 to human	8622
+		6	limit 5 to "review"	2210
+		7	limit 5 to "reviews (maximizes specificity)"	225
+		8	limit 5 to "reviews (maximizes sensitivity)"	3727
+		9	limit 5 to "reviews (best balance of sensitivity and specificity)"	2400
+		
+		Link
+			https://libaccess.mcmaster.ca/login?url=http://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=N&PAGE=main&SHAREDSEARCHID=41pG3SUQQRXI9iOgdzcU7GrrH2kCitXfDNKEUvtEZFrlzPqxHtUqovz7JWqU1S4kZ
+	• Preliminary results for Parkinson's DBS
+		Embase <1974 to 2022 November 17>
+		
+		1	brain depth stimulation/ and exp parkinson disease/	13855
+		2	limit 1 to (embase or medline)	9760
+		3	limit 1 to (conference abstract or conference paper or "conference review")	4290
+		4	1 not 3	9565
+		5	limit 4 to human	8949
+		6	limit 5 to "review"	1978
+		7	limit 5 to "reviews (maximizes specificity)"	220
+		8	limit 5 to "reviews (maximizes sensitivity)"	3779
+		9	limit 5 to "reviews (best balance of sensitivity and specificity)"	2145
+		
+		Link
+			https://libaccess.mcmaster.ca/login?url=http://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=N&PAGE=main&SHAREDSEARCHID=4Z7oRI6IVC0Zll047RptJyiSOmuYOolqK0IBWKCxP4k9boa3cr1jEfAIMzWLkjInf
+	• Preliminary results for Tremor DBS
+		Embase <1974 to 2022 November 17>
+		
+		1	brain depth stimulation/ and exp tremor/	4443
+		2	limit 1 to (embase or medline)	3166
+		3	limit 1 to (conference abstract or conference paper or "conference review")	1352
+		4	1 not 3	3091
+		5	limit 4 to human	2953
+		6	limit 5 to "review"	716
+		7	limit 5 to "reviews (maximizes specificity)"	70
+		8	limit 5 to "reviews (maximizes sensitivity)"	1197
+		9	limit 5 to "reviews (best balance of sensitivity and specificity)"	768
+		
+		Link
+			https://libaccess.mcmaster.ca/login?url=http://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=N&PAGE=main&SHAREDSEARCHID=1wJXHJAul0YOb8CKWmPVLZWeouDJ5pvU5csGO2R37XGvpj4SXMQRetZxf78uMI1HH
+			
+	• Preliminary results for Ataxia DBS
+		Embase <1974 to 2022 November 17>
+		
+		1	brain depth stimulation/ and exp ataxia/	626
+		2	limit 1 to (embase or medline)	499
+		3	limit 1 to (conference abstract or conference paper or "conference review")	135
+		4	1 not 3	491
+		5	limit 4 to human	472
+		6	limit 5 to "review"	204
+		7	limit 5 to "reviews (maximizes specificity)"	18
+		8	limit 5 to "reviews (maximizes sensitivity)"	272
+		9	limit 5 to "reviews (best balance of sensitivity and specificity)"	216
+		
+		○ Link
+			§ https://libaccess.mcmaster.ca/login?url=http://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=N&PAGE=main&SHAREDSEARCHID=2IhxSN5MJoBTdFSz2ZOCfa6Aj0UN7VRKcQxYe1dWCIWFftFYW8kR3RsRdRFbYZMTc
+	• Preliminary results for Dystonia DBS
+		Embase <1974 to 2022 November 17>
+		
+		1	brain depth stimulation/ and exp dystonia/	3440
+		2	limit 1 to (embase or medline)	2350
+		3	limit 1 to (conference abstract or conference paper or "conference review")	1140
+		4	1 not 3	2300
+		5	limit 4 to human	2234
+		6	limit 5 to "review"	641
+		7	limit 5 to "reviews (maximizes specificity)"	55
+		8	limit 5 to "reviews (maximizes sensitivity)"	993
+		9	limit 5 to "reviews (best balance of sensitivity and specificity)"	686
+		
+		Link
+			https://libaccess.mcmaster.ca/login?url=http://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=N&PAGE=main&SHAREDSEARCHID=3vwLF9zR8GWqw6OoaxOrvvDMQucubPA9MUKFYnooA1a1bqbc4SO0bWwg4F9hvLpXl
+	• Preliminary results for Huntington chorea DBS (has no narrower terms)
+		Embase <1974 to 2022 November 17>
+		
+		1	brain depth stimulation/ and exp Huntington chorea/	449
+		2	limit 1 to (embase or medline)	369
+		3	limit 1 to (conference abstract or conference paper or "conference review")	88
+		4	1 not 3	361
+		5	limit 4 to human	330
+		6	limit 5 to "review"	167
+		7	limit 5 to "reviews (maximizes specificity)"	5
+		8	limit 5 to "reviews (maximizes sensitivity)"	200
+		9	limit 5 to "reviews (best balance of sensitivity and specificity)"	173
+		○ 
+		○ Link
+			https://libaccess.mcmaster.ca/login?url=http://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=N&PAGE=main&SHAREDSEARCHID=2CaE7giGWqHIcOCW20Y3iR3e3II0EkCwCbJqSWCexfUjyeRlkksjEVXAEwdpNGlqu
+	• Preliminary results for Lewy body disease DBS
+		Embase <1974 to 2022 November 17>
+		
+		1	brain depth stimulation/ and exp diffuse Lewy body disease/	110
+		2	limit 1 to (embase or medline)	95
+		3	limit 1 to (conference abstract or conference paper or "conference review")	19
+		4	1 not 3	91
+		5	limit 4 to human	91
+		6	limit 5 to "review"	46
+		7	limit 5 to "reviews (maximizes specificity)"	7
+		8	limit 5 to "reviews (maximizes sensitivity)"	64
+		9	limit 5 to "reviews (best balance of sensitivity and specificity)"	47
+		
+		Link
+			https://libaccess.mcmaster.ca/login?url=http://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=N&PAGE=main&SHAREDSEARCHID=kUXwfC3dxoqQ4fU6A0esdSLBmv3AbmGM6yia6lBSlQWWIMky8pRyGB8BX0YXKQQ3
+	• Last decade
+		Embase <1974 to 2022 November 17>
+		
+		1	brain depth stimulation/	49337
+		2	limit 1 to last 10 years	29167
+		3	limit 1 to (embase or medline)	39944
+		4	limit 2 to (conference abstract or conference paper or "conference review")	8076
+		5	2 not 4	21091
+		6	limit 5 to human	17932
+		7	limit 6 to "review"	4246
+		8	limit 6 to "reviews (maximizes specificity)"	805
+		9	limit 6 to "reviews (maximizes sensitivity)"	8049
+		10	limit 6 to "reviews (best balance of sensitivity and specificity)"	4803
+		
+		https://libaccess.mcmaster.ca/login?url=http://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=N&PAGE=main&SHAREDSEARCHID=4a7APLagDHxCymSB6sb5jFUJv5wFU9hvzebhyCVvmPLJLmGKTnuAYx6ZvhVFCPFbT
+
+		Embase <1974 to 2022 November 17>
+		
+		1	brain depth stimulation/ and exp parkinson disease/	13855
+		2	limit 1 to last 10 years	9543
+		3	limit 1 to (embase or medline)	9760
+		4	limit 2 to (conference abstract or conference paper or "conference review")	3436
+		5	2 not 4	6107
+		6	limit 5 to human	5776
+		7	limit 6 to "review"	1241
+		8	limit 6 to "reviews (maximizes specificity)"	199
+		9	limit 6 to "reviews (maximizes sensitivity)"	2587
+		10	limit 6 to "reviews (best balance of sensitivity and specificity)"	1372
+		https://libaccess.mcmaster.ca/login?url=http://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=N&PAGE=main&SHAREDSEARCHID=4uNNkcFpxJMKzA6grK9D1OGYWVQjiIiuS3pltBVR0UDCzKdLhIGRoGn0DovFe7Mjr
+		
+		Embase <1974 to 2022 November 17>
+		
+		1	brain depth stimulation/ and exp tremor/	4443
+		2	limit 1 to last 10 years	3122
+		3	limit 1 to (embase or medline)	3166
+		4	limit 2 to (conference abstract or conference paper or "conference review")	1106
+		5	2 not 4	2016
+		6	limit 5 to human	1954
+		7	limit 6 to "review"	425
+		8	limit 6 to "reviews (maximizes specificity)"	65
+		9	limit 6 to "reviews (maximizes sensitivity)"	809
+		10	limit 6 to "reviews (best balance of sensitivity and specificity)"	470
+		https://libaccess.mcmaster.ca/login?url=http://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=N&PAGE=main&SHAREDSEARCHID=2OOguYvHdNsXufIgmc9Ix9JtDTyU6A4UsHfDeKSuLKaTtD94nyvXNmt8JiMx63cI9
+	• 2012 and earlier 
+		Embase <1974 to 2022 November 17>
+		
+		1	brain depth stimulation/	49337
+		2	limit 1 to yr="1883 - 2012"	22386
+		3	limit 1 to (embase or medline)	39944
+		4	limit 2 to (conference abstract or conference paper or "conference review")	2685
+		5	2 not 4	19701
+		6	limit 5 to human	11303
+		7	limit 6 to "review"	2401
+		8	limit 6 to "reviews (maximizes specificity)"	74
+		9	limit 6 to "reviews (maximizes sensitivity)"	3844
+		10	limit 6 to "reviews (best balance of sensitivity and specificity)"	2554
+		https://libaccess.mcmaster.ca/login?url=http://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=N&PAGE=main&SHAREDSEARCHID=Plx40iBGVHO0e0fubZTONT7nvuvJ1yCFzOuHxCZ8g4ICdjE1GzkMTV7z4AzwrQC3
+		
+		Embase <1974 to 2022 November 17>
+		
+		1	brain depth stimulation/ and exp parkinson disease/	13855
+		2	limit 1 to yr="1883 - 2012"	5124
+		3	limit 1 to (embase or medline)	9760
+		4	limit 2 to (conference abstract or conference paper or "conference review")	1241
+		5	2 not 4	3883
+		6	limit 5 to human	3585
+		7	limit 6 to "review"	837
+		8	limit 6 to "reviews (maximizes specificity)"	21
+		9	limit 6 to "reviews (maximizes sensitivity)"	1370
+		10	limit 6 to "reviews (best balance of sensitivity and specificity)"	881
+		https://libaccess.mcmaster.ca/login?url=http://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=N&PAGE=main&SHAREDSEARCHID=41pG3SUQQRXI9iOgdzcU7GmNXfuaXe9srL14baWGXoodaoBID2cciEyAfIGsL5x7L
+		
+		Embase <1974 to 2022 November 17>
+		
+		1	brain depth stimulation/ and exp tremor/	4443
+		2	limit 1 to yr="1883 - 2012"	1588
+		3	limit 1 to (embase or medline)	3166
+		4	limit 2 to (conference abstract or conference paper or "conference review")	352
+		5	2 not 4	1236
+		6	limit 5 to human	1165
+		7	limit 6 to "review"	327
+		8	limit 6 to "reviews (maximizes specificity)"	6
+		9	limit 6 to "reviews (maximizes sensitivity)"	444
+		10	limit 6 to "reviews (best balance of sensitivity and specificity)"	337
+		https://libaccess.mcmaster.ca/login?url=http://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=N&PAGE=main&SHAREDSEARCHID=6iyR8Ep8uVcEcOUdJqEt3BVhHptkJtzlDbonMS0fpLeDB8iu6VD9OAQScwd03TDzL
