@@ -1,6 +1,7 @@
 # Literature covering DBS for movement disorders
 ## Methodology
 - Literature topics were search based only on Embase's pre-indexed Emtree terms (no manual regular expressions were used) hence, these numbers are only approximations 
+  - Raw search strategy and results found in [`search_strategies.text`](search_strategies.txt)
 - A paper was labelled as "review" or "non-review" based on "Publication Type" tag via Ovid interface to Embase
   - These tags are supposedly manually index by indexers at the National Library of Medicine (https://ospguides.ovid.com/OSPguides/ovrndb.htm#PT)
 - Lower and upper bounds of number of review papers are estimated using Ovid's built in Clinical Queries filter which use regular expression filters to optimize for sensitivity and specificity 
