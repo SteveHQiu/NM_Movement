@@ -26,7 +26,8 @@ The proportion of review papers for DBS in general, DBS in Parkinson's, and DBS 
 
 # Discovered topic clusters for DBS in Parkinson's
 ## Summary:
-81 topics discovered from 7276 abstracts
+- 81 topics discovered from 7276 abstracts using Top2Vec library
+- Analysis and figures generated through https://github.com/EndorphinSponge/NLP_Tools
 
 ## Wordclouds for top 3 clusters:
 Topic 0 - 396 abstracts
