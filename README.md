@@ -1,7 +1,43 @@
+# DBS for obesity and eating disorders
+## Methodology
+- Search strategy
+  - Embase database (1974 - 2023) via Ovid interface
+  - Main search for DBS and obesity/eating disorder mapped to their respective terms:
+    - "brain depth stimulation/ and (exp obesity/ or exp eating disorder/)"
+    - Returns 731 hits
+  - Limit main search to human studies 
+    - Returns 557 hits
+- 557 articles were exported to Covidence for screening and labelling
+  - Exported data with labels can be found in [`data\obesity_eating_v1_covidence_annot.csv`](data\obesity_eating_v1_covidence_annot.csv)
+- Screening + study labelling strategy
+  - Inclusion:
+    - Has data/discussion on DBS as a treatment for obesity or eating disorders
+    - Review papers with a broader topic that still covers DBS for obesity or eating disorders (e.g., DBS for neuropsychiatric disorders or neuromodulation for obesity)
+  - Exclusion:
+    - Articles primarily discussing ethics of DBS use
+    - Articles that only study non-invasive methods for obesity/eating disorders
+    - Articles centered around physiology/anatomy (e.g., using DBS patient data for connectivity mapping)
+  - Studies marked as "studies with outcomes data":
+    - Non-review, non-case study articles that have data on the treatment efficacy of DBS on obesity or eating disorders in terms of clinical outcome measurements
+- Clinicaltrials.gov search terms (terms are automatically mapped to standardized terms)
+  - Eating disorders: Eating disorders + Deep brain stimulation
+  - Obesity: Obesity + Deep brain stimulation
+- 
+
+## Results
+| | Total | Number of studies with outcomes data | Number of trials on Clinicaltrials.gov (completed/active) |
+| ---- | ---- | ---- | ---- |
+| Obesity + eating disorders | 89 | 16 (18.0%) | 6 |
+| Eating disorders | 60 | 11 (18.3%) | 2 |
+| Obesity | 50 | 5 (10.0%) | 4 |
+
+Notes: 
+- 4 of the 11 entries containing outcomes data for eating disorders are follow-up studies so the true number of unique studies may be 7
+
 # Literature covering DBS for movement disorders
 ## Methodology
 - Literature topics were search based only on Embase's pre-indexed Emtree terms (no manual regular expressions were used) hence, these numbers are only approximations 
-  - Raw search strategy and results found in [`search_strategies.text`](search_strategies.txt)
+  - Raw search strategy and results found in [`search_strategies.txt`](search_strategies.txt)
 - A paper was labelled as "review" or "non-review" based on "Publication Type" tag via Ovid interface to Embase
   - These tags are supposedly manually index by indexers at the National Library of Medicine (https://ospguides.ovid.com/OSPguides/ovrndb.htm#PT)
 - Lower and upper bounds of number of review papers are estimated using Ovid's built in Clinical Queries filter which use regular expression filters to optimize for sensitivity and specificity 
