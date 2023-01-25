@@ -22,10 +22,9 @@
 - Clinicaltrials.gov search terms (terms are automatically mapped to standardized terms)
   - Eating disorders: Eating disorders + Deep brain stimulation
   - Obesity: Obesity + Deep brain stimulation
-- 
 
 ## Results
-| | Total | Number of studies with outcomes data | Number of trials on Clinicaltrials.gov (completed/active) |
+| | Total number of included articles | Number of articles with outcomes data | Number of trials on Clinicaltrials.gov (completed/active) |
 | ---- | ---- | ---- | ---- |
 | Obesity + eating disorders | 89 | 16 (18.0%) | 6 |
 | Eating disorders | 60 | 11 (18.3%) | 2 |
