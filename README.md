@@ -33,6 +33,26 @@
 Notes: 
 - 4 of the 11 entries containing outcomes data for eating disorders are follow-up studies so the true number of unique studies may be 7
 
+# DBS for addiction disorders
+## Methods
+- Clinicaltrials.gov search terms:
+  - ("Addiction" OR "Substance") AND "Deep brain stimulation"
+
+## Results
+| | Total number of included articles | Number of articles with outcomes data | Clinicaltrials.gov trials (completed/active) | Clinicaltrials.gov trials (recruiting) | Clinicaltrials.gov trials (unknown status) | 
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| Any substance addiction | 180 | 18 (10.0%) | 2 | 3 | 12 |
+
+# DBS for dementia
+## Methods
+- Clinicaltrials.gov search terms:
+  - ("Dementia" OR "Alzheimer") AND "Deep brain stimulation"
+
+## Results
+| | Total number of included articles | Number of articles with outcomes data | Clinicaltrials.gov trials (completed/active) | Clinicaltrials.gov trials (recruiting) | Clinicaltrials.gov trials (unknown status) | 
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| Any substance addiction | 213 | 23 (10.8%) | 10 | 2 | 8 |
+
 # Literature covering DBS for movement disorders
 ## Methodology
 - Literature topics were search based only on Embase's pre-indexed Emtree terms (no manual regular expressions were used) hence, these numbers are only approximations 

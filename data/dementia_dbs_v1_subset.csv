@@ -1,0 +1,10453 @@
+﻿Title,Authors,KW,MH,OD,Abstract,Journal,Published Year,DU
+Virtual neural network-guided optimization of non-invasive brain stimulation in Alzheimer's disease.,"Luppi J.J.
+
+Stam C.J.
+
+Scheltens P.
+
+de Haan W.","Alzheimer's disease
+
+electrophysiology
+
+network neuroscience
+
+neural mass model
+
+transcranial direct current stimulation","adult
+
+*algorithm
+
+*Alzheimer disease
+
+animal experiment
+
+animal model
+
+*brain depth stimulation
+
+cathode electrode
+
+cohort analysis
+
+controlled study
+
+deterioration
+
+*electrophysiology
+
+excitability
+
+female
+
+follow up
+
+human
+
+magnetoencephalography
+
+male
+
+*nerve cell network
+
+*neuroscience
+
+nonhuman
+
+outcome assessment
+
+prediction
+
+pyramidal nerve cell
+
+simulation
+
+spectroscopy
+
+*transcranial direct current stimulation","adult [m]
+
+*algorithm [m]
+
+*Alzheimer disease [m]
+
+animal experiment [m]
+
+animal model [m]
+
+*brain depth stimulation [m]
+
+cathode electrode [m]
+
+cohort analysis [m]
+
+controlled study [m]
+
+deterioration [m]
+
+*electrophysiology [m]
+
+excitability [m]
+
+female [m]
+
+follow up [m]
+
+human [m]
+
+magnetoencephalography [m]
+
+male [m]
+
+*nerve cell network [m]
+
+*neuroscience [m]
+
+nonhuman [m]
+
+outcome assessment [m]
+
+prediction [m]
+
+pyramidal nerve cell [m]
+
+simulation [m]
+
+spectroscopy [m]
+
+*transcranial direct current stimulation [m]","Transcranial direct current stimulation (tDCS) is a non-invasive brain stimulation technique with potential for counteracting disrupted brain network activity in Alzheimer's disease (AD) to improve cognition. However, the results of tDCS studies in AD have been variable due to different methodological choices such as electrode placement. To address this, a virtual brain network model of AD was used to explore tDCS optimization. We compared a large, representative set of virtual tDCS intervention setups, to identify the theoretically optimized tDCS electrode positions for restoring functional network features disrupted in AD. We simulated 20 tDCS setups using a computational dynamic network model of 78 neural masses coupled according to human structural topology. AD network damage was simulated using an activity-dependent degeneration algorithm. Current flow modeling was used to estimate tDCS-targeted cortical regions for different electrode positions, and excitability of the pyramidal neurons of the corresponding neural masses was modulated to simulate tDCS. Outcome measures were relative power spectral density (alpha bands, 8-10 Hz and 10-13 Hz), total spectral power, posterior alpha peak frequency, and connectivity measures phase lag index (PLI) and amplitude envelope correlation (AEC). Virtual tDCS performance varied, with optimized strategies improving all outcome measures, while others caused further deterioration. The best performing setup involved right parietal anodal stimulation, with a contralateral supraorbital cathode. A clear correlation between the network role of stimulated regions and tDCS success was not observed. This modeling-informed approach can guide and perhaps accelerate tDCS therapy development and enhance our understanding of tDCS effects. Follow-up studies will compare the general predictions to personalized virtual models and validate them with tDCS-magnetoencephalography (MEG) in a clinical AD patient cohort.Copyright The copyright holder for this preprint is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made available under a CC-BY 4.0 International license.",bioRxiv,09-May-23,
+A cingulate-hippocampal circuit mediates early depressive symptoms in Alzheimer's disease.,"Chen Y.
+
+Peng H.
+
+Zhuang K.
+
+Xie W.
+
+Li C.
+
+Xue J.
+
+Chen M.
+
+Huang X.
+
+Zou T.
+
+Wang Y.
+
+Can D.
+
+Li H.
+
+Yuan T.
+
+Zhang J.",,"5xFAD mouse
+
+*Alzheimer disease
+
+animal experiment
+
+animal model
+
+anterior cingulate
+
+axon
+
+brain depth stimulation
+
+cingulate gyrus
+
+cognitive defect
+
+controlled study
+
+*depression
+
+emotion
+
+hippocampal CA1 region
+
+*hippocampus
+
+human
+
+in vivo study
+
+male
+
+mouse
+
+nonhuman
+
+photometry
+
+synapse
+
+calcium
+
+endogenous compound
+
+glutamic acid
+
+neu differentiation factor","5xFAD mouse [m]
+
+*Alzheimer disease [m]
+
+animal experiment [m]
+
+animal model [m]
+
+anterior cingulate [m]
+
+axon [m]
+
+brain depth stimulation [m]
+
+cingulate gyrus [m]
+
+cognitive defect [m]
+
+controlled study [m]
+
+*depression [m]
+
+emotion [m]
+
+hippocampal CA1 region [m]
+
+*hippocampus [m]
+
+human [m]
+
+in vivo study [m]
+
+male [m]
+
+mouse [m]
+
+nonhuman [m]
+
+photometry [m]
+
+synapse [m]","Depressive symptoms are prevalent and precedes cognitive decline in Alzheimer's disease (AD), which worsen the clinical outcome and severely challenge the life quality of the patients. However, the neural circuitry mediating mood disturbance in AD remains elusive. Here we report that the glutamatergic projection from the anterior cingulate cortex (ACC) to the ventral hippocampal CA1 (vCA1) acts as the neural substrate of depressive symptoms in AD. We systemically mapped axonal projection in early stage of 5xFAD mice (3 months), which accompanies depressive-like behavior in these animals and identified reduced axonal projection from ACC to vCA1. This is in accordance with reduced axonal calcium signals detected with in vivo fiber photometry. Chemogenetic or optogenetic reversal of ACC-vCA1 circuitry activity efficiently ameliorated the depressive-like behaviors as well as cognitive impairment in 5xFAD mice. We further identified the synaptic molecules neuregulin-1 (Nrg1) as one vital signal regulating the synaptic glutamate transmission from the ACC to the vCA1. Collectively, these results indicated ACC-vCA1 as a critical pathway that regulates emotional states in Alzheimer' disease. Targeting cingulate cortices with brain stimulation may treat depression in AD.Copyright The copyright holder for this preprint is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made available under a CC-BY 4.0 International license.",bioRxiv,07-Feb-23,"calcium [m]
+
+endogenous compound [m]
+
+glutamic acid [m]
+
+neu differentiation factor [m]"
+Optimal Stimulation Sites and Networks for Deep Brain Stimulation of the Fornix in Alzheimer's Disease.,"Rios A.S.
+
+Oxenford S.
+
+Neudorfer C.
+
+Butenko K.
+
+Li N.
+
+Rajamani N.
+
+Boutet A.
+
+Elias G.J.B.
+
+Germann J.
+
+Loh A.
+
+Deeb W.
+
+Wang F.
+
+Setsompop K.
+
+Salvato B.
+
+Almeida L.
+
+Foote K.D.
+
+Amaral R.
+
+Rosenberg P.B.
+
+Tang-Wai D.F.
+
+Wolk D.A.
+
+Burke A.D.
+
+Salloway S.
+
+Sabbagh M.N.
+
+Chakravarty M.M.
+
+Smith G.S.
+
+Lyketsos C.G.
+
+Okun M.S.
+
+Anderson W.S.
+
+Mari Z.
+
+Ponce F.A.
+
+Lozano A.M.
+
+Horn A.","Alzheimer's disease (AD)
+
+Connectome
+
+Deep Brain Stimulation (DBS)
+
+Fornix
+
+Network mapping
+
+Structural Connectivity","adult
+
+*Alzheimer disease
+
+*brain depth stimulation
+
+*brain fornix
+
+clinical article
+
+cohort analysis
+
+*connectome
+
+controlled study
+
+cross validation
+
+female
+
+functional connectivity
+
+guiding device
+
+human
+
+male
+
+memory
+
+nerve cell network
+
+stria terminalis","adult [m]
+
+*Alzheimer disease [m]
+
+*brain depth stimulation [m]
+
+*brain fornix [m]
+
+clinical article [m]
+
+cohort analysis [m]
+
+*connectome [m]
+
+controlled study [m]
+
+cross validation [m]
+
+female [m]
+
+functional connectivity [m]
+
+guiding device [m]
+
+human [m]
+
+male [m]
+
+memory [m]
+
+nerve cell network [m]
+
+stria terminalis [m]","Deep brain stimulation (DBS) to the fornix is an investigational treatment option for patients with mild Alzheimer's Disease. Outcomes from randomized clinical trials have shown that cognitive function improved in some patients but deteriorated in others. One reason could be variance in electrode placement leading to differential engagement of neural circuits. To investigate this, we analyzed a multi-center cohort of 46 patients with DBS to the fornix. Using normative structural and functional connectivity data, we demonstrate that stimulation of the circuit of Papez and stria terminalis robustly associated with cognitive improvement (R = 0.45, p = 0.031). On a local level, the optimal stimulation site resided at the direct interface between these structures (R = 0.33, p = 0.016). Finally, modulating specific distributed brain networks related to memory accounted for optimal outcomes (R = 0.38, p = 0.006). Findings were robust to multiple cross-validation designs and may now define an optimal network target which could subsequently guide refinement of DBS surgery and programming.Copyright The copyright holder for this preprint is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. It is made available under a CC-BY-NC 4.0 International license.",medRxiv,09-Sep-22,
+Gamma connectivity predicts response to intermittent Theta Burst Stimulation in Alzheimer's disease: A randomised controlled trial.,"Hoy K.E.
+
+Emonson M.R.L.
+
+Bailey N.W.
+
+Rogers C.
+
+Coyle H.
+
+Stockman F.
+
+Fitzgerald P.B.","cognitive disorders
+
+experimental therapeutics
+
+functional connectivity
+
+non-invasive brain stimulation","adult
+
+*Alzheimer disease
+
+*brain depth stimulation
+
+cognition
+
+*cognitive defect
+
+controlled study
+
+dorsolateral prefrontal cortex
+
+electroencephalogram
+
+episodic memory
+
+female
+
+functional assessment
+
+*functional connectivity
+
+human
+
+major clinical study
+
+male
+
+randomized controlled trial
+
+recall","adult [m]
+
+*Alzheimer disease [m]
+
+*brain depth stimulation [m]
+
+cognition [m]
+
+*cognitive defect [m]
+
+controlled study [m]
+
+dorsolateral prefrontal cortex [m]
+
+electroencephalogram [m]
+
+episodic memory [m]
+
+female [m]
+
+functional assessment [m]
+
+*functional connectivity [m]
+
+human [m]
+
+major clinical study [m]
+
+male [m]
+
+randomized controlled trial [m]
+
+recall [m]","Alzheimer's disease is characterised by progressive cognitive decline for which there are currently no effective treatments. There is growing evidence that neural network dysfunction is a likely proximate cause of cognitive impairment in Alzheimer's and, as such, may represent a promising therapeutic target. Here we investigated whether a course of intermittent Theta Burst Stimulation (iTBS) could modulate functional connectivity and cognitive function in mild to moderate Alzheimer's disease. Fifty-eight participants were randomised to receive a course of either active or sham iTBS. Stimulation was applied to four brain sites sequentially in each treatment session: left DLPFC, right DLPFC, left PPC, and right PPC. Neurobiological (EEG), cognitive (CogState, ADASCog), and functional (QoL-AD, GDS) assessments were undertaken at baseline and end of treatment. Cognitive and functional assessments were also conducted at 3-months (blinded) and 6-months (active group only) following end of treatment. Active iTBS resulted in a significant and large increase in resting state gamma connectivity as well as improved delayed recall on an episodic memory task. Both baseline gamma connectivity, and change in gamma connectivity, were found to be predictive of improved delayed recall following active treatment. These findings support future research into iTBS for the treatment of Alzheimer's disease focussing on protocol optimisation.Copyright The copyright holder for this preprint is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. All rights reserved. No reuse allowed without permission.",medRxiv,22-Feb-22,
+Genetic screening for Huntington disease phenocopies in Sweden: A tertiary center case series focused on short tandem repeat (STR) disorders.,"Paucar M.
+
+Laffita-Mesa J.
+
+Niemela V.
+
+Malmgren H.
+
+Nennesmo I.
+
+Lagerstedt-Robinson K.
+
+Nordenskjold M.
+
+Svenningsson P.","Chorea
+
+Huntington's disease phenocopies
+
+Huntington's disease-like","adult
+
+amyotrophic lateral sclerosis
+
+article
+
+blood donor
+
+brain depth stimulation
+
+CAG repeat
+
+cerebellar ataxia
+
+chorea
+
+clinical feature
+
+cohort analysis
+
+congenital hypothyroidism
+
+dementia
+
+demographics
+
+depression
+
+ethnic background
+
+family history
+
+female
+
+frontotemporal dementia
+
+genetic analysis
+
+*genetic screening
+
+genetic susceptibility
+
+genotype
+
+geriatrician
+
+human
+
+human tissue
+
+Huntington chorea/di [Diagnosis]
+
+*Huntington disease like syndrome
+
+intellectual impairment
+
+involuntary movement
+
+Machado Joseph disease
+
+major clinical study
+
+male
+
+molecular diagnosis
+
+myoclonus dystonia/di [Diagnosis]
+
+neurologist
+
+patient referral
+
+pedigree
+
+prion disease/di [Diagnosis]
+
+psychiatrist
+
+psychosis
+
+*short tandem repeat
+
+sibling
+
+special education
+
+spinocerebellar degeneration/di [Diagnosis]
+
+Sweden
+
+treatment refusal
+
+ataxin/ec [Endogenous Compound]
+
+ataxin 2/ec [Endogenous Compound]
+
+ataxin 3/ec [Endogenous Compound]
+
+epsilon sarcoglycan/ec [Endogenous Compound]
+
+guanine nucleotide exchange C9orf72/ec [Endogenous Compound]
+
+nucleotide/ec [Endogenous Compound]
+
+octapeptide/ec [Endogenous Compound]
+
+prion protein/ec [Endogenous Compound]
+
+TATA binding protein/ec [Endogenous Compound]
+
+unclassified drug
+
+spinocerebellar ataxia 17 protein/ec [Endogenous Compound]","adult
+
+amyotrophic lateral sclerosis
+
+Article
+
+blood donor
+
+brain depth stimulation
+
+CAG repeat
+
+cerebellar ataxia
+
+chorea
+
+clinical feature
+
+cohort analysis
+
+congenital hypothyroidism
+
+dementia
+
+demographics
+
+depression
+
+ethnic background
+
+family history
+
+female
+
+frontotemporal dementia
+
+genetic analysis
+
+*genetic screening
+
+genetic susceptibility
+
+genotype
+
+geriatrician
+
+human
+
+human tissue
+
+Huntington chorea / diagnosis
+
+*Huntington disease like syndrome
+
+intellectual impairment
+
+involuntary movement
+
+Machado Joseph disease
+
+major clinical study
+
+male
+
+molecular diagnosis
+
+myoclonus dystonia / diagnosis
+
+neurologist
+
+patient referral
+
+pedigree
+
+prion disease / diagnosis
+
+psychiatrist
+
+psychosis
+
+*short tandem repeat
+
+sibling
+
+special education
+
+spinocerebellar degeneration / diagnosis
+
+Sweden
+
+treatment refusal","Objective: To perform a screening for Huntington disease (HD) phenocopies in a Swedish cohort. Method(s): Seventy-three DNA samples negative for HD were assessed at a tertiary center in Stockholm. The screening included analyses for C9orf72-frontotemporal dementia/amyotrophic lateral sclerosis (C9orf72-FTD/ALS), octapeptide repeat insertions (OPRIs) in PRNP associated with inherited prion diseases (IPD), Huntington's disease-like 2 (HDL2), spinocerebellar ataxia-2 (SCA2), spinocerebellar ataxia 3 (SCA3) and spinocerebellar ataxia-17 (SCA17). Targeted genetic analysis was carried out in two cases based on the salient phenotypic features. Result(s): The screening identified two patients with SCA17, one patient with IPD associated with 5-OPRI but none with nucleotide expansions in C9orf72 or for HDL2, SCA2 or SCA3. Furthermore, SGCE-myoclonic-dystonia 11 (SGCE-M-D) and benign hereditary chorea (BHC) was diagnosed in two sporadic cases. WES identified VUS in STUB1 in two patients with predominant cerebellar ataxia. Conclusion(s): Our results are in keeping with previous screenings and suggest that other genes yet to be discovered are involved in the etiology of HD phenocopies.Copyright © 2023 The Authors",Journal of the Neurological Sciences,15-Aug-23,"ataxin / endogenous compound
+
+ataxin 2 / endogenous compound
+
+ataxin 3 / endogenous compound
+
+epsilon sarcoglycan / endogenous compound
+
+guanine nucleotide exchange C9orf72 / endogenous compound
+
+nucleotide / endogenous compound
+
+octapeptide / endogenous compound
+
+prion protein / endogenous compound
+
+TATA binding protein / endogenous compound
+
+unclassified drug"
+Dorsolateral Nigral Hyperintensity on 1.5 T Versus 3 T Susceptibility-Weighted Magnetic Resonance Imaging in Neurodegenerative Parkinsonism.,"Grossauer A.
+
+Muller C.
+
+Hussl A.
+
+Krismer F.
+
+Schocke M.
+
+Gizewski E.
+
+Mahlknecht P.
+
+Scherfler C.
+
+Wenning G.K.
+
+Poewe W.
+
+Seppi K.
+
+Heim B.","dorsolateral nigral hyperintensity
+
+multiple system atrophy
+
+Parkinson's disease
+
+progressive supranuclear palsy
+
+susceptibility-weighted imaging","aged
+
+article
+
+brain atrophy
+
+brain depth stimulation
+
+brain size
+
+clinical article
+
+clinical assessment
+
+comparative study
+
+controlled study
+
+*degenerative disease
+
+dementia
+
+demographics
+
+diagnostic accuracy
+
+diagnostic test accuracy study
+
+disease duration
+
+disease severity
+
+Expanded Disability Status Scale
+
+female
+
+gray matter
+
+human
+
+image analysis
+
+interrater reliability
+
+major clinical study
+
+male
+
+Montreal cognitive assessment
+
+multiple sclerosis
+
+neuropsychological assessment
+
+neuroradiologist
+
+*nuclear magnetic resonance imaging
+
+Parkinson disease
+
+*parkinsonism
+
+predictive value
+
+primary medical care
+
+progressive supranuclear palsy
+
+prospective study
+
+scoring system
+
+sensitivity and specificity
+
+Shy Drager syndrome
+
+susceptibility weighted imaging
+
+Unified Parkinson Disease Rating Scale
+
+calbindin/pv [Special Situation for Pharmacovigilance]
+
+*MRI scanner
+
+Magnetom Avanto 1.5 T
+
+Magnetom Verio 3 T","aged
+
+Article
+
+brain atrophy
+
+brain depth stimulation
+
+brain size
+
+clinical article
+
+clinical assessment
+
+comparative study
+
+controlled study
+
+*degenerative disease
+
+dementia
+
+demographics
+
+diagnostic accuracy
+
+diagnostic test accuracy study
+
+disease duration
+
+disease severity
+
+Expanded Disability Status Scale
+
+female
+
+gray matter
+
+human
+
+image analysis
+
+interrater reliability
+
+major clinical study
+
+male
+
+Montreal cognitive assessment
+
+multiple sclerosis
+
+neuropsychological assessment
+
+neuroradiologist
+
+*nuclear magnetic resonance imaging
+
+Parkinson disease
+
+*parkinsonism
+
+predictive value
+
+primary medical care
+
+progressive supranuclear palsy
+
+prospective study
+
+scoring system
+
+sensitivity and specificity
+
+Shy Drager syndrome
+
+susceptibility weighted imaging
+
+Unified Parkinson Disease Rating Scale","Background: An absent dorsolateral nigral hyperintensity (DNH) is a common finding in patients with neurodegenerative parkinsonism at high or ultra-high field susceptibility-weighted magnetic resonance imaging (SWI). Objective(s): Despite increasing use of high field magnetic resonance imaging (MRI) in specialized centers, these scanners are still frequently unavailable in primary care or outpatient facilities and underdeveloped or emerging countries. Therefore, the aim of the present study was to evaluate the diagnostic utility of DNH assessment at 1.5 versus 3 T MRI to distinguish patients with neurodegenerative parkinsonism, including Parkinson's disease (PD), multiple system atrophy (MSA) and progressive supranuclear palsy (PSP), from healthy controls (HC). Method(s): Absence of DNH was assessed on visual inspection of anonymized 1.5 T and 3.0 T SWI scans in a case-control study including 86 patients with neurodegenerative parkinsonism and 33 healthy controls (HC). All study participants were consecutively recruited to undergo 1.5 and 3 T MRI. Result(s): Overall correct classification was 81.7% (95% CI, 72.6-88.4%) for 1.5 T and 95.7% (95% CI, 89.1-98.7%) for 3 T MRI in discriminating neurodegenerative parkinsonism from controls. However, while DNH was bilaterally present in all but one of the HC at 3 T MRI, it was rated as abnormal (at least unilateral absence) in 15 of 22 HC at 1.5 T MRI, resulting in a specificity of 31.8%. Conclusion(s): The results of the present study demonstrate an insufficient specificity of visual assessment of DNH at 1.5 T MRI for the diagnosis of neurodegenerative parkinsonism.Copyright © 2023 The Authors. Movement Disorders Clinical Practice published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",Movement Disorders Clinical Practice,Jun-23,calbindin / special situation for pharmacovigilance
+Innovative perspectives in limbic surgery using deep brain stimulation.,"Carrillo-Ruiz J.D.
+
+Carrillo-Marquez J.R.
+
+Beltran J.Q.
+
+Jimenez-Ponce F.
+
+Garcia-Munoz L.
+
+Navarro-Olvera J.L.
+
+Marquez-Franco R.
+
+Velasco F.","aggressiveness
+
+anxiety
+
+dementia
+
+drug usage
+
+eating disorders
+
+limbic surgery
+
+psychosurgery
+
+transhumanism","aggressiveness
+
+Alzheimer disease/su [Surgery]
+
+anxiety
+
+*brain depth stimulation
+
+dementia
+
+drug dependence/su [Surgery]
+
+eating disorder/su [Surgery]
+
+electrophysiology
+
+human
+
+mental disease/su [Surgery]
+
+neuromodulation
+
+*neurosurgery
+
+Parkinson disease
+
+psychosurgery
+
+schizophrenia/su [Surgery]
+
+short survey
+
+systematic review
+
+thalamotomy
+
+treatment indication
+
+brain computer interface
+
+*limbic surgery","aggressiveness
+
+Alzheimer disease / surgery
+
+anxiety
+
+*brain depth stimulation
+
+dementia
+
+drug dependence / surgery
+
+eating disorder / surgery
+
+electrophysiology
+
+human
+
+mental disease / surgery
+
+neuromodulation
+
+*neurosurgery
+
+Parkinson disease
+
+psychosurgery
+
+schizophrenia / surgery
+
+Short Survey
+
+systematic review
+
+thalamotomy
+
+treatment indication","Limbic surgery is one of the most attractive and retaken fields of functional neurosurgery in the last two decades. Psychiatric surgery emerged from the incipient work of Moniz and Lima lesioning the prefrontal cortex in agitated patients. Since the onset of stereotactic and functional neurosurgery with Spiegel and Wycis, the treatment of mental diseases gave attention to refractory illnesses mainly with the use of thalamotomies. Neurosis and some psychotic symptoms were treated by them. Several indications when lesioning the brain were included: obsessive-compulsive disorder, depression, and aggressiveness among others with a diversity of targets. The indiscriminately use of anatomical sites without enough scientific evidence, and uncertainly defined criteria for selecting patients merged with a deficiency in ethical aspects, brought a lack of procedures for a long time: only select clinics allowed this surgery around the world from 1950 to the 1990s. In 1999, Nuttin et al. began a new chapter in limbic surgery with the use of Deep Brain Stimulation, based on the experience of pain, Parkinson's disease, and epilepsy. The efforts were focused on different targets to treat depression and obsessive-compulsive disorders. Nevertheless, other diseases were added to use neuromodulation. The goal of this article is to show the new opportunities to treat neuropsychiatric diseases.Copyright © 2023 Carrillo-Ruiz, Carrillo-Marquez, Beltran, Jimenez-Ponce, Garcia-Munoz, Navarro-Olvera, Marquez-Franco and Velasco.",Frontiers in Neuroscience,2023,
+Alzheimer's Pathogenesis and Treatment by Transcranial Pulse Stimulation.,"Naydenov C.
+
+Manolova T.
+
+Mindov I.","Alzheimer's novel treatment
+
+TPS effects
+
+Ultrasound brain stimulation","*Alzheimer disease
+
+article
+
+blood flow
+
+brain depth stimulation
+
+brain mitochondrion
+
+cell death
+
+degenerative disease
+
+diabetes mellitus
+
+DNA damage
+
+gene expression
+
+human
+
+medial temporal lobe
+
+nerve regeneration
+
+obesity
+
+*pathogenesis
+
+protein expression
+
+protein structure
+
+*stimulation
+
+synaptic dysfunction
+
+ultrasound
+
+adenosine triphosphate
+
+amyloid beta protein
+
+glucose transporter 3
+
+growth factor
+
+reactive oxygen metabolite
+
+streptozocin
+
+tau protein
+
+*transcranial pulse stimulation","*Alzheimer disease
+
+Article
+
+blood flow
+
+brain depth stimulation
+
+brain mitochondrion
+
+cell death
+
+degenerative disease
+
+diabetes mellitus
+
+DNA damage
+
+gene expression
+
+human
+
+medial temporal lobe
+
+nerve regeneration
+
+obesity
+
+*pathogenesis
+
+protein expression
+
+protein structure
+
+*stimulation
+
+synaptic dysfunction
+
+ultrasound","The article discusses the use of transcranial pulse stimulation (TPS), a treatment method that uses ultrasound to penetrate the brain up to 8 cm. The article aims to review published studies on the effects of TPS on Alzheimer's disease and to link the mechanism of the treatment with the pathophysiology of the disease. The discussion highlights the pathological triad of senile plaques, neurofibrillary tangles, and granular degeneration that causes Alzheimer's disease. Patients with diabetes mellitus are predisposed to degenerative diseases, and the overlap between Alzheimer's disease and obesity may be explained by the use of streptozotocin, which generates reactive oxygen species leading to DNA damage and cell death. The accumulation of beta-amyloid in the brain, mitochondrial malfunction, decreased production of ATP, and energy insufficiency is also discussed. The article concludes that TPS is a potential treatment for Alzheimer's disease and that it can boost the expression of growth factors, enhance the flow of blood to the brain, trigger the creation of novel blood vessels, and promote the regeneration of nerves.Copyright © 2023, Scientific Foundation SPIROSKI. All rights reserved.",Open Access Macedonian Journal of Medical Sciences,04-Jan-23,"adenosine triphosphate
+
+amyloid beta protein
+
+glucose transporter 3
+
+growth factor
+
+reactive oxygen metabolite
+
+streptozocin
+
+tau protein"
+The cognitive dysfunction of claustrum on Alzheimer's disease: A mini-review.,"Chen C.-Y.
+
+Yang G.-Y.
+
+Tu H.-X.
+
+Weng X.-C.
+
+Hu C.
+
+Geng H.-Y.","Alzheimer's disease
+
+claustrum
+
+cognitive dysfunction
+
+neural circuits
+
+pathology","*Alzheimer disease
+
+attention
+
+brain atrophy
+
+brain depth stimulation
+
+*claustrum
+
+cognition
+
+*cognitive defect
+
+degenerative disease
+
+dementia
+
+executive function
+
+human
+
+language
+
+memory
+
+mental disease
+
+neurofibrillary tangle
+
+neuropathology
+
+nonhuman
+
+short survey
+
+spatial attention
+
+amyloid beta protein","*Alzheimer disease
+
+attention
+
+brain atrophy
+
+brain depth stimulation
+
+*claustrum
+
+cognition
+
+*cognitive defect
+
+degenerative disease
+
+dementia
+
+executive function
+
+human
+
+language
+
+memory
+
+mental disease
+
+neurofibrillary tangle
+
+neuropathology
+
+nonhuman
+
+Short Survey
+
+spatial attention","Alzheimer's disease (AD) is one of the most common neurodegenerative diseases characterized by cognitive deficits and dementia. AD entails predominant pathological characteristics including amyloid beta (Abeta) plaque formation, neurofibrillary entanglements, and brain atrophy, which gradually result in cognitive dysfunctions. Studies showed that these pathological changes are found in a myriad of brain structures, including the claustrum (CLA), a nucleus that penetrates deeply into the brain and is extensively interconnected to various brain structures. The CLA modulates many aspects of cognitive functions, with attention, executive function, visuospatial ability, language, and memory in particular. It is also implicated in multiple neuropsychiatric disorders, of which one worthy of particular attention is AD-related cognitive impairments. To inspire novel AD treatment strategies, this review has summarized the CLA functionality in discriminative cognitive dysfunctions in AD. And then propose an array of potential mechanisms that might contribute to the cognitive impairments caused by an abnormal CLA physiology. We advocate that the CLA might be a new promising therapeutic target in combination with existing anti-AD drugs and brain stimulation approaches for future AD treatment.Copyright © 2023 Chen, Yang, Tu, Weng, Hu and Geng.",Frontiers in Aging Neuroscience,2023,amyloid beta protein
+The effects of noninvasive brain stimulation on cognitive function in patients with mild cognitive impairment and Alzheimer's disease using resting-state functional magnetic resonance imaging: A systematic review and meta-analysis.,"Wang T.
+
+Yan S.
+
+Lu J.","Alzheimer's disease
+
+fMRI
+
+mild cognitive impairment
+
+noninvasive brain stimulation","adult
+
+*Alzheimer disease
+
+article
+
+*brain depth stimulation
+
+brain function
+
+Cochrane Library
+
+*cognition
+
+comparative effectiveness
+
+controlled study
+
+cuneus
+
+data analysis
+
+Embase
+
+female
+
+*functional magnetic resonance imaging
+
+human
+
+male
+
+Medline
+
+middle frontal gyrus
+
+*mild cognitive impairment
+
+nerve cell network
+
+neuroimaging
+
+photosystem I
+
+precuneus
+
+randomized controlled trial (topic)
+
+software
+
+supplementary motor area
+
+systematic review
+
+Web of Science
+
+endogenous compound","adult [m]
+
+*Alzheimer disease [m]
+
+article [m]
+
+*brain depth stimulation [m]
+
+brain function [m]
+
+Cochrane Library [m]
+
+*cognition [m]
+
+comparative effectiveness [m]
+
+controlled study [m]
+
+cuneus [m]
+
+data analysis [m]
+
+Embase [m]
+
+female [m]
+
+*functional magnetic resonance imaging [m]
+
+human [m]
+
+male [m]
+
+Medline [m]
+
+middle frontal gyrus [m]
+
+*mild cognitive impairment [m]
+
+nerve cell network [m]
+
+neuroimaging [m]
+
+photosystem I [m]
+
+precuneus [m]
+
+randomized controlled trial (topic) [m]
+
+software [m]
+
+supplementary motor area [m]
+
+systematic review [m]
+
+Web of Science [m]","Objective: The aim of this systematic review and meta-analysis was to evaluate the efficacy of noninvasive brain stimulation (NIBS) on cognition using functional magnetic resonance imaging (fMRI) in patients with mild cognitive impairment (MCI) and Alzheimer's disease (AD), thus providing the neuroimaging mechanism of cognitive intervention. Method(s): English articles published up to April 30, 2023 were searched in the PubMed, Web of Science, Embase, and Cochrane Library databases. We included randomized controlled trials where resting-state fMRI was used to observe the effect of NIBS in patients with MCI or AD. RevMan software was used to analyze the continuous variables, and SDM-PSI software was used to perform an fMRI data analysis. Result(s): A total of 17 studies comprising 258 patients in the treatment group and 256 in the control group were included. After NIBS, MCI patients in the treatment group showed hyperactivation in the right precuneus and decreased activity in the left cuneus and right supplementary motor area. In contrast, patients in the control group showed decreased activity in the right middle frontal gyrus and no hyperactivation. The clinical cognitive scores in MCI patients were significantly improved by NIBS, while not in AD. Some evidence regarding the modulation of NIBS in resting-state brain activity and functional brain networks in patients with AD was found. Conclusion(s): NIBS could improve cognitive function in patients with MCI and AD. fMRI evaluations could be added to evaluate the contribution of specific NIBS treatment therapeutic effectiveness.Copyright © 2023 The Authors. CNS Neuroscience & Therapeutics published by John Wiley & Sons Ltd.",CNS Neuroscience and Therapeutics,2023,endogenous compound [m]
+Psychedelics as Novel Therapeutics in Alzheimer's Disease: Rationale and Potential Mechanisms.,"Garcia-Romeu A.
+
+Darcy S.
+
+Jackson H.
+
+White T.
+
+Rosenberg P.","Alzheimer's disease
+
+Dementia
+
+Hallucinogen
+
+Mild cognitive impairment (MCI)
+
+Psilocybin
+
+Psychedelic","*Alzheimer disease/dt [Drug Therapy]
+
+antiinflammatory activity
+
+anxiety
+
+brain atrophy
+
+brain depth stimulation
+
+cancer diagnosis
+
+cognition
+
+default mode network
+
+depression
+
+DSM-IV
+
+electroencephalogram
+
+emotionality
+
+functional magnetic resonance imaging
+
+gene expression
+
+hippocampus
+
+human
+
+life satisfaction
+
+memory
+
+memory disorder
+
+mental health
+
+Mini Mental State Examination
+
+mTOR signaling
+
+nerve cell plasticity
+
+neurotransmission
+
+nonhuman
+
+posterior cingulate
+
+protein expression
+
+quality of life
+
+reversal learning
+
+signal transduction
+
+upregulation
+
+working memory
+
+AMPA receptor/ec [Endogenous Compound]
+
+amyloid beta protein/ec [Endogenous Compound]
+
+anxiolytic agent/dt [Drug Therapy]
+
+brain derived neurotrophic factor/ec [Endogenous Compound]
+
+brain derived neurotrophic factor receptor/ec [Endogenous Compound]
+
+dopamine 2 receptor/ec [Endogenous Compound]
+
+escitalopram/dt [Drug Therapy]
+
+haloperidol/dt [Drug Therapy]
+
+psilocybine/dt [Drug Therapy]
+
+*psychedelic agent/dt [Drug Therapy]
+
+tau protein/ec [Endogenous Compound]","*Alzheimer disease / *drug therapy
+
+antiinflammatory activity
+
+anxiety
+
+brain atrophy
+
+brain depth stimulation
+
+cancer diagnosis
+
+cognition
+
+default mode network
+
+depression
+
+DSM-IV
+
+electroencephalogram
+
+emotionality
+
+functional magnetic resonance imaging
+
+gene expression
+
+hippocampus
+
+human
+
+life satisfaction
+
+memory
+
+memory disorder
+
+mental health
+
+Mini Mental State Examination
+
+mTOR signaling
+
+nerve cell plasticity
+
+neurotransmission
+
+nonhuman
+
+posterior cingulate
+
+protein expression
+
+quality of life
+
+reversal learning
+
+signal transduction
+
+upregulation
+
+working memory","Serotonin 2A receptor (5-HT2AR) agonist ""classic psychedelics"" are drawing increasing interest as potential mental health treatments. Recent work suggests psychedelics can exert persisting anxiolytic and antidepressant effects lasting up to several months after a single administration. Data indicate acute subjective drug effects as important psychological factors involved in observed therapeutic benefits. Additionally, animal models have shown an important role for 5-HT2AR agonists in modulating learning and memory function with relevance for Alzheimer's Disease (AD) and related dementias. A number of biological mechanisms of action are under investigation to elucidate 5-HT2AR agonists' therapeutic potential, including enhanced neuroplasticity, anti-inflammatory effects, and alterations in brain functional connectivity. These diverse lines of research are reviewed here along with a discussion of AD pathophysiology and neuropsychiatric symptoms to highlight classic psychedelics as potential novel pharmacotherapies for patients with AD. Human clinical research suggests a possible role for high-dose psychedelic administration in symptomatic treatment of depressed mood and anxiety in early-stage AD. Preclinical data indicate a potential for low- or high-dose psychedelic treatment regimens to slow or reverse brain atrophy, enhance cognitive function, and slow progression of AD. In conclusion, rationale and potential approaches for preliminary research with psychedelics in patients with AD are presented, and ramifications of this line of investigation for development of novel AD treatments are discussed.Copyright © 2021, The Author(s), under exclusive license to Springer Nature Switzerland AG.",,2022,"AMPA receptor / endogenous compound
+
+amyloid beta protein / endogenous compound
+
+anxiolytic agent / drug therapy
+
+brain derived neurotrophic factor / endogenous compound
+
+brain derived neurotrophic factor receptor / endogenous compound
+
+dopamine 2 receptor / endogenous compound
+
+escitalopram / drug therapy
+
+haloperidol / drug therapy
+
+psilocybine / drug therapy
+
+*psychedelic agent / *drug therapy
+
+tau protein / endogenous compound"
+Non-Pharmacological Treatments in Lewy Body Disease: A Systematic Review.,"Guidi L.
+
+Evangelisti S.
+
+Siniscalco A.
+
+Lodi R.
+
+Tonon C.
+
+Mitolo M.","Dementia with lewy bodies
+
+Lewy body disease
+
+Non-pharmacological treatments
+
+Parkinson's disease dementia
+
+Rehabilitation treatments","aged
+
+attention
+
+brain depth stimulation
+
+Cochrane Library
+
+cognition
+
+cognitive rehabilitation
+
+controlled study
+
+*dementia
+
+*diffuse Lewy body disease
+
+electroconvulsive therapy
+
+eligibility criteria
+
+human
+
+male
+
+Medline
+
+mental disease
+
+mood
+
+motor dysfunction
+
+*Parkinson disease
+
+PEDro
+
+phototherapy
+
+physiotherapy
+
+quality of life
+
+randomized controlled trial (topic)
+
+rehabilitation
+
+review
+
+satisfaction
+
+sleep quality
+
+systematic review
+
+transcranial direct current stimulation
+
+transcranial magnetic stimulation","aged [m]
+
+attention [m]
+
+brain depth stimulation [m]
+
+Cochrane Library [m]
+
+cognition [m]
+
+cognitive rehabilitation [m]
+
+controlled study [m]
+
+*dementia [m]
+
+*diffuse Lewy body disease [m]
+
+electroconvulsive therapy [m]
+
+eligibility criteria [m]
+
+human [m]
+
+male [m]
+
+Medline [m]
+
+mental disease [m]
+
+mood [m]
+
+motor dysfunction [m]
+
+*Parkinson disease [m]
+
+PEDro [m]
+
+phototherapy [m]
+
+physiotherapy [m]
+
+quality of life [m]
+
+randomized controlled trial (topic) [m]
+
+rehabilitation [m]
+
+review [m]
+
+satisfaction [m]
+
+sleep quality [m]
+
+systematic review [m]
+
+transcranial direct current stimulation [m]
+
+transcranial magnetic stimulation [m]","Introduction: Lewy body disease (LBD) is the second most common neurodegenerative disorder in patients older than 65 years. LBD is characterized by heterogeneous symptoms like fluctuation in attention, visual hallucinations, Parkinsonism, and REM sleep behaviour disorders. Considering the relevant social impact of the disease, identifying effective non-pharmacological treatments is becoming a priority. The aim of this systematic review was to provide an up-to-date literature review of the most effective non-pharmacological treatments in patients with LBD, focussing on evidence-based interventions. Method(s): Following PRISMA criteria, we carried out a systematic search through three databases (PubMed, Cochrane Libraries, and PEDro) including physical therapy (PT), cognitive rehabilitation (CR), light therapy (LT), transcranial direct current stimulation (tDCS), transcranial magnetic stimulation (TMS), electroconvulsive therapy (ECT), deep brain stimulation (DBS). All studies were qualitatively assessed using standardized tools (CARE and EPHPP). Result(s): We obtained a total of 1,220 studies of which 23 original articles met eligibility criteria for inclusion. The total number of LBD patients included was 231; mean age was 69.98, predominantly men (68%). Some PT studies highlighted improvements in motor deficits. CR produced significant improvements in mood, cognition, and patient's quality of life and satisfaction. LT outlined a partial trend of improvements in mood and sleep quality. DBS, ECT, and TMS showed some partial improvements mainly on neuropsychiatric symptoms, whereas tDCS provided partial improvements in attention. Conclusion(s): This review highlights the efficacy of some evidence-based rehabilitation studies in LBD; however, further randomized controlled trials with larger samples are needed to provide definitive recommendations.Copyright © 2023 S. Karger AG, Basel. All rights reserved. No part of this publication may be translated into other languages, reproduced or utilized in any form or by any means, electronic or mechanical, including photocopying, recording, microcopying, or by any information storage and retrieval system, without permission in writing from the publisher.",Dementia and Geriatric Cognitive Disorders,01-May-23,
+Myelin-Weighted Imaging Presents Reduced Apparent Myelin Water in Patients with Alzheimer's Disease.,"Lim S.-H.
+
+Lee J.
+
+Jung S.
+
+Kim B.
+
+Rhee H.Y.
+
+Oh S.-H.
+
+Park S.
+
+Cho A.R.
+
+Ryu C.-W.
+
+Jahng G.-H.","Alzheimer's disease
+
+Clinical protocol
+
+Myelin loss
+
+Myelin water imaging","aged
+
+*Alzheimer disease
+
+amnesia
+
+area under the curve
+
+article
+
+brain depth stimulation
+
+cingulate gyrus
+
+cingulum (brain)
+
+clinical dementia rating scale
+
+clinical evaluation
+
+clinical outcome
+
+cognition
+
+controlled study
+
+corpus callosum
+
+cross-sectional study
+
+demyelination
+
+diagnostic accuracy
+
+*diagnostic imaging
+
+diagnostic test accuracy study
+
+diffusion tensor imaging
+
+*diffusion weighted imaging
+
+echo planar imaging
+
+echography
+
+electron spin resonance
+
+false discovery rate
+
+female
+
+fluid-attenuated inversion recovery imaging
+
+gray matter volume
+
+hippocampus
+
+human
+
+human tissue
+
+image processing
+
+major clinical study
+
+male
+
+middle temporal gyrus
+
+mild cognitive impairment
+
+Mini Mental State Examination
+
+nervous system parameters
+
+neurologic examination
+
+neuropsychological test
+
+nuclear magnetic resonance imaging
+
+parahippocampal gyrus
+
+pons
+
+precuneus
+
+prospective study
+
+receiver operating characteristic
+
+relaxation time
+
+sensitivity and specificity
+
+T1 weighted imaging
+
+thalamus
+
+voxel based morphometry
+
+white matter
+
+*myelin
+
+nuclear magnetic resonance scanner
+
+myelin water fraction
+
+white matter volume","aged
+
+*Alzheimer disease
+
+amnesia
+
+area under the curve
+
+Article
+
+brain depth stimulation
+
+cingulate gyrus
+
+cingulum (brain)
+
+clinical dementia rating scale
+
+clinical evaluation
+
+clinical outcome
+
+cognition
+
+controlled study
+
+corpus callosum
+
+cross-sectional study
+
+demyelination
+
+diagnostic accuracy
+
+*diagnostic imaging
+
+diagnostic test accuracy study
+
+diffusion tensor imaging
+
+*diffusion weighted imaging
+
+echo planar imaging
+
+echography
+
+electron spin resonance
+
+false discovery rate
+
+female
+
+fluid-attenuated inversion recovery imaging
+
+gray matter volume
+
+hippocampus
+
+human
+
+human tissue
+
+image processing
+
+major clinical study
+
+male
+
+middle temporal gyrus
+
+mild cognitive impairment
+
+Mini Mental State Examination
+
+nervous system parameters
+
+neurologic examination
+
+neuropsychological test
+
+nuclear magnetic resonance imaging
+
+parahippocampal gyrus
+
+pons
+
+precuneus
+
+prospective study
+
+receiver operating characteristic
+
+relaxation time
+
+sensitivity and specificity
+
+T1 weighted imaging
+
+thalamus
+
+voxel based morphometry
+
+white matter","The purpose of this study was to investigate myelin loss in both AD and mild cognitive impairment (MCI) patients with a new myelin water mapping technique within reasonable scan time and evaluate the clinical relevance of the apparent myelin water fraction (MWF) values by assessing the relationship between decreases in myelin water and the degree of memory decline or aging. Twenty-nine individuals were assigned to the cognitively normal (CN) elderly group, 32 participants were assigned to the MCI group, and 31 patients were assigned to the AD group. A 3D visualization of the short transverse relaxation time component (ViSTa)-gradient and spin-echo (GraSE) sequence was developed to map apparent MWF. Then, the MWF values were compared between the three participant groups and was evaluated the relationship with the degree of memory loss. The AD group showed a reduced apparent MWF compared to the CN and MCI groups. The largest AUC (area under the curve) value was in the corpus callosum and used to classify the CN and AD groups using the apparent MWF. The ViSTa-GraSE sequence can be a useful tool to map the MWF in a reasonable scan time. Combining the MWF in the corpus callosum with the detection of atrophy in the hippocampus can be valuable for group classification.Copyright © 2022 by the authors. Licensee MDPI, Basel, Switzerland.",Diagnostics,Feb-22,*myelin
+Rheumatic Manifestations of Parkinson's Disease: An Overview.,"Slouma M.
+
+Hajji H.
+
+Rahmouni S.
+
+Dhahri R.
+
+Metoui L.
+
+Gharsallah I.","Camptocormia
+
+Fracture
+
+Joint deformities
+
+Osteoporosis
+
+Parkinson's disease","acromioclavicular joint
+
+Alzheimer disease
+
+anxiety
+
+arthropathy
+
+body mass
+
+bone density
+
+bone disease
+
+brain depth stimulation
+
+camptocormia
+
+Cobb angle
+
+cognitive defect
+
+depression
+
+Dupuytren contracture
+
+dystonia
+
+echography
+
+electromyography
+
+foot malformation
+
+functional disease
+
+hand malformation
+
+human
+
+hyperhomocysteinemia
+
+kyphosis
+
+malnutrition
+
+musculoskeletal disease
+
+myopathy
+
+nuclear magnetic resonance imaging
+
+osteolysis
+
+osteoporosis
+
+pallidotomy
+
+*Parkinson disease
+
+parkinsonism
+
+physical disability
+
+quality of life
+
+review
+
+*rheumatic disease
+
+rotator cuff injury
+
+scoliosis
+
+shoulder disease
+
+Unified Parkinson Disease Rating Scale
+
+vitamin D deficiency
+
+alendronic acid/po [Oral Drug Administration]
+
+bisphosphonic acid derivative
+
+botulinum toxin
+
+calcium
+
+cyanocobalamin
+
+denosumab
+
+folic acid
+
+levodopa
+
+risedronic acid/po [Oral Drug Administration]
+
+vitamin D
+
+zoledronic acid
+
+MRI scanner
+
+orthosis","acromioclavicular joint
+
+Alzheimer disease
+
+anxiety
+
+arthropathy
+
+body mass
+
+bone density
+
+bone disease
+
+brain depth stimulation
+
+camptocormia
+
+Cobb angle
+
+cognitive defect
+
+depression
+
+Dupuytren contracture
+
+dystonia
+
+echography
+
+electromyography
+
+foot malformation
+
+functional disease
+
+hand malformation
+
+human
+
+hyperhomocysteinemia
+
+kyphosis
+
+malnutrition
+
+musculoskeletal disease
+
+myopathy
+
+nuclear magnetic resonance imaging
+
+osteolysis
+
+osteoporosis
+
+pallidotomy
+
+*Parkinson disease
+
+parkinsonism
+
+physical disability
+
+quality of life
+
+Review
+
+*rheumatic disease
+
+rotator cuff injury
+
+scoliosis
+
+shoulder disease
+
+Unified Parkinson Disease Rating Scale
+
+vitamin D deficiency","Objectives: Parkinson's disease is the second most common neurodegenerative disorder after Alzheimer's disease. It can be responsible for several rheumatological manifestations. Aim(s): This article aimed to review and summarize current knowledge on musculoskeletal diseases associated with Parkinson's disease and their management. Method(s): We conducted a narrative review of musculoskeletal features associated with Parkinson's disease. Result(s): Rheumatological manifestations of Parkinson's disease include postural disorders (antecol-lis, cervical kyphosis, cervical positive sagittal malalignment, camptocormia, Pisa syndrome, scoli-osis), bone disorders (osteoporosis, bone fractures), and joint disorders (frozen shoulder, hand, and foot deformities). Rheumatological manifestations lead to physical disability, long-term pain, and impaired quality of life. However, the management of these manifestations is not yet codified. It can associate botulinum toxin, thoraco-pelvic anterior distraction, orthosis, orthopedic surgical correc-tion, pallidotomy, or deep brain stimulation in patients with camptocormia. Therapeutic management of osteoporosis includes calcium and vitamin D intake and bisphosphonates. Conclusion(s): Rheumatological manifestations are common in Parkinson's disease. Optimal care of patients with Parkinson's disease should include attention to management of postural, bone, and joint disorders since it remains a major cause of functional impairment and disability.Copyright © 2023 Bentham Science Publishers.",Current Rheumatology Reviews,2023,"alendronic acid / oral drug administration
+
+bisphosphonic acid derivative
+
+botulinum toxin
+
+calcium
+
+cyanocobalamin
+
+denosumab
+
+folic acid
+
+levodopa
+
+risedronic acid / oral drug administration
+
+vitamin D
+
+zoledronic acid"
+Intraneuronal accumulation of amyloid-beta peptides as the pathomechanism linking autism and its co-morbidities: epilepsy and self-injurious behavior - the hypothesis.,"Frackowiak J.
+
+Mazur-Kolecka B.","amyloid-beta peptides
+
+amyloid-beta precursor protein
+
+autism spectrum disorder
+
+cell receptors' functions
+
+epilepsy
+
+oxidative stress
+
+self-injurious behavior
+
+transcription","Alzheimer disease
+
+amino acid sequence
+
+amygdala
+
+amyotrophic lateral sclerosis
+
+anxiety
+
+article
+
+astrocyte
+
+ataxia
+
+atherosclerotic plaque
+
+atomic force microscopy
+
+attention deficit hyperactivity disorder
+
+*autism
+
+*automutilation
+
+bipolar disorder
+
+brain cortex
+
+brain depth stimulation
+
+brain development
+
+cadaver
+
+central nervous system
+
+cognition
+
+cognitive defect
+
+confocal microscopy
+
+cyclization
+
+cytoarchitecture
+
+cytotoxicity
+
+degenerative disease
+
+dentate nucleus
+
+depression
+
+electroencephalogram
+
+electroencephalography
+
+endocytosis
+
+*epilepsy
+
+epileptic state
+
+excitotoxicity
+
+GABAergic signaling
+
+gene expression
+
+genetic risk
+
+genetic transcription
+
+glycolysis
+
+head injury
+
+hippocampus
+
+homeostasis
+
+human
+
+immunoblotting
+
+immunoreactivity
+
+*interneuron
+
+lipid oxidation
+
+lipid peroxidation
+
+long term potentiation
+
+medial prefrontal cortex
+
+membrane depolarization
+
+microglia
+
+morbidity
+
+muscle hypotonia
+
+nerve cell
+
+nerve cell differentiation
+
+nerve cell network
+
+nerve cell plasticity
+
+nerve degeneration
+
+nerve ending
+
+nervous system development
+
+neurofibrillary tangle
+
+neurotoxicity
+
+neurotransmission
+
+Niemann Pick disease
+
+nuclear magnetic resonance imaging
+
+oligodendroglioma
+
+oligomerization
+
+oxidative stress
+
+Parkinson disease
+
+physiological stress
+
+positron emission tomography
+
+posttraumatic stress disorder
+
+prevalence
+
+protein aggregation
+
+protein blood level
+
+protein expression
+
+*protein function
+
+protein processing
+
+protein protein interaction
+
+psychosis
+
+pyramidal nerve cell
+
+risk factor
+
+schizophrenia
+
+seizure
+
+signal transduction
+
+somatosensory cortex
+
+speech disorder
+
+synapse
+
+synaptic transmission
+
+synaptosome
+
+temporal lobe epilepsy
+
+transcription initiation
+
+traumatic brain injury
+
+upregulation
+
+vascular smooth muscle cell
+
+Wechsler intelligence scale for children
+
+working memory
+
+4 aminobutyric acid
+
+4 aminobutyric acid receptor
+
+acetylcholine
+
+alpha synuclein
+
+*amyloid beta protein/ec [Endogenous Compound]
+
+amyloid precursor protein
+
+apolipoprotein E
+
+calbindin
+
+calcium channel
+
+calretinin
+
+dopamine
+
+endogenous compound
+
+escitalopram
+
+glutamate decarboxylase 65
+
+glutamate decarboxylase 67
+
+glutamic acid
+
+haloperidol
+
+ionotropic receptor
+
+malonaldehyde
+
+membrane receptor
+
+microRNA
+
+n methyl dextro aspartic acid receptor
+
+n methyl dextro aspartic acid receptor 2B
+
+noradrenalin
+
+parvalbumin
+
+polyvinyl alcohol
+
+pyroglutamic acid
+
+reactive oxygen metabolite
+
+secretase
+
+somatostatin
+
+valproic acid","Alzheimer disease
+
+amino acid sequence
+
+amygdala
+
+amyotrophic lateral sclerosis
+
+anxiety
+
+Article
+
+astrocyte
+
+ataxia
+
+atherosclerotic plaque
+
+atomic force microscopy
+
+attention deficit hyperactivity disorder
+
+*autism
+
+*automutilation
+
+bipolar disorder
+
+brain cortex
+
+brain depth stimulation
+
+brain development
+
+cadaver
+
+central nervous system
+
+cognition
+
+cognitive defect
+
+confocal microscopy
+
+cyclization
+
+cytoarchitecture
+
+cytotoxicity
+
+degenerative disease
+
+dentate nucleus
+
+depression
+
+electroencephalogram
+
+electroencephalography
+
+endocytosis
+
+*epilepsy
+
+epileptic state
+
+excitotoxicity
+
+GABAergic signaling
+
+gene expression
+
+genetic risk
+
+genetic transcription
+
+glycolysis
+
+head injury
+
+hippocampus
+
+homeostasis
+
+human
+
+immunoblotting
+
+immunoreactivity
+
+*interneuron
+
+lipid oxidation
+
+lipid peroxidation
+
+long term potentiation
+
+medial prefrontal cortex
+
+membrane depolarization
+
+microglia
+
+morbidity
+
+muscle hypotonia
+
+nerve cell
+
+nerve cell differentiation
+
+nerve cell network
+
+nerve cell plasticity
+
+nerve degeneration
+
+nerve ending
+
+nervous system development
+
+neurofibrillary tangle
+
+neurotoxicity
+
+neurotransmission
+
+Niemann Pick disease
+
+nuclear magnetic resonance imaging
+
+oligodendroglioma
+
+oligomerization
+
+oxidative stress
+
+Parkinson disease
+
+physiological stress
+
+positron emission tomography
+
+posttraumatic stress disorder
+
+prevalence
+
+protein aggregation
+
+protein blood level
+
+protein expression
+
+*protein function
+
+protein processing
+
+protein protein interaction
+
+psychosis
+
+pyramidal nerve cell
+
+risk factor
+
+schizophrenia
+
+seizure
+
+signal transduction
+
+somatosensory cortex
+
+speech disorder
+
+synapse
+
+synaptic transmission
+
+synaptosome
+
+temporal lobe epilepsy
+
+transcription initiation
+
+traumatic brain injury
+
+upregulation
+
+vascular smooth muscle cell
+
+Wechsler intelligence scale for children
+
+working memory","Autism spectrum disorder (ASD) is associated with enhanced processing of amyloid-beta precursor protein (APP) by secretase-alpha, higher blood levels of sAPPalpha and intraneuronal accumulation of N-terminally truncated Abeta peptides in the brain cortex - mainly in the GABAergic neurons expressing parvalbumin - and subcortical structures. Brain Abeta accumulation has been also described in epilepsy-the frequent ASD co-morbidity. Furthermore, Abeta peptides have been shown to induce electroconvulsive episodes. Enhanced production and altered processing of APP, as well as accumulation of Abeta in the brain are also frequent consequences of traumatic brain injuries which result from self-injurious behaviors, another ASD co-morbidity. We discuss distinct consequences of accumulation of Abeta in the neurons and synapses depending on the Abeta species, their posttranslational modifications, concentration, level of aggregation and oligomerization, as well as brain structures, cell types and subcellular structures where it occurs. The biological effects of Abeta species which are discussed in the context of the pathomechanisms of ASD, epilepsy, and self-injurious behavior include modulation of transcription-both activation and repression; induction of oxidative stress; activation and alteration of membrane receptors' signaling; formation of calcium channels causing hyper-activation of neurons; reduction of GABAergic signaling - all of which lead to disruption of functions of synapses and neuronal networks. We conclude that ASD, epilepsy, and self-injurious behaviors all contribute to the enhanced production and accumulation of Abeta peptides which in turn cause and enhance dysfunctions of the neuronal networks that manifest as autism clinical symptoms, epilepsy, and self-injurious behaviors.Copyright © 2023 Frackowiak and Mazur-Kolecka.",Frontiers in Molecular Neuroscience,2023,"4 aminobutyric acid
+
+4 aminobutyric acid receptor
+
+acetylcholine
+
+alpha synuclein
+
+*amyloid beta protein / *endogenous compound
+
+amyloid precursor protein
+
+apolipoprotein E
+
+calbindin
+
+calcium channel
+
+calretinin
+
+dopamine
+
+endogenous compound
+
+escitalopram
+
+glutamate decarboxylase 65
+
+glutamate decarboxylase 67
+
+glutamic acid
+
+haloperidol
+
+ionotropic receptor
+
+malonaldehyde
+
+membrane receptor
+
+microRNA
+
+n methyl dextro aspartic acid receptor
+
+n methyl dextro aspartic acid receptor 2B
+
+noradrenalin
+
+parvalbumin
+
+polyvinyl alcohol
+
+pyroglutamic acid
+
+reactive oxygen metabolite
+
+secretase
+
+somatostatin
+
+valproic acid"
+Deep brain stimulation during sleep enhances human brain synchrony and memory.,Anonymous,,"*brain depth stimulation
+
+brain region
+
+cell activity
+
+correlational study
+
+cortical synchronization
+
+dementia
+
+electrophysiology
+
+epilepsy
+
+experimental behavioral test
+
+firing rate
+
+human
+
+medial temporal lobe
+
+*memory
+
+memory consolidation
+
+memory disorder
+
+mental performance
+
+nerve cell
+
+nerve cell plasticity
+
+nonREM sleep
+
+note
+
+oscillation
+
+*physiological coregulation
+
+recall
+
+refractory epilepsy
+
+*sleep","*brain depth stimulation
+
+brain region
+
+cell activity
+
+correlational study
+
+cortical synchronization
+
+dementia
+
+electrophysiology
+
+epilepsy
+
+experimental behavioral test
+
+firing rate
+
+human
+
+medial temporal lobe
+
+*memory
+
+memory consolidation
+
+memory disorder
+
+mental performance
+
+nerve cell
+
+nerve cell plasticity
+
+nonREM sleep
+
+Note
+
+oscillation
+
+*physiological coregulation
+
+recall
+
+refractory epilepsy
+
+*sleep",,Nature Neuroscience,Jun-23,
+The role of the PLA2G6 gene in neurodegenerative diseases.,"Deng X.
+
+Yuan L.
+
+Jankovic J.
+
+Deng H.","Genetics
+
+Neuroaxonal dystrophy
+
+Neurodegeneration with brain iron accumulation
+
+Neurodegenerative disorders
+
+Parkinsonism
+
+PLA2G6 gene","adult
+
+aged
+
+Alzheimer disease/et [Etiology]
+
+benign adult familial myoclonic epilepsy/et [Etiology]
+
+bipolar disorder/et [Etiology]
+
+brain
+
+brain depth stimulation
+
+child
+
+*degenerative disease/et [Etiology]
+
+*degenerative disease/th [Therapy]
+
+disease predisposition
+
+disease severity
+
+dystonia/dt [Drug Therapy]
+
+dystonia/th [Therapy]
+
+gait disorder/th [Therapy]
+
+*gene
+
+gene locus
+
+gene structure
+
+genetic disorder/di [Diagnosis]
+
+genetic disorder/et [Etiology]
+
+genetic model
+
+genetic susceptibility
+
+genotype environment interaction
+
+genotype phenotype correlation
+
+human
+
+iron chelation
+
+Lewy body
+
+lipid metabolism
+
+*neuroaxonal dystrophy/et [Etiology]
+
+neurodegeneration with brain iron accumulation/dt [Drug Therapy]
+
+*neurologic disease/et [Etiology]
+
+*neurologic disease/th [Therapy]
+
+non insulin dependent diabetes mellitus/et [Etiology]
+
+nuclear magnetic resonance imaging
+
+onset age
+
+*Parkinson disease/et [Etiology]
+
+parkinsonism/dt [Drug Therapy]
+
+parkinsonism/et [Etiology]
+
+physiotherapy
+
+protein function
+
+review
+
+amino acid/ec [Endogenous Compound]
+
+baclofen/dt [Drug Therapy]
+
+botulinum toxin/dt [Drug Therapy]
+
+deferiprone/dt [Drug Therapy]
+
+deferiprone/po [Oral Drug Administration]
+
+iron/to [Drug Toxicity]
+
+levodopa/dt [Drug Therapy]
+
+microRNA/ec [Endogenous Compound]
+
+*phospholipase A2 group VI/ec [Endogenous Compound]
+
+phospholipid/ec [Endogenous Compound]
+
+feeding tube","adult
+
+aged
+
+Alzheimer disease / etiology
+
+benign adult familial myoclonic epilepsy / etiology
+
+bipolar disorder / etiology
+
+brain
+
+brain depth stimulation
+
+child
+
+*degenerative disease / *etiology / *therapy
+
+disease predisposition
+
+disease severity
+
+dystonia / drug therapy / therapy
+
+gait disorder / therapy
+
+*gene
+
+gene locus
+
+gene structure
+
+genetic disorder / diagnosis / etiology
+
+genetic model
+
+genetic susceptibility
+
+genotype environment interaction
+
+genotype phenotype correlation
+
+human
+
+iron chelation
+
+Lewy body
+
+lipid metabolism
+
+*neuroaxonal dystrophy / *etiology
+
+neurodegeneration with brain iron accumulation / drug therapy
+
+*neurologic disease / *etiology / *therapy
+
+non insulin dependent diabetes mellitus / etiology
+
+nuclear magnetic resonance imaging
+
+onset age
+
+*Parkinson disease / *etiology
+
+parkinsonism / drug therapy / etiology
+
+physiotherapy
+
+protein function
+
+Review","PLA2G6-associated neurodegeneration (PLAN) represents a continuum of clinically and genetically heterogeneous neurodegenerative disorders with overlapping features. Usually, it encompasses three autosomal recessive diseases, including infantile neuroaxonal dystrophy or neurodegeneration with brain iron accumulation (NBIA) 2A, atypical neuronal dystrophy with childhood-onset or NBIA2B, and adult-onset dystonia-parkinsonism form named PARK14, and possibly a certain subtype of hereditary spastic paraplegia. PLAN is caused by variants in the phospholipase A2 group VI gene (PLA2G6), which encodes an enzyme involved in membrane homeostasis, signal transduction, mitochondrial dysfunction, and alpha-synuclein aggregation. In this review, we discuss PLA2G6 gene structure and protein, functional findings, genetic deficiency models, various PLAN disease phenotypes, and study strategies in the future. Our primary aim is to provide an overview of genotype-phenotype correlations of PLAN subtypes and speculate on the role of PLA2G6 in potential mechanisms underlying these conditions.Copyright © 2023 Elsevier B.V.",Ageing Research Reviews,Aug-23,"amino acid / endogenous compound
+
+baclofen / drug therapy
+
+botulinum toxin / drug therapy
+
+deferiprone / drug therapy / oral drug administration
+
+iron / drug toxicity
+
+levodopa / drug therapy
+
+microRNA / endogenous compound
+
+*phospholipase A2 group VI / *endogenous compound
+
+phospholipid / endogenous compound"
+Roles of Synaptic Plasticity in Functional Recovery After Brain Injury.,"Nagao S.
+
+Ito M.","Axonal sprouting
+
+Brain stimulation
+
+Cerebellum
+
+Long-term depression (LTD)
+
+Long-term potentiation (LTP)
+
+Motor learning
+
+Neurorehabilitation","action potential
+
+adult
+
+Alzheimer disease
+
+axon
+
+brain damage
+
+brain depth stimulation
+
+*brain injury
+
+brain stem
+
+brain tissue
+
+cell survival
+
+cerebellum
+
+cerebellum cortex
+
+cerebellum nucleus
+
+cerebrovascular accident
+
+dentate gyrus
+
+depression
+
+developmental delay
+
+electroencephalography
+
+electromyography
+
+electron microscopy
+
+electrophysiology
+
+electrostimulation
+
+functional magnetic resonance imaging
+
+hand function
+
+head movement
+
+hemiplegia
+
+hippocampus
+
+human
+
+human cell
+
+human tissue
+
+induced pluripotent stem cell
+
+inferior olivary nucleus
+
+kidney transplantation
+
+labyrinthectomy
+
+latent period
+
+limb movement
+
+long term depression
+
+loss of function mutation
+
+magnetoencephalography
+
+median nerve
+
+Mini Mental State Examination
+
+motor cortex
+
+motor dysfunction
+
+motor learning
+
+motor nerve conduction
+
+motor performance
+
+mouse
+
+muscle atrophy
+
+*nerve cell plasticity
+
+nerve sprouting
+
+nervous system development
+
+neurorehabilitation
+
+nonhuman
+
+nuclear magnetic resonance imaging
+
+nucleus accumbens
+
+nystagmus
+
+optogenetics
+
+optokinetic response
+
+peripheral nervous system
+
+pluripotent stem cell
+
+positron emission tomography
+
+primary motor cortex
+
+Purkinje cell
+
+pyramidal nerve cell
+
+pyramidal tract
+
+regenerative medicine
+
+semicircular canal
+
+sensorimotor function
+
+sensory feedback
+
+somatosensory cortex
+
+spinal cord injury
+
+spinal paralysis
+
+synaptic transmission
+
+synaptogenesis
+
+Th1 cell
+
+transcranial direct current stimulation
+
+transcranial magnetic stimulation
+
+vestibular function
+
+vestibular nucleus
+
+4 aminobutyric acid/ec [Endogenous Compound]
+
+brain derived neurotrophic factor/ec [Endogenous Compound]
+
+cholinergic receptor/ec [Endogenous Compound]
+
+fibroblast growth factor receptor 1/ec [Endogenous Compound]
+
+fibroblast growth factor receptor 2/ec [Endogenous Compound]
+
+glutamate receptor/ec [Endogenous Compound]
+
+homocysteine/ec [Endogenous Compound]
+
+levodopa
+
+muscimol/ec [Endogenous Compound]
+
+n methyl dextro aspartic acid
+
+neurotransmitter/ec [Endogenous Compound]
+
+protein kinase C/ec [Endogenous Compound]
+
+scatter factor/ec [Endogenous Compound]","action potential
+
+adult
+
+Alzheimer disease
+
+axon
+
+brain damage
+
+brain depth stimulation
+
+*brain injury
+
+brain stem
+
+brain tissue
+
+cell survival
+
+cerebellum
+
+cerebellum cortex
+
+cerebellum nucleus
+
+cerebrovascular accident
+
+dentate gyrus
+
+depression
+
+developmental delay
+
+electroencephalography
+
+electromyography
+
+electron microscopy
+
+electrophysiology
+
+electrostimulation
+
+functional magnetic resonance imaging
+
+hand function
+
+head movement
+
+hemiplegia
+
+hippocampus
+
+human
+
+human cell
+
+human tissue
+
+induced pluripotent stem cell
+
+inferior olivary nucleus
+
+kidney transplantation
+
+labyrinthectomy
+
+latent period
+
+limb movement
+
+long term depression
+
+loss of function mutation
+
+magnetoencephalography
+
+median nerve
+
+Mini Mental State Examination
+
+motor cortex
+
+motor dysfunction
+
+motor learning
+
+motor nerve conduction
+
+motor performance
+
+mouse
+
+muscle atrophy
+
+*nerve cell plasticity
+
+nerve sprouting
+
+nervous system development
+
+neurorehabilitation
+
+nonhuman
+
+nuclear magnetic resonance imaging
+
+nucleus accumbens
+
+nystagmus
+
+optogenetics
+
+optokinetic response
+
+peripheral nervous system
+
+pluripotent stem cell
+
+positron emission tomography
+
+primary motor cortex
+
+Purkinje cell
+
+pyramidal nerve cell
+
+pyramidal tract
+
+regenerative medicine
+
+semicircular canal
+
+sensorimotor function
+
+sensory feedback
+
+somatosensory cortex
+
+spinal cord injury
+
+spinal paralysis
+
+synaptic transmission
+
+synaptogenesis
+
+Th1 cell
+
+transcranial direct current stimulation
+
+transcranial magnetic stimulation
+
+vestibular function
+
+vestibular nucleus","Patients with brain injury or stroke suffer from sensory-motor disorder caused by the loss of function of damaged brain tissues. The goal of neurorehabilitation is to facilitate the recovery of the impaired sensory-motor function through new learning in the remaining intact brain tissues. Synaptic plasticity, i.e., long-term potentiation and depression of synaptic transmission, and new synapse formation through axonal sprouting are assumed to underlie such new learning. To further elucidate roles of synaptic plasticity in neurorehabilitation, four items are addressed in this chapter. First, the characteristics of synaptic plasticity in the intact hippocampus, cerebellum, and red nucleus are reviewed. Second, the spinal, cerebellar, and cerebral mechanisms underlying the recovery of grasping or gripping movement after unilateral spinal cord injury are discussed as an experimental model of neurorehabilitation of motor function. Third, the neural mechanisms underlying the recovery of somatosensory and vestibular functions are discussed as an experimental model of the neurorehabilitation of sensory function after injury of their pathways in the central or peripheral nervous system. Finally, recent progress in neurorehabilitation techniques, noninvasive transcranial brain stimulation, neuroprosthesis, and regenerative medicine, including the induced pluripotent stem cell technology, is reviewed in relation to synaptic plasticity.Copyright © 2023, The Author(s), under exclusive license to Springer Nature Switzerland AG.",,2023,"4 aminobutyric acid / endogenous compound
+
+brain derived neurotrophic factor / endogenous compound
+
+cholinergic receptor / endogenous compound
+
+fibroblast growth factor receptor 1 / endogenous compound
+
+fibroblast growth factor receptor 2 / endogenous compound
+
+glutamate receptor / endogenous compound
+
+homocysteine / endogenous compound
+
+levodopa
+
+muscimol / endogenous compound
+
+n methyl dextro aspartic acid
+
+neurotransmitter / endogenous compound
+
+protein kinase C / endogenous compound
+
+scatter factor / endogenous compound"
+Non-pharmacological Approaches Based on Mind-Body Medicine to Enhancement of Cognitive and Brain Reserve in Humans.,"Crescentini C.
+
+Feruglio S.","Alzheimer's disease
+
+Brain reserve
+
+Cognitive reserve
+
+Mind-body medicine
+
+Mindfulness meditation
+
+Multiple sclerosis
+
+Parkinson's disease","acupuncture
+
+aging
+
+allopathy
+
+amygdala
+
+anxiety
+
+apathy
+
+attention
+
+autopsy
+
+Beck Anxiety Inventory
+
+BOLD signal
+
+bradykinesia
+
+brain atrophy
+
+brain blood flow
+
+brain cortex
+
+brain damage
+
+brain degeneration
+
+brain depth stimulation
+
+brain function
+
+brain perfusion
+
+brain size
+
+breathing exercise
+
+caudate nucleus
+
+clinical dementia rating scale
+
+*cognition
+
+cognitive behavioral therapy
+
+cognitive defect
+
+*cognitive reserve
+
+cognitive therapy
+
+coping behavior
+
+corpus callosum
+
+default mode network
+
+degenerative disease
+
+dementia
+
+depression
+
+diastolic blood pressure
+
+disease severity
+
+dorsolateral prefrontal cortex
+
+electrostimulation
+
+emotion
+
+emotionality
+
+exercise
+
+fatigue
+
+functional connectivity
+
+functional magnetic resonance imaging
+
+head circumference
+
+health promotion
+
+healthy aging
+
+hippocampus
+
+human
+
+hypertension
+
+insula
+
+interoception
+
+learning algorithm
+
+life satisfaction
+
+lingual gyrus
+
+magnetotherapy
+
+medial prefrontal cortex
+
+*meditation
+
+mild cognitive impairment
+
+mindfulness
+
+mindfulness meditation
+
+Mini Mental State Examination
+
+Montreal cognitive assessment
+
+morphometry
+
+multiple sclerosis
+
+nerve cell plasticity
+
+nerve degeneration
+
+nervous system
+
+neurofibrillary tangle
+
+neuroprotection
+
+neuropsychological assessment
+
+nuclear magnetic resonance imaging
+
+orbital cortex
+
+oxidative stress
+
+Parkinson disease
+
+Positive and Negative Syndrome Scale
+
+prefrontal cortex
+
+psychoeducation
+
+quality of life
+
+questionnaire
+
+randomized controlled trial (topic)
+
+risk factor
+
+sensory cortex
+
+skill
+
+sleep quality
+
+task performance
+
+temporoparietal junction
+
+theoretical study
+
+traumatic brain injury
+
+Unified Parkinson Disease Rating Scale
+
+ventral mesencephalon
+
+verbal memory
+
+white matter lesion
+
+working memory
+
+yoga
+
+dopamine
+
+dopamine receptor stimulating agent
+
+probiotic agent
+
+psychotropic agent
+
+*mind body medicine","acupuncture
+
+aging
+
+allopathy
+
+amygdala
+
+anxiety
+
+apathy
+
+attention
+
+autopsy
+
+Beck Anxiety Inventory
+
+BOLD signal
+
+bradykinesia
+
+brain atrophy
+
+brain blood flow
+
+brain cortex
+
+brain damage
+
+brain degeneration
+
+brain depth stimulation
+
+brain function
+
+brain perfusion
+
+brain size
+
+breathing exercise
+
+caudate nucleus
+
+clinical dementia rating scale
+
+*cognition
+
+cognitive behavioral therapy
+
+cognitive defect
+
+*cognitive reserve
+
+cognitive therapy
+
+coping behavior
+
+corpus callosum
+
+default mode network
+
+degenerative disease
+
+dementia
+
+depression
+
+diastolic blood pressure
+
+disease severity
+
+dorsolateral prefrontal cortex
+
+electrostimulation
+
+emotion
+
+emotionality
+
+exercise
+
+fatigue
+
+functional connectivity
+
+functional magnetic resonance imaging
+
+head circumference
+
+health promotion
+
+healthy aging
+
+hippocampus
+
+human
+
+hypertension
+
+insula
+
+interoception
+
+learning algorithm
+
+life satisfaction
+
+lingual gyrus
+
+magnetotherapy
+
+medial prefrontal cortex
+
+*meditation
+
+mild cognitive impairment
+
+mindfulness
+
+mindfulness meditation
+
+Mini Mental State Examination
+
+Montreal cognitive assessment
+
+morphometry
+
+multiple sclerosis
+
+nerve cell plasticity
+
+nerve degeneration
+
+nervous system
+
+neurofibrillary tangle
+
+neuroprotection
+
+neuropsychological assessment
+
+nuclear magnetic resonance imaging
+
+orbital cortex
+
+oxidative stress
+
+Parkinson disease
+
+Positive and Negative Syndrome Scale
+
+prefrontal cortex
+
+psychoeducation
+
+quality of life
+
+questionnaire
+
+randomized controlled trial (topic)
+
+risk factor
+
+sensory cortex
+
+skill
+
+sleep quality
+
+task performance
+
+temporoparietal junction
+
+theoretical study
+
+traumatic brain injury
+
+Unified Parkinson Disease Rating Scale
+
+ventral mesencephalon
+
+verbal memory
+
+white matter lesion
+
+working memory
+
+yoga","In recent years, the concepts of cognitive reserve (CR) and brain reserve (BR) have been used to take account of the interindividual variability between cognitive impairment and degree of brain damage occurring in a variety of neurological disorders. These studies, however, have typically not addressed the critical issue of the clinical implications of this research for the clinical care of the patients. After an introduction to CR and BR theory, the present chapter will review studies exploring CR and BR in healthy ageing and in a series of progressive and relatively common neurological conditions such as Alzheimer's disease (AD), multiple sclerosis (MS), and Parkinson's disease (PD). In the second part of the chapter, we will discuss the implications of CR and BR for clinical interventions based on mind-body medicine (in particular meditation), as possible approaches aimed at potentiating individuals' reserve in the conditions of healthy ageing, AD, MS, and PD.Copyright © 2023, The Author(s), under exclusive license to Springer Nature Switzerland AG.",,2023,"dopamine
+
+dopamine receptor stimulating agent
+
+probiotic agent
+
+psychotropic agent"
+"Editorial: Neural responses for rehabilitation of the elderly: evidence from the micro, meso to macro scale.","Li L.
+
+Li S.
+
+Liu H.
+
+Niu W.
+
+Wang C.","elderly
+
+motor function
+
+neuromodulation
+
+Parkinson's disease
+
+rehabilitation
+
+stroke","Alzheimer disease/th [Therapy]
+
+brain depth stimulation
+
+central nervous system
+
+cerebrovascular accident/th [Therapy]
+
+dance therapy
+
+editorial
+
+electroencephalogram
+
+functional near-infrared spectroscopy
+
+gait
+
+gene expression
+
+*geriatric rehabilitation
+
+Hoffmann reflex
+
+human
+
+kinesiotherapy
+
+low back pain/th [Therapy]
+
+mild cognitive impairment/th [Therapy]
+
+mitochondrial respiration
+
+motor unit
+
+*neuromodulation
+
+neuromuscular system
+
+osteoarthritis/th [Therapy]
+
+Parkinson disease/th [Therapy]
+
+pulmonary rehabilitation
+
+repetitive transcranial magnetic stimulation
+
+robotics
+
+signal processing
+
+Tai Chi
+
+long untranslated RNA/ec [Endogenous Compound]
+
+messenger RNA/ec [Endogenous Compound]
+
+brain computer interface
+
+continuous theta burst stimulation
+
+intermittent theta burst stimulation","Alzheimer disease / therapy
+
+brain depth stimulation
+
+central nervous system
+
+cerebrovascular accident / therapy
+
+dance therapy
+
+Editorial
+
+electroencephalogram
+
+functional near-infrared spectroscopy
+
+gait
+
+gene expression
+
+*geriatric rehabilitation
+
+Hoffmann reflex
+
+human
+
+kinesiotherapy
+
+low back pain / therapy
+
+mild cognitive impairment / therapy
+
+mitochondrial respiration
+
+motor unit
+
+*neuromodulation
+
+neuromuscular system
+
+osteoarthritis / therapy
+
+Parkinson disease / therapy
+
+pulmonary rehabilitation
+
+repetitive transcranial magnetic stimulation
+
+robotics
+
+signal processing
+
+Tai Chi",,Frontiers in Aging Neuroscience,2023,"long untranslated RNA / endogenous compound
+
+messenger RNA / endogenous compound"
+Fighting Epilepsy with Nanomedicines-Is This the Right Weapon?.,"Matias M.
+
+Santos A.O.
+
+Silvestre S.
+
+Alves G.","antiseizure drugs
+
+epilepsy
+
+lipid-based nanosystems
+
+nanomedicines
+
+nanotechnology
+
+polymeric nanoparticles","Alzheimer disease
+
+*anticonvulsant therapy
+
+blood brain barrier
+
+brain depth stimulation
+
+chemical structure
+
+differential scanning calorimetry
+
+drug approval
+
+drug bioavailability
+
+drug degradation
+
+drug efficacy
+
+drug formulation
+
+drug industry
+
+drug interaction
+
+drug penetration
+
+drug safety
+
+drug tolerability
+
+*epilepsy
+
+extensive drug resistance
+
+human
+
+intranasal drug administration
+
+mean residence time
+
+membrane permeability
+
+*nanomedicine
+
+nanotechnology
+
+nonhuman
+
+nuclear magnetic resonance imaging
+
+pharmacodynamic parameters
+
+pharmacokinetic parameters
+
+physical chemistry
+
+review
+
+therapeutic index
+
+treatment planning
+
+water solubility
+
+4 aminobutyric acid
+
+amiloride
+
+carbamazepine
+
+curcumin
+
+epigallocatechin gallate
+
+fosphenytoin sodium
+
+gabapentin
+
+glatiramer
+
+gold nanoparticle/pr [Pharmaceutics]
+
+gold nanoparticle/pk [Pharmacokinetics]
+
+lacosamide
+
+lamotrigine
+
+lipid nanoparticle/pr [Pharmaceutics]
+
+lipid nanoparticle/pk [Pharmacokinetics]
+
+nanocarrier/pr [Pharmaceutics]
+
+nanocarrier/pk [Pharmacokinetics]
+
+nanohydrogel
+
+oxcarbazepine
+
+phenytoin
+
+piperine
+
+poloxamer
+
+polymer nanoparticle/pr [Pharmaceutics]
+
+polymer nanoparticle/pk [Pharmacokinetics]
+
+solid lipid nanoparticle/pr [Pharmaceutics]
+
+solid lipid nanoparticle/pk [Pharmacokinetics]
+
+stiripentol
+
+thymoquinone","Alzheimer disease
+
+*anticonvulsant therapy
+
+blood brain barrier
+
+brain depth stimulation
+
+chemical structure
+
+differential scanning calorimetry
+
+drug approval
+
+drug bioavailability
+
+drug degradation
+
+drug efficacy
+
+drug formulation
+
+drug industry
+
+drug interaction
+
+drug penetration
+
+drug safety
+
+drug tolerability
+
+*epilepsy
+
+extensive drug resistance
+
+human
+
+intranasal drug administration
+
+mean residence time
+
+membrane permeability
+
+*nanomedicine
+
+nanotechnology
+
+nonhuman
+
+nuclear magnetic resonance imaging
+
+pharmacodynamic parameters
+
+pharmacokinetic parameters
+
+physical chemistry
+
+Review
+
+therapeutic index
+
+treatment planning
+
+water solubility","Epilepsy is a chronic and complex condition and is one of the most common neurological diseases, affecting about 50 million people worldwide. Pharmacological therapy has been, and is likely to remain, the main treatment approach for this disease. Although a large number of new antiseizure drugs (ASDs) has been introduced into the market in the last few years, many patients suffer from uncontrolled seizures, demanding the development of more effective therapies. Nanomedicines have emerged as a promising approach to deliver drugs to the brain, potentiating their therapeutic index. Moreover, nanomedicine has applied the knowledge of nanoscience, not only in disease treatment but also in prevention and diagnosis. In the current review, the general features and therapeutic management of epilepsy will be addressed, as well as the main barriers to overcome to obtain better antiseizure therapies. Furthermore, the role of nanomedicines as a valuable tool to selectively deliver drugs will be discussed, considering the ability of nanocarriers to deal with the less favourable physical-chemical properties of some ASDs, enhance their brain penetration, reduce the adverse effects, and circumvent the concerning drug resistance.Copyright © 2023 by the authors.",Pharmaceutics,Feb-23,"4 aminobutyric acid
+
+amiloride
+
+carbamazepine
+
+curcumin
+
+epigallocatechin gallate
+
+fosphenytoin sodium
+
+gabapentin
+
+glatiramer
+
+gold nanoparticle / pharmaceutics / pharmacokinetics
+
+lacosamide
+
+lamotrigine
+
+lipid nanoparticle / pharmaceutics / pharmacokinetics
+
+nanocarrier / pharmaceutics / pharmacokinetics
+
+nanohydrogel
+
+oxcarbazepine
+
+phenytoin
+
+piperine
+
+poloxamer
+
+polymer nanoparticle / pharmaceutics / pharmacokinetics
+
+solid lipid nanoparticle / pharmaceutics / pharmacokinetics
+
+stiripentol
+
+thymoquinone"
+Making memories last using the peripheral effect of direct current stimulation.,"Luckey A.M.
+
+McLeod L.S.
+
+Huang Y.
+
+Mohan A.
+
+Vanneste S.",,"adult
+
+alpha rhythm
+
+Alzheimer disease
+
+amygdala
+
+article
+
+behavior
+
+brain analysis
+
+brain depth stimulation
+
+brain injury
+
+clinical article
+
+cognitive defect
+
+controlled study
+
+decision making
+
+dermatome
+
+direct current
+
+disorders of higher cerebral function
+
+dorsolateral prefrontal cortex
+
+double blind procedure
+
+electric shock
+
+electroencephalogram
+
+electroencephalography
+
+electrostimulation
+
+epilepsy
+
+executive function
+
+female
+
+functional connectivity
+
+functional magnetic resonance imaging
+
+GABAergic transmission
+
+gray matter
+
+head movement
+
+hippocampus
+
+human
+
+image processing
+
+locus ceruleus
+
+long term memory
+
+male
+
+*memory
+
+memory consolidation
+
+nerve cell plasticity
+
+neurophysiology
+
+neuropsychological assessment
+
+nuclear magnetic resonance imaging
+
+photostimulation
+
+prefrontal cortex
+
+primary motor cortex
+
+protein synthesis
+
+saliva
+
+signal transduction
+
+skin conductance
+
+synaptic transmission
+
+*transcranial direct current stimulation
+
+transcutaneous electrical nerve stimulation
+
+visual stimulation
+
+word recognition
+
+working memory
+
+amylase/ec [Endogenous Compound]
+
+biological marker/ec [Endogenous Compound]
+
+cocaine
+
+illicit drug
+
+electrode
+
+MRI scanner","adult
+
+alpha rhythm
+
+Alzheimer disease
+
+amygdala
+
+Article
+
+behavior
+
+brain analysis
+
+brain depth stimulation
+
+brain injury
+
+clinical article
+
+cognitive defect
+
+controlled study
+
+decision making
+
+dermatome
+
+direct current
+
+disorders of higher cerebral function
+
+dorsolateral prefrontal cortex
+
+double blind procedure
+
+electric shock
+
+electroencephalogram
+
+electroencephalography
+
+electrostimulation
+
+epilepsy
+
+executive function
+
+female
+
+functional connectivity
+
+functional magnetic resonance imaging
+
+GABAergic transmission
+
+gray matter
+
+head movement
+
+hippocampus
+
+human
+
+image processing
+
+locus ceruleus
+
+long term memory
+
+male
+
+*memory
+
+memory consolidation
+
+nerve cell plasticity
+
+neurophysiology
+
+neuropsychological assessment
+
+nuclear magnetic resonance imaging
+
+photostimulation
+
+prefrontal cortex
+
+primary motor cortex
+
+protein synthesis
+
+saliva
+
+signal transduction
+
+skin conductance
+
+synaptic transmission
+
+*transcranial direct current stimulation
+
+transcutaneous electrical nerve stimulation
+
+visual stimulation
+
+word recognition
+
+working memory","Most memories that are formed are forgotten, while others are retained longer and are subject to memory stabilization. We show that non-invasive transcutaneous electrical stimulation of the greater occipital nerve (NITESGON) using direct current during learning elicited a long-term memory effect. However, it did not trigger an immediate effect on learning. A neurobiological model of long-term memory proposes a mechanism by which memories that are initially unstable can be strengthened through subsequent novel experiences. In a series of studies, we demonstrate NITESGON's capability to boost the retention of memories when applied shortly before, during, or shortly after the time of learning by enhancing memory consolidation via activation and communica-tion in and between the locus coeruleus pathway and hippocampus by plausibly modulating dopa-minergic input. These findings may have a significant impact for neurocognitive disorders that inhibit memory consolidation such as Alzheimer's disease.Copyright © 2023, eLife Sciences Publications Ltd. All rights reserved.",eLife,May-23,"amylase / endogenous compound
+
+biological marker / endogenous compound
+
+cocaine
+
+illicit drug"
+Cognitive Deficits in Aging Related to Changes in Basal Forebrain Neuronal Activity.,"Chaves-Coira I.
+
+Garcia-Magro N.
+
+Zegarra-Valdivia J.
+
+Torres-Aleman I.
+
+Nunez A.","cholinergic neurons
+
+electroencephalogram
+
+IGF-I
+
+neurodegenerative diseases
+
+sleep","Alzheimer disease
+
+auditory cortex
+
+*basal forebrain
+
+brain depth stimulation
+
+cholinergic system
+
+cholinergic transmission
+
+cognition
+
+*cognitive aging
+
+*cognitive defect
+
+*degenerative disease
+
+dementia
+
+*electroencephalogram
+
+electroencephalography
+
+human
+
+immunohistochemistry
+
+motor cortex
+
+prefrontal cortex
+
+prevalence
+
+primary somatosensory cortex
+
+REM sleep
+
+review
+
+sleep efficiency
+
+sleep time
+
+somatosensory evoked potential
+
+tauopathy
+
+visual cortex
+
+amyloid beta protein/ec [Endogenous Compound]
+
+somatomedin C/ec [Endogenous Compound]
+
+tau protein/ec [Endogenous Compound]","Alzheimer disease
+
+auditory cortex
+
+*basal forebrain
+
+brain depth stimulation
+
+cholinergic system
+
+cholinergic transmission
+
+cognition
+
+*cognitive aging
+
+*cognitive defect
+
+*degenerative disease
+
+dementia
+
+*electroencephalogram
+
+electroencephalography
+
+human
+
+immunohistochemistry
+
+motor cortex
+
+prefrontal cortex
+
+prevalence
+
+primary somatosensory cortex
+
+REM sleep
+
+Review
+
+sleep efficiency
+
+sleep time
+
+somatosensory evoked potential
+
+tauopathy
+
+visual cortex","Aging is a physiological process accompanied by a decline in cognitive performance. The cholinergic neurons of the basal forebrain provide projections to the cortex that are directly engaged in many cognitive processes in mammals. In addition, basal forebrain neurons contribute to the generation of different rhythms in the EEG along the sleep/wakefulness cycle. The aim of this review is to provide an overview of recent advances grouped around the changes in basal forebrain activity during healthy aging. Elucidating the underlying mechanisms of brain function and their decline is especially relevant in today's society as an increasingly aged population faces higher risks of developing neurodegenerative diseases such as Alzheimer's disease. The profound age-related cognitive deficits and neurodegenerative diseases associated with basal forebrain dysfunction highlight the importance of investigating the aging of this brain region.Copyright © 2023 by the authors.",Cells,Jun-23,"amyloid beta protein / endogenous compound
+
+somatomedin C / endogenous compound
+
+tau protein / endogenous compound"
+Deep Brain Stimulation beyond the Clinic: Navigating the Future of Parkinson's and Alzheimer's Disease Therapy.,"Senevirathne D.K.L.
+
+Mahboob A.
+
+Zhai K.
+
+Paul P.
+
+Kammen A.
+
+Lee D.J.
+
+Yousef M.S.
+
+Chaari A.","aging
+
+Alzheimer's disease
+
+deep brain stimulation
+
+dementia
+
+dyskinesia
+
+geriatrics
+
+neurology
+
+neuromodulation
+
+neurosurgery
+
+Parkinson's disease","*Alzheimer disease
+
+anosmia
+
+apraxia
+
+autobiographical memory
+
+bradykinesia
+
+brain atrophy
+
+*brain depth stimulation
+
+brain function
+
+brain hemorrhage
+
+clinical research
+
+cognitive defect
+
+constipation
+
+craniotomy
+
+default mode network
+
+dementia
+
+dyskinesia
+
+dysphagia
+
+dystonia
+
+electrode implantation
+
+electrostimulation
+
+Embase
+
+epilepsy
+
+excitotoxicity
+
+human
+
+Medline
+
+mental disease
+
+nerve degeneration
+
+neurofibrillary tangle
+
+neurology
+
+neuropsychological assessment
+
+neurosurgery
+
+neurotoxicity
+
+*Parkinson disease
+
+parkinsonism
+
+restlessness
+
+review
+
+Scopus
+
+search engine
+
+seizure
+
+speech disorder
+
+synaptic transmission
+
+transcranial direct current stimulation
+
+Unified Parkinson Disease Rating Scale
+
+acetylcholinesterase
+
+alpha synuclein/ec [Endogenous Compound]
+
+amyloid precursor protein/ec [Endogenous Compound]
+
+apolipoprotein E/ec [Endogenous Compound]
+
+donepezil
+
+galantamine
+
+levodopa
+
+memantine
+
+monoamine oxidase inhibitor
+
+presenilin 1/ec [Endogenous Compound]
+
+presenilin 2/ec [Endogenous Compound]
+
+rivastigmine
+
+implantable pulse generator","*Alzheimer disease
+
+anosmia
+
+apraxia
+
+autobiographical memory
+
+bradykinesia
+
+brain atrophy
+
+*brain depth stimulation
+
+brain function
+
+brain hemorrhage
+
+clinical research
+
+cognitive defect
+
+constipation
+
+craniotomy
+
+default mode network
+
+dementia
+
+dyskinesia
+
+dysphagia
+
+dystonia
+
+electrode implantation
+
+electrostimulation
+
+Embase
+
+epilepsy
+
+excitotoxicity
+
+human
+
+Medline
+
+mental disease
+
+nerve degeneration
+
+neurofibrillary tangle
+
+neurology
+
+neuropsychological assessment
+
+neurosurgery
+
+neurotoxicity
+
+*Parkinson disease
+
+parkinsonism
+
+restlessness
+
+Review
+
+Scopus
+
+search engine
+
+seizure
+
+speech disorder
+
+synaptic transmission
+
+transcranial direct current stimulation
+
+Unified Parkinson Disease Rating Scale","Deep brain stimulation (DBS) is a surgical procedure that uses electrical neuromodulation to target specific regions of the brain, showing potential in the treatment of neurodegenerative disorders such as Parkinson's disease (PD) and Alzheimer's disease (AD). Despite similarities in disease pathology, DBS is currently only approved for use in PD patients, with limited literature on its effectiveness in AD. While DBS has shown promise in ameliorating brain circuits in PD, further research is needed to determine the optimal parameters for DBS and address any potential side effects. This review emphasizes the need for foundational and clinical research on DBS in different brain regions to treat AD and recommends the development of a classification system for adverse effects. Furthermore, this review suggests the use of either a low-frequency system (LFS) or high-frequency system (HFS) depending on the specific symptoms of the patient for both PD and AD.Copyright © 2023 by the authors.",Cells,Jun-23,"acetylcholinesterase
+
+alpha synuclein / endogenous compound
+
+amyloid precursor protein / endogenous compound
+
+apolipoprotein E / endogenous compound
+
+donepezil
+
+galantamine
+
+levodopa
+
+memantine
+
+monoamine oxidase inhibitor
+
+presenilin 1 / endogenous compound
+
+presenilin 2 / endogenous compound
+
+rivastigmine"
+Seeking Therapies for Spinocerebellar Ataxia: From Gene Silencing to Systems-Based Approaches.,"Powers R.
+
+Paulson H.
+
+Srinivasan S.","Dysfunctional circuitry
+
+Organoids
+
+Repeat expansion
+
+Stem cells","Adeno associated virus
+
+amyotrophic lateral sclerosis
+
+*ataxia
+
+autosomal dominant disorder
+
+blastocyst
+
+brain depth stimulation
+
+cardiovascular magnetic resonance
+
+cell differentiation
+
+cell survival
+
+central nervous system
+
+copy number variation
+
+cytoarchitecture
+
+cytotoxicity
+
+degenerative disease
+
+DNA methylation
+
+DNA replication
+
+enzyme activity
+
+erythroblast
+
+gene editing
+
+gene expression
+
+gene overexpression
+
+*gene silencing
+
+high throughput screening
+
+hippocampus
+
+homeostasis
+
+human
+
+human cell
+
+Huntington chorea
+
+induced pluripotent stem cell
+
+inner cell mass
+
+motoneuron
+
+motor neuron disease
+
+nerve degeneration
+
+neural stem cell
+
+neuroprotection
+
+Parkinson disease
+
+parkinsonism
+
+phagocytosis
+
+photoreceptor
+
+polyadenylation
+
+protein aggregation
+
+protein homeostasis
+
+protein quality
+
+quality control
+
+regenerative medicine
+
+RNA interference
+
+signal transduction
+
+*spinocerebellar degeneration
+
+stem cell niche
+
+synaptic transmission
+
+upregulation
+
+Wnt signaling
+
+ataxin 3
+
+chlorzoxazone
+
+citalopram
+
+dopamine
+
+microRNA/ec [Endogenous Compound]
+
+polyglutamine
+
+polyubiquitin
+
+tumor necrosis factor/ec [Endogenous Compound]","Adeno associated virus
+
+amyotrophic lateral sclerosis
+
+*ataxia
+
+autosomal dominant disorder
+
+blastocyst
+
+brain depth stimulation
+
+cardiovascular magnetic resonance
+
+cell differentiation
+
+cell survival
+
+central nervous system
+
+copy number variation
+
+cytoarchitecture
+
+cytotoxicity
+
+degenerative disease
+
+DNA methylation
+
+DNA replication
+
+enzyme activity
+
+erythroblast
+
+gene editing
+
+gene expression
+
+gene overexpression
+
+*gene silencing
+
+high throughput screening
+
+hippocampus
+
+homeostasis
+
+human
+
+human cell
+
+Huntington chorea
+
+induced pluripotent stem cell
+
+inner cell mass
+
+motoneuron
+
+motor neuron disease
+
+nerve degeneration
+
+neural stem cell
+
+neuroprotection
+
+Parkinson disease
+
+parkinsonism
+
+phagocytosis
+
+photoreceptor
+
+polyadenylation
+
+protein aggregation
+
+protein homeostasis
+
+protein quality
+
+quality control
+
+regenerative medicine
+
+RNA interference
+
+signal transduction
+
+*spinocerebellar degeneration
+
+stem cell niche
+
+synaptic transmission
+
+upregulation
+
+Wnt signaling","Recent progress has led to nucleotide-based gene silencing strategies as a potential therapy for spinocerebellar ataxia type 3 (SCA3) and other hereditary ataxias. But recent setbacks for antisense oligonucleotide (ASO) therapy in another CAG repeat disease, Huntington's disease (HD), remind us of the importance of broadening the search for potential routes to disease-modifying therapies. Here we review alternative approaches. We begin by introducing some of the complexities and nuances of SCA3 that can help guide therapeutic strategies. We then review the myriad biological pathways that are potentially druggable in SCA3, and the current use of genetic and small molecule screens to identify targets and possible therapeutic agents. Given the importance of employing model systems in which the disease gene and protein are assessed at physiological concentrations in the human genomic context, we discuss the emerging importance and challenges of using human stem cells to study disease mechanisms and test therapeutic targets and novel pharmacologic agents. We conclude by considering SCA3 and related SCAs beyond biochemical pathways and as diseases of impaired connectivity, emphasizing the largely untapped potential of modulating neuronal activity and brain connectivity for possible disease-modifying therapies.Copyright © 2023, The Author(s), under exclusive license to Springer Nature Switzerland AG.",,2023,"ataxin 3
+
+chlorzoxazone
+
+citalopram
+
+dopamine
+
+microRNA / endogenous compound
+
+polyglutamine
+
+polyubiquitin
+
+tumor necrosis factor / endogenous compound"
+Modern Approaches to Augmenting the Brain Functions.,"Opris I.
+
+Noga B.R.
+
+Lebedev M.A.
+
+Casanova M.F.","Augmentation
+
+Brain function
+
+Brain-machine interface
+
+DBS
+
+MEA
+
+Prosthetics
+
+TMS","action potential
+
+alpha rhythm
+
+Alzheimer disease
+
+amygdala
+
+anterior cingulate
+
+anxiety
+
+artificial neural network
+
+assistive technology
+
+*augmentation index
+
+autism
+
+bioenergy
+
+blood brain barrier
+
+brain depth stimulation
+
+*brain function
+
+brain region
+
+cognition
+
+connectome
+
+cortical excitability
+
+depression
+
+dorsolateral prefrontal cortex
+
+drug dependence
+
+electroencephalogram
+
+electroencephalography
+
+electrostimulation
+
+entropy
+
+functional magnetic resonance imaging
+
+hemodynamics
+
+hippocampus
+
+human
+
+kinematics
+
+local field potential
+
+locomotion
+
+machine learning
+
+motor cortex
+
+motor performance
+
+near infrared spectroscopy
+
+nerve cell network
+
+nerve cell plasticity
+
+nerve potential
+
+nerve stimulation
+
+neuromodulation
+
+nuclear magnetic resonance imaging
+
+nucleus accumbens
+
+optogenetics
+
+posttraumatic stress disorder
+
+primary motor cortex
+
+principal component analysis
+
+quality of life
+
+retina degeneration
+
+*scientific literature
+
+seizure
+
+sensory feedback
+
+somatosensory cortex
+
+spinal cord stimulation
+
+subthalamic nucleus
+
+task performance
+
+thermal conductivity
+
+transcranial magnetic stimulation
+
+vagus nerve stimulation
+
+ventromedial prefrontal cortex
+
+working memory
+
+gold nanoparticle
+
+nanocomposite
+
+nanowire
+
+brain computer interface","action potential
+
+alpha rhythm
+
+Alzheimer disease
+
+amygdala
+
+anterior cingulate
+
+anxiety
+
+artificial neural network
+
+assistive technology
+
+*augmentation index
+
+autism
+
+bioenergy
+
+blood brain barrier
+
+brain depth stimulation
+
+*brain function
+
+brain region
+
+cognition
+
+connectome
+
+cortical excitability
+
+depression
+
+dorsolateral prefrontal cortex
+
+drug dependence
+
+electroencephalogram
+
+electroencephalography
+
+electrostimulation
+
+entropy
+
+functional magnetic resonance imaging
+
+hemodynamics
+
+hippocampus
+
+human
+
+kinematics
+
+local field potential
+
+locomotion
+
+machine learning
+
+motor cortex
+
+motor performance
+
+near infrared spectroscopy
+
+nerve cell network
+
+nerve cell plasticity
+
+nerve potential
+
+nerve stimulation
+
+neuromodulation
+
+nuclear magnetic resonance imaging
+
+nucleus accumbens
+
+optogenetics
+
+posttraumatic stress disorder
+
+primary motor cortex
+
+principal component analysis
+
+quality of life
+
+retina degeneration
+
+*scientific literature
+
+seizure
+
+sensory feedback
+
+somatosensory cortex
+
+spinal cord stimulation
+
+subthalamic nucleus
+
+task performance
+
+thermal conductivity
+
+transcranial magnetic stimulation
+
+vagus nerve stimulation
+
+ventromedial prefrontal cortex
+
+working memory","With the advances in neuroscience and neuroengineering, augmentation of brain functions has become a real possibility in sensory, motor, and cognitive domains. Both invasive and noninvasive interventions that target brain micro- and macrocircuits and produce functional improvements have been developed. In this review, we critically evaluate the existing methods for brain augmentation and discuss specific aspects of brain circuitry and neuronal mechanisms that could be augmented. The review covers a range of approaches, including neuromodulation, pharmacological methods, brain-computer and brain-to-brain interfaces, and even lasers. We describe advances in neural technologies, such as microtechnology, spintronics, nanotechnology, optogenetics, and minimally invasive electrode arrays. These modern tools hold promise to translate to revolutionary treatments for devastating brain disorders. Given the potential impact of brain augmentation approaches on the society, it is also important to discuss the philosophical and ethical issues arising from the use of technologies to enhance neural processing of information, memory, attention, and emotions.Copyright © 2021, Springer Nature Switzerland AG.",,2021,"gold nanoparticle
+
+nanocomposite
+
+nanowire"
+Effects of repetitive transcranial magnetic stimulation and their underlying neural mechanisms evaluated with magnetic resonance imaging-based brain connectivity network analyses.,"Han X.
+
+Zhu Z.
+
+Luan J.
+
+Lv P.
+
+Xin X.
+
+Zhang X.
+
+Shmuel A.
+
+Yao Z.
+
+Ma G.
+
+Zhang B.","Brain connectivity network
+
+Magnetic resonance imaging
+
+Neuropathological mechanisms
+
+Neuropsychiatric diseases
+
+Repetitive transcranial magnetic stimulation","Alzheimer disease
+
+anterior cingulate
+
+auditory cortex
+
+auditory hallucination
+
+BOLD signal
+
+brain depth stimulation
+
+cognition
+
+cognitive defect
+
+diagnostic test accuracy study
+
+dorsolateral prefrontal cortex
+
+electroencephalography
+
+*functional connectivity
+
+*functional magnetic resonance imaging
+
+human
+
+major depression
+
+*mental disease/rh [Rehabilitation]
+
+nerve cell network
+
+nerve cell plasticity
+
+nervous system development
+
+*network analysis
+
+neuromodulation
+
+*neuropathology
+
+neuropsychological assessment
+
+Parkinson disease
+
+primary motor cortex
+
+randomized controlled trial (topic)
+
+receiver operating characteristic
+
+*repetitive transcranial magnetic stimulation
+
+review
+
+schizophrenia
+
+systematic review","Alzheimer disease
+
+anterior cingulate
+
+auditory cortex
+
+auditory hallucination
+
+BOLD signal
+
+brain depth stimulation
+
+cognition
+
+cognitive defect
+
+diagnostic test accuracy study
+
+dorsolateral prefrontal cortex
+
+electroencephalography
+
+*functional connectivity
+
+*functional magnetic resonance imaging
+
+human
+
+major depression
+
+*mental disease / *rehabilitation
+
+nerve cell network
+
+nerve cell plasticity
+
+nervous system development
+
+*network analysis
+
+neuromodulation
+
+*neuropathology
+
+neuropsychological assessment
+
+Parkinson disease
+
+primary motor cortex
+
+randomized controlled trial (topic)
+
+receiver operating characteristic
+
+*repetitive transcranial magnetic stimulation
+
+Review
+
+schizophrenia
+
+systematic review","Repetitive transcranial magnetic stimulation (rTMS) is a noninvasive brain modulation and rehabilitation technique used in patients with neuropsychiatric diseases. rTMS can structurally remodel or functionally induce activities of specific cortical regions and has developed to an important therapeutic method in such patients. Magnetic resonance imaging (MRI) provides brain data that can be used as an explanation tool for the neural mechanisms underlying rTMS effects; brain alterations related to different functions or structures may be reflected in changes in the interaction and influence of brain connections within intrinsic specific networks. In this review, we discuss the technical details of rTMS and the biological interpretation of brain networks identified with MRI analyses, comprehensively summarize the neurobiological effects in rTMS-modulated individuals, and elaborate on changes in the brain network in patients with various neuropsychiatric diseases receiving rehabilitation treatment with rTMS. We conclude that brain connectivity network analysis based on MRI can reflect alterations in functional and structural connectivity networks comprising adjacent and separated brain regions related to stimulation sites, thus reflecting the occurrence of intrinsic functional integration and neuroplasticity. Therefore, MRI is a valuable tool for understanding the neural mechanisms of rTMS and practically tailoring treatment plans for patients with neuropsychiatric diseases.Copyright © 2023",European Journal of Radiology Open,Jan-23,
+Gamma sensory entrainment for cognitive improvement in neurodegenerative diseases: opportunities and challenges ahead.,"Sahu P.P.
+
+Tseng P.","40 Hz stimulation
+
+brain stimulation
+
+GENUS
+
+sensory entrainment
+
+visuoauditory stimulation","Alzheimer disease
+
+auditory stimulation
+
+brain depth stimulation
+
+*cognition
+
+cognitive defect
+
+*degenerative disease
+
+human
+
+memory disorder
+
+mental disease
+
+neurologic disease
+
+nonhuman
+
+oscillation
+
+protein phosphorylation
+
+*sensation
+
+*sensory stimulation
+
+short survey
+
+visual stimulation
+
+amyloid/ec [Endogenous Compound]
+
+tau protein/ec [Endogenous Compound]
+
+*gamma sensory entrainment","Alzheimer disease
+
+auditory stimulation
+
+brain depth stimulation
+
+*cognition
+
+cognitive defect
+
+*degenerative disease
+
+human
+
+memory disorder
+
+mental disease
+
+neurologic disease
+
+nonhuman
+
+oscillation
+
+protein phosphorylation
+
+*sensation
+
+*sensory stimulation
+
+Short Survey
+
+visual stimulation","Neural oscillations have been categorized into various frequency bands that are mechanistically associated with different cognitive functions. Specifically, the gamma band frequency is widely implicated to be involved in a wide range of cognitive processes. As such, decreased gamma oscillation has been associated with cognitive declines in neurological diseases, such as memory dysfunction in Alzheimer's disease (AD). Recently, studies have attempted to artificially induce gamma oscillations by using 40 Hz sensory entrainment stimulation. These studies reported attenuation of amyloid load, hyper-phosphorylation of tau protein, and improvement in overall cognition in both AD patients and mouse models. In this review, we discuss the advancements in the use of sensory stimulation in animal models of AD and as a therapeutic strategy in AD patients. We also discuss future opportunities, as well as challenges, for using such strategies in other neurodegenerative and neuropsychiatric diseases.Copyright © 2023 Sahu and Tseng.",Frontiers in Integrative Neuroscience,2023,"amyloid / endogenous compound
+
+tau protein / endogenous compound"
+Three Class Classification of Alzheimer's Disease Using Deep Neural Networks.,"Shah D.R.
+
+Kapdi R.A.
+
+Patel J.S.
+
+Patel J.","Alzheimer's disease
+
+classification
+
+DenseNet
+
+DNN
+
+MRI
+
+ResNet","*Alzheimer disease
+
+architecture
+
+artificial intelligence
+
+artificial neural network
+
+brain depth stimulation
+
+*classification
+
+clinical decision making
+
+cognition
+
+cognitive defect
+
+computer model
+
+convolutional neural network
+
+decision making
+
+*deep neural network
+
+dementia
+
+error
+
+functional connectivity
+
+human
+
+image enhancement
+
+image segmentation
+
+implementation science
+
+learning algorithm
+
+loss of function mutation
+
+machine learning
+
+mathematical model
+
+mental disease
+
+nervous system
+
+neuroimaging
+
+nuclear magnetic resonance imaging
+
+personality
+
+residual neural network
+
+review
+
+training
+
+DenseNet","*Alzheimer disease
+
+architecture
+
+artificial intelligence
+
+artificial neural network
+
+brain depth stimulation
+
+*classification
+
+clinical decision making
+
+cognition
+
+cognitive defect
+
+computer model
+
+convolutional neural network
+
+decision making
+
+*deep neural network
+
+dementia
+
+error
+
+functional connectivity
+
+human
+
+image enhancement
+
+image segmentation
+
+implementation science
+
+learning algorithm
+
+loss of function mutation
+
+machine learning
+
+mathematical model
+
+mental disease
+
+nervous system
+
+neuroimaging
+
+nuclear magnetic resonance imaging
+
+personality
+
+residual neural network
+
+Review
+
+training","Alzheimer's disease (AD) is a prevalent type of dementia that can cause neurological brain disorders, poor decision making, impaired memory, mood swings, unstable emotions, and personality change. Deep neural networks are proficient in classifying Alzheimer's disease based on MRI images. This classification assists human experts in diagnosing AD and predicts its future progression. The paper proposes various Deep Neural Networks (DNN) for early AD detection to save cost and time for doctors, radiologists, and caregivers. A 3330-image-based Kaggle dataset is used to train the DNN, including 52 images of AD, 717 images of Mild Cognitive Impairment (MCI), and the remaining images of Cognitive Normal (CN). Stratified partitioning splits the dataset into 80% and 20% proportions for training and validation datasets. Proposed models include DenseNet169, DenseNet201, and ResNet152 DNNs with additional three fully-connected layers and softmax and Kullback Leibler Divergence (KLD) loss function. These models are trained considering pre-trained, partially pre-trained, and fully re-trained extended base models. The KLD loss function reduces the error and increases accuracy for all models. The partially pre-trained DenseNet201 model outperformed all the other models. DenseNet201 gives the highest accuracy of 99.98% for training, 99.07% for validation, and 95.66% for test datasets. The DenseNet201 model has the highest accuracy in comparison to other state-of-artmethods.Copyright © 2023 Bentham Science Publishers.",Current Medical Imaging,2023,
+Role of Sirtuin 3 in Degenerative Diseases of the Central Nervous System.,"Zhang H.
+
+Dai S.
+
+Yang Y.
+
+Wei J.
+
+Li X.
+
+Luo P.
+
+Jiang X.","Alzheimer's disease
+
+amyotrophic lateral sclerosis
+
+Huntington's disease
+
+mitochondrial function
+
+multiple sclerosis
+
+neurodegenerative diseases
+
+Parkinson's disease
+
+Sirtuin 3","aging
+
+Alzheimer disease
+
+AMPK signaling
+
+amyotrophic lateral sclerosis
+
+animal cell
+
+antiapoptosis
+
+apoptosis
+
+blood brain barrier
+
+brain depth stimulation
+
+cell death
+
+cell viability
+
+*central nervous system
+
+citric acid cycle
+
+*degenerative disease
+
+disorders of mitochondrial functions
+
+endoplasmic reticulum stress
+
+energy metabolism
+
+enzyme activity
+
+human
+
+human cell
+
+Huntington chorea
+
+microglia
+
+mitochondrial biogenesis
+
+mitochondrial dynamics
+
+multiple sclerosis
+
+nerve cell plasticity
+
+nerve conduction
+
+neural stem cell
+
+neuroprotection
+
+neurotoxicity
+
+nonhuman
+
+oxidative phosphorylation
+
+oxidative stress
+
+Parkinson disease
+
+physiological stress
+
+postsynaptic density
+
+protein acetylation
+
+protein expression
+
+protein function
+
+protein homeostasis
+
+protein phosphorylation
+
+quality of life
+
+regulatory mechanism
+
+review
+
+signal transduction
+
+synaptic transmission
+
+traumatic brain injury
+
+upregulation
+
+amyloid precursor protein/ec [Endogenous Compound]
+
+glucose transporter 4/ec [Endogenous Compound]
+
+glutamate dehydrogenase/ec [Endogenous Compound]
+
+glutathione reductase/ec [Endogenous Compound]
+
+isocitrate dehydrogenase 2/ec [Endogenous Compound]
+
+mitochondrial DNA/ec [Endogenous Compound]
+
+nicotinamide adenine dinucleotide/ec [Endogenous Compound]
+
+prostaglandin E2/ec [Endogenous Compound]
+
+silibinin/ec [Endogenous Compound]
+
+sirtuin 1/ec [Endogenous Compound]
+
+*sirtuin 3/an [Drug Analysis]
+
+*sirtuin 3/ec [Endogenous Compound]
+
+tau protein/ec [Endogenous Compound]
+
+transcription factor Nrf2/ec [Endogenous Compound]
+
+tricarboxylic acid/ec [Endogenous Compound]","aging
+
+Alzheimer disease
+
+AMPK signaling
+
+amyotrophic lateral sclerosis
+
+animal cell
+
+antiapoptosis
+
+apoptosis
+
+blood brain barrier
+
+brain depth stimulation
+
+cell death
+
+cell viability
+
+*central nervous system
+
+citric acid cycle
+
+*degenerative disease
+
+disorders of mitochondrial functions
+
+endoplasmic reticulum stress
+
+energy metabolism
+
+enzyme activity
+
+human
+
+human cell
+
+Huntington chorea
+
+microglia
+
+mitochondrial biogenesis
+
+mitochondrial dynamics
+
+multiple sclerosis
+
+nerve cell plasticity
+
+nerve conduction
+
+neural stem cell
+
+neuroprotection
+
+neurotoxicity
+
+nonhuman
+
+oxidative phosphorylation
+
+oxidative stress
+
+Parkinson disease
+
+physiological stress
+
+postsynaptic density
+
+protein acetylation
+
+protein expression
+
+protein function
+
+protein homeostasis
+
+protein phosphorylation
+
+quality of life
+
+regulatory mechanism
+
+Review
+
+signal transduction
+
+synaptic transmission
+
+traumatic brain injury
+
+upregulation","An NAD+-dependent deacetylase called Sirtuin 3 (Sirt3) is involved in the metabolic processes of the mitochondria, including energy generation, the tricarboxylic acid cycle, and oxidative stress. Sirt3 activation can slow down or prevent mitochondrial dysfunction in response to neurodegenerative disorders, demonstrating a strong neuroprotective impact. The mechanism of Sirt3 in neurodegenerative illnesses has been elucidated over time; it is essential for neuron, astrocyte, and microglial function, and its primary regulatory factors include antiapoptosis, oxidative stress, and the maintenance of metabolic homeostasis. Neurodegenerative disorders, such as Alzheimer's disease (AD), Parkinson's disease (PD), Huntington's disease (HD), amyotrophic lateral sclerosis (ALS), and multiple sclerosis (MS), may benefit from a thorough and in-depth investigation of Sirt3. In this review, we primarily cover Sirt3's role and its regulation in the nerve cells and the connection between Sirt3 and neurodegenerative disorders.Copyright © 2023 by the authors.",Biomolecules,May-23,"amyloid precursor protein / endogenous compound
+
+glucose transporter 4 / endogenous compound
+
+glutamate dehydrogenase / endogenous compound
+
+glutathione reductase / endogenous compound
+
+isocitrate dehydrogenase 2 / endogenous compound
+
+mitochondrial DNA / endogenous compound
+
+nicotinamide adenine dinucleotide / endogenous compound
+
+prostaglandin E2 / endogenous compound
+
+silibinin / endogenous compound
+
+sirtuin 1 / endogenous compound
+
+*sirtuin 3 / *drug analysis / *endogenous compound
+
+tau protein / endogenous compound
+
+transcription factor Nrf2 / endogenous compound
+
+tricarboxylic acid / endogenous compound"
+Outcomes and Factors Affecting Transcranial Direct Current Stimulation in Alzheimer's Disease Patients: A Systematic Review.,"Tariq R.
+
+Kansal B.
+
+Shaikh R.
+
+Datta S.
+
+Anadkat H.
+
+Bista S.","Alzheimer's Disease
+
+Anodal Transcranial Direct Current Stimulation
+
+Brain stimulation
+
+Cathodal Transcranial Direct Current Stimulation
+
+DLPFC Stimulation
+
+Neurodegeneration
+
+Neuromodulation
+
+Transcranial Direct Current Stimulation","adult
+
+*Alzheimer disease
+
+article
+
+associative memory
+
+attention
+
+*brain depth stimulation
+
+case study
+
+Cochrane Library
+
+current density
+
+*dorsolateral prefrontal cortex
+
+double blind procedure
+
+executive function
+
+female
+
+human
+
+language
+
+male
+
+Medline
+
+memory
+
+mental disease
+
+*nerve degeneration
+
+*neuromodulation
+
+*outcome assessment
+
+phase 3 clinical trial (topic)
+
+randomized controlled trial (topic)
+
+recall
+
+ScienceDirect
+
+systematic review
+
+*transcranial direct current stimulation
+
+working memory
+
+placebo","adult [m]
+
+*Alzheimer disease [m]
+
+article [m]
+
+associative memory [m]
+
+attention [m]
+
+*brain depth stimulation [m]
+
+case study [m]
+
+Cochrane Library [m]
+
+current density [m]
+
+*dorsolateral prefrontal cortex [m]
+
+double blind procedure [m]
+
+executive function [m]
+
+female [m]
+
+human [m]
+
+language [m]
+
+male [m]
+
+Medline [m]
+
+memory [m]
+
+mental disease [m]
+
+*nerve degeneration [m]
+
+*neuromodulation [m]
+
+*outcome assessment [m]
+
+phase 3 clinical trial (topic) [m]
+
+randomized controlled trial (topic) [m]
+
+recall [m]
+
+ScienceDirect [m]
+
+systematic review [m]
+
+*transcranial direct current stimulation [m]
+
+working memory [m]","INTRODUCTION: Alzheimer's disease (AD) is the most common form of dementia. There have been various proposed pharmacologic and non-pharmacologic treatments proposed for preventing cognitive decline in AD patients. Transcranial Direct Current Stimulation (tDCS) is a neuromodulation technique used to enhance cognitive functions and motor skills of the brain. Our study aimed to assess the effects of tDCS in AD patients, including effects on general cognitive status, memory, attention, executive functions, language, IQ, and neuropsychological effects, along with the factors influencing the outcomes. METHOD(S): Systematic searches were conducted for relevant evidence using PubMed, ScienceDirect, and Cochrane Library databases for '(Transcranial Direct Current Stimulation) AND (Alzheimer's). Duplicates were removed, and the remaining articles were screened for double-blind, placebo-controlled, Randomized Clinical trials (Phase III), case studies, and case series on patients diagnosed with AD using tDCS. The articles were assessed for full text, and studies were selected and analyzed to include in the review. RESULT(S): Overall, 20 studies were reviewed. Cognitive status, executive function and working memory, recognition memory, and language function may improve following AtDCS depending on the stimulation polarity and area stimulated. No significant effects of tDCS were seen on attention, associative memory, recall memory, visuospatial ability, and neuropsychiatric symptoms Discussion: Therapy outcomes and the factors that could affect them were analyzed, which included the number of sessions taken, current density, stimulation polarity (cathodal/anodal/dual), area stimulated, training(s) given, and study timeline. CONCLUSION(S): tDCS is a well-tolerated therapy that can be used for improving several cognitive domains in patients having Alzheimer's disease. Its treatment outcomes are affected by polarity (cathodal/anodal), site of stimulation, number of sessions taken, and any training(s) given during the study.Copyright© Bentham Science Publishers; For any queries, please email at epub@benthamscience.net.",Current Alzheimer research,01-Jun-23,placebo [m]
+"Pallidal activities during sleep and sleep decoding in dystonia, Huntington's, and Parkinson's disease.","Yin Z.
+
+Jiang Y.
+
+Merk T.
+
+Neumann W.-J.
+
+Ma R.
+
+An Q.
+
+Bai Y.
+
+Zhao B.
+
+Xu Y.
+
+Fan H.
+
+Zhang Q.
+
+Qin G.
+
+Zhang N.
+
+Ma J.
+
+Zhang H.
+
+Liu H.
+
+Shi L.
+
+Yang A.
+
+Meng F.
+
+Zhu G.
+
+Zhang J.","Basal ganglia, local field potential
+
+Deep brain stimulation
+
+Movement disorders
+
+Sleep disorders","adolescent
+
+adult
+
+aged
+
+article
+
+brain depth stimulation
+
+clinical article
+
+*dystonia/di [Diagnosis]
+
+*dystonia/dt [Drug Therapy]
+
+electrooculography
+
+female
+
+*globus pallidus
+
+human
+
+*Huntington chorea/di [Diagnosis]
+
+*Huntington chorea/dt [Drug Therapy]
+
+local field potential
+
+machine learning
+
+male
+
+mathematical model
+
+middle aged
+
+neuroimaging
+
+nonREM sleep
+
+nuclear magnetic resonance imaging
+
+*Parkinson disease/di [Diagnosis]
+
+*Parkinson disease/dt [Drug Therapy]
+
+*Parkinson disease/th [Therapy]
+
+polysomnography
+
+REM sleep
+
+*sleep
+
+*sleep disorder/di [Diagnosis]
+
+sleep pattern
+
+subthalamic nucleus
+
+young adult
+
+amantadine/dt [Drug Therapy]
+
+amantadine/pv [Special Situation for Pharmacovigilance]
+
+baclofen/dt [Drug Therapy]
+
+baclofen/pv [Special Situation for Pharmacovigilance]
+
+benserazide plus levodopa/dt [Drug Therapy]
+
+benserazide plus levodopa/pv [Special Situation for Pharmacovigilance]
+
+botulinum toxin/dt [Drug Therapy]
+
+botulinum toxin/pv [Special Situation for Pharmacovigilance]
+
+carbamazepine/dt [Drug Therapy]
+
+carbamazepine/pv [Special Situation for Pharmacovigilance]
+
+carbidopa plus levodopa/dt [Drug Therapy]
+
+carbidopa plus levodopa/pv [Special Situation for Pharmacovigilance]
+
+clonazepam/dt [Drug Therapy]
+
+clonazepam/pv [Special Situation for Pharmacovigilance]
+
+entacapone/dt [Drug Therapy]
+
+entacapone/pv [Special Situation for Pharmacovigilance]
+
+haloperidol/dt [Drug Therapy]
+
+haloperidol/pv [Special Situation for Pharmacovigilance]
+
+mecobalamin/dt [Drug Therapy]
+
+mecobalamin/pv [Special Situation for Pharmacovigilance]
+
+piribedil/dt [Drug Therapy]
+
+piribedil/pv [Special Situation for Pharmacovigilance]
+
+pramipexole/dt [Drug Therapy]
+
+pramipexole/pv [Special Situation for Pharmacovigilance]
+
+rasagiline/dt [Drug Therapy]
+
+rasagiline/pv [Special Situation for Pharmacovigilance]
+
+tiapride/dt [Drug Therapy]
+
+tiapride/pv [Special Situation for Pharmacovigilance]
+
+trihexyphenidyl/dt [Drug Therapy]
+
+trihexyphenidyl/pv [Special Situation for Pharmacovigilance]","adolescent
+
+adult
+
+aged
+
+Article
+
+brain depth stimulation
+
+clinical article
+
+*dystonia / *diagnosis / *drug therapy
+
+electrooculography
+
+female
+
+*globus pallidus
+
+human
+
+*Huntington chorea / *diagnosis / *drug therapy
+
+local field potential
+
+machine learning
+
+male
+
+mathematical model
+
+middle aged
+
+neuroimaging
+
+nonREM sleep
+
+nuclear magnetic resonance imaging
+
+*Parkinson disease / *diagnosis / *drug therapy / *therapy
+
+polysomnography
+
+REM sleep
+
+*sleep
+
+*sleep disorder / *diagnosis
+
+sleep pattern
+
+subthalamic nucleus
+
+young adult","Background: Sleep disturbances are highly prevalent in movement disorders, potentially due to the malfunctioning of basal ganglia structures. Pallidal deep brain stimulation (DBS) has been widely used for multiple movement disorders and been reported to improve sleep. We aimed to investigate the oscillatory pattern of pallidum during sleep and explore whether pallidal activities can be utilized to differentiate sleep stages, which could pave the way for sleep-aware adaptive DBS. Method(s): We directly recorded over 500 h of pallidal local field potentials during sleep from 39 subjects with movement disorders (20 dystonia, 8 Huntington's disease, and 11 Parkinson's disease). Pallidal spectrum and cortical-pallidal coherence were computed and compared across sleep stages. Machine learning approaches were utilized to build sleep decoders for different diseases to classify sleep stages through pallidal oscillatory features. Decoding accuracy was further associated with the spatial localization of the pallidum. Result(s): Pallidal power spectra and cortical-pallidal coherence were significantly modulated by sleep-stage transitions in three movement disorders. Differences in sleep-related activities between diseases were identified in non-rapid eye movement (NREM) and REM sleep. Machine learning models using pallidal oscillatory features can decode sleep-wake states with over 90% accuracy. Decoding accuracies were higher in recording sites within the internus-pallidum than the external-pallidum, and can be precited using structural (P < 0.0001) and functional (P < 0.0001) whole-brain neuroimaging connectomics. Conclusion(s): Our findings revealed strong sleep-stage dependent distinctions in pallidal oscillations in multiple movement disorders. Pallidal oscillatory features were sufficient for sleep stage decoding. These data may facilitate the development of adaptive DBS systems targeting sleep problems that have broad translational prospects.Copyright © 2023 The Authors",Neurobiology of Disease,15-Jun-23,"amantadine / drug therapy / special situation for pharmacovigilance
+
+baclofen / drug therapy / special situation for pharmacovigilance
+
+benserazide plus levodopa / drug therapy / special situation for pharmacovigilance
+
+botulinum toxin / drug therapy / special situation for pharmacovigilance
+
+carbamazepine / drug therapy / special situation for pharmacovigilance
+
+carbidopa plus levodopa / drug therapy / special situation for pharmacovigilance
+
+clonazepam / drug therapy / special situation for pharmacovigilance
+
+entacapone / drug therapy / special situation for pharmacovigilance
+
+haloperidol / drug therapy / special situation for pharmacovigilance
+
+mecobalamin / drug therapy / special situation for pharmacovigilance
+
+piribedil / drug therapy / special situation for pharmacovigilance
+
+pramipexole / drug therapy / special situation for pharmacovigilance
+
+rasagiline / drug therapy / special situation for pharmacovigilance
+
+tiapride / drug therapy / special situation for pharmacovigilance
+
+trihexyphenidyl / drug therapy / special situation for pharmacovigilance"
+Theta/Alpha Band Suppression and Clinical Outcomes During Globus Pallidus Internus Deep Brain Stimulation in Huntington's Disease.,"Martinez-Horta S.
+
+Aracil-Bolanos I.
+
+Perez-Perez J.
+
+Perez-Carasol L.
+
+Garcia-Cornet J.
+
+Campolongo A.
+
+Aibar-Duran J.A.
+
+Rodriguez-Rodriguez R.
+
+Pascual-Sedano B.
+
+Kulisevsky J.","DBS
+
+deep brain stimulation
+
+GPi
+
+Huntington's disease
+
+LFPs","adult
+
+alpha rhythm
+
+*brain depth stimulation
+
+case report
+
+clinical article
+
+*clinical outcome
+
+female
+
+Fourier transform
+
+*globus pallidus
+
+human
+
+*Huntington chorea/di [Diagnosis]
+
+*internal auditory canal
+
+letter
+
+local field potential
+
+middle aged
+
+spectroscopy
+
+*theta rhythm
+
+Unified Huntington Disease Rating Scale
+
+imaging software
+
+implantable pulse generator
+
+BrainVision
+
+Medtronic PERCEPT","adult
+
+alpha rhythm
+
+*brain depth stimulation
+
+case report
+
+clinical article
+
+*clinical outcome
+
+female
+
+Fourier transform
+
+*globus pallidus
+
+human
+
+*Huntington chorea / *diagnosis
+
+*internal auditory canal
+
+Letter
+
+local field potential
+
+middle aged
+
+spectroscopy
+
+*theta rhythm
+
+Unified Huntington Disease Rating Scale",,Movement Disorders Clinical Practice,Mar-23,
+Valbenazine as treatment for Huntington's disease chorea.,"Heim B.
+
+Seppi K.",,"brain depth stimulation
+
+drug safety
+
+human
+
+*Huntington chorea/dt [Drug Therapy]
+
+note
+
+outcome assessment
+
+patient safety
+
+randomized controlled trial (topic)
+
+deutetrabenazine
+
+tetrabenazine
+
+*valbenazine/dt [Drug Therapy]","brain depth stimulation
+
+drug safety
+
+human
+
+*Huntington chorea / *drug therapy
+
+Note
+
+outcome assessment
+
+patient safety
+
+randomized controlled trial (topic)",,The Lancet Neurology,Jun-23,"deutetrabenazine
+
+tetrabenazine
+
+*valbenazine / *drug therapy"
+"Links between COVID-19 and Parkinson's disease/Alzheimer's disease: reciprocal impacts, medical care strategies and underlying mechanisms.","Huang P.
+
+Zhang L.-Y.
+
+Tan Y.-Y.
+
+Chen S.-D.","Alzheimer's disease
+
+COVID-19
+
+Mechanism
+
+Parkinson's disease
+
+SARS-CoV-2","aging
+
+*Alzheimer disease
+
+blood brain barrier
+
+bradykinesia
+
+brain depth stimulation
+
+CD4+ T lymphocyte
+
+chronic kidney failure
+
+cognitive defect
+
+computer assisted tomography
+
+*coronavirus disease 2019/dt [Drug Therapy]
+
+coughing
+
+degenerative disease
+
+dementia
+
+depression
+
+disease severity
+
+dysautonomia
+
+fatigue
+
+fever
+
+human
+
+hypertension
+
+hyposmia
+
+inflammation
+
+influenza A (H1N1)
+
+insulin resistance
+
+*medical care
+
+mortality rate
+
+nerve degeneration
+
+nervous system inflammation
+
+neuropsychological assessment
+
+obesity
+
+oxidative stress
+
+*Parkinson disease
+
+positron emission tomography
+
+review
+
+sepsis
+
+sleep disorder
+
+telemedicine
+
+telerehabilitation
+
+Unified Parkinson Disease Rating Scale
+
+amantadine/dt [Drug Therapy]
+
+angiotensin converting enzyme 2/dt [Drug Therapy]
+
+clozapine/dt [Drug Therapy]
+
+dipeptidyl carboxypeptidase inhibitor/dt [Drug Therapy]
+
+elasomeran/dt [Drug Therapy]
+
+entacapone/dt [Drug Therapy]
+
+levodopa/dt [Drug Therapy]
+
+nimodipine/dt [Drug Therapy]
+
+reactive oxygen metabolite/ec [Endogenous Compound]
+
+tozinameran/dt [Drug Therapy]
+
+transcription factor Nrf2/ec [Endogenous Compound]
+
+vitamin D/dt [Drug Therapy]","aging
+
+*Alzheimer disease
+
+blood brain barrier
+
+bradykinesia
+
+brain depth stimulation
+
+CD4+ T lymphocyte
+
+chronic kidney failure
+
+cognitive defect
+
+computer assisted tomography
+
+*coronavirus disease 2019 / *drug therapy
+
+coughing
+
+degenerative disease
+
+dementia
+
+depression
+
+disease severity
+
+dysautonomia
+
+fatigue
+
+fever
+
+human
+
+hypertension
+
+hyposmia
+
+inflammation
+
+influenza A (H1N1)
+
+insulin resistance
+
+*medical care
+
+mortality rate
+
+nerve degeneration
+
+nervous system inflammation
+
+neuropsychological assessment
+
+obesity
+
+oxidative stress
+
+*Parkinson disease
+
+positron emission tomography
+
+Review
+
+sepsis
+
+sleep disorder
+
+telemedicine
+
+telerehabilitation
+
+Unified Parkinson Disease Rating Scale","The impact of coronavirus disease 2019 (COVID-19) pandemic on patients with neurodegenerative diseases and the specific neurological manifestations of COVID-19 have aroused great interest. However, there are still many issues of concern to be clarified. Therefore, we review the current literature on the complex relationship between COVID-19 and neurodegenerative diseases with an emphasis on Parkinson's disease (PD) and Alzheimer's disease (AD). We summarize the impact of COVID-19 infection on symptom severity, disease progression, and mortality rate of PD and AD, and discuss whether COVID-19 infection could trigger PD and AD. In addition, the susceptibility to and the prognosis of COVID-19 in PD patients and AD patients are also included. In order to achieve better management of PD and AD patients, modifications of care strategies, specific drug therapies, and vaccines during the pandemic are also listed. At last, mechanisms underlying the link of COVID-19 with PD and AD are reviewed.Copyright © 2023, The Author(s).",Translational Neurodegeneration,Dec-23,"amantadine / drug therapy
+
+angiotensin converting enzyme 2 / drug therapy
+
+clozapine / drug therapy
+
+dipeptidyl carboxypeptidase inhibitor / drug therapy
+
+elasomeran / drug therapy
+
+entacapone / drug therapy
+
+levodopa / drug therapy
+
+nimodipine / drug therapy
+
+reactive oxygen metabolite / endogenous compound
+
+tozinameran / drug therapy
+
+transcription factor Nrf2 / endogenous compound
+
+vitamin D / drug therapy"
+Orthostatic tremor after knee contusion without head trauma: A rare case report.,"Kim S.-H.
+
+Han J.-Y.
+
+Song M.-K.
+
+Choi I.S.
+
+Park H.-K.","Botulinum toxin
+
+orthostatic tremor
+
+surface electromyography
+
+trauma","adult
+
+article
+
+ataxia
+
+brain depth stimulation
+
+case report
+
+clinical article
+
+*contusion
+
+dementia
+
+drug substitution
+
+electromyography
+
+follow up
+
+gastrocnemius muscle
+
+*head injury
+
+human
+
+limb tremor
+
+liver function test
+
+male
+
+nuclear magnetic resonance imaging
+
+Parkinson disease
+
+parkinsonism
+
+pathophysiology
+
+progressive supranuclear palsy
+
+restless legs syndrome
+
+*tremor
+
+baclofen/cb [Drug Combination]
+
+botulinum toxin A
+
+propranolol/cb [Drug Combination]
+
+electromyograph
+
+MRI scanner","adult
+
+Article
+
+ataxia
+
+brain depth stimulation
+
+case report
+
+clinical article
+
+*contusion
+
+dementia
+
+drug substitution
+
+electromyography
+
+follow up
+
+gastrocnemius muscle
+
+*head injury
+
+human
+
+limb tremor
+
+liver function test
+
+male
+
+nuclear magnetic resonance imaging
+
+Parkinson disease
+
+parkinsonism
+
+pathophysiology
+
+progressive supranuclear palsy
+
+restless legs syndrome
+
+*tremor","Orthostatic tremor (OT) is an uncommon progressive movement disorder that involves a leg tremor when standing or weight bearing. Additionally, OT can accompany other medical or neurodegenerative disorders. In this article, we report an unusual case of OT after trauma in an 18-year-old male patient whose symptoms of OT have been resolved after a multimodal therapeutic approach, including botulinum toxin injection. Surface electromyography, including a tremor recording, was used for the diagnosis of OT. The patient completely recovered after the rehabilitation. A comprehensive rehabilitative treatment is required in the management of OT as the patient's quality of life is greatly affected.Copyright © 2023 All right reserved by the Turkish Society of Physical Medicine and Rehabilitation.",Turkish Journal of Physical Medicine and Rehabilitation,2023,"baclofen / drug combination
+
+botulinum toxin A
+
+propranolol / drug combination"
+Should we offer deep brain stimulation to Parkinson's disease patients with GBA mutations?.,"Artusi C.A.
+
+Lopiano L.","cognition
+
+deep brain stimulation
+
+dementia
+
+GBA
+
+genetics
+
+globus paliidus
+
+Parkinson disease
+
+subthalamic nucleus","article
+
+*brain depth stimulation
+
+clinical practice
+
+cognition
+
+cognitive defect
+
+daily life activity
+
+dementia
+
+disease course
+
+*gene
+
+*gene mutation
+
+genetic variability
+
+globus pallidus
+
+heterozygote
+
+human
+
+knowledge gap
+
+medical research
+
+onset age
+
+*Parkinson disease/th [Therapy]
+
+quality of life
+
+subthalamic nucleus
+
+*treatment indication
+
+treatment outcome
+
+*GBA1 gene","Article
+
+*brain depth stimulation
+
+clinical practice
+
+cognition
+
+cognitive defect
+
+daily life activity
+
+dementia
+
+disease course
+
+*gene
+
+*gene mutation
+
+genetic variability
+
+globus pallidus
+
+heterozygote
+
+human
+
+knowledge gap
+
+medical research
+
+onset age
+
+*Parkinson disease / *therapy
+
+quality of life
+
+subthalamic nucleus
+
+*treatment indication
+
+treatment outcome","Parkinson's disease (PD) patients who are carriers of glucosylceramidase beta1 (GBA1) gene mutations typically have an earlier age at onset and a more aggressive disease course, with a higher burden of neuropsychological issues. The use of deep brain stimulation (DBS) in PD patients with disabling motor fluctuations and absence of dementia is a widespread therapeutic option, often with good results in terms of improvement in activities of daily living and quality of life. Although all PD patients, when fulfilling the common selection criteria for DBS, can benefit from this intervention, some studies have raised attention toward the fact that PD patients who are carriers of GBA1 variants may have a worse DBS outcome possibly due to an accelerated progression of cognitive decline. From this viewpoint, we summarize the current literature, highlighting the knowledge gaps and proposing suggestions for further research as well as for clinical practice in this timeframe of uncertainty related to using DBS in PD patients who are carriers of GBA1 variants.Copyright © 2023 Artusi and Lopiano.",Frontiers in Neurology,2023,
+"Sex and gender differences in Alzheimer's disease, Parkinson's disease, and Amyotrophic Lateral Sclerosis: A narrative review.","Nicoletti A.
+
+Baschi R.
+
+Cicero C.E.
+
+Iacono S.
+
+Re V.L.
+
+Luca A.
+
+Schiro G.
+
+Monastero R.","Alzheimer's disease
+
+Amyotrophic Lateral Sclerosis
+
+Biomarkers
+
+Epidemiology
+
+Gender
+
+Mild cognitive impairment
+
+Parkinson's disease
+
+Risk factors
+
+Sex
+
+Treatment","*Alzheimer disease/di [Diagnosis]
+
+*Alzheimer disease/dt [Drug Therapy]
+
+*Alzheimer disease/ep [Epidemiology]
+
+*Alzheimer disease/pc [Prevention]
+
+*Alzheimer disease/th [Therapy]
+
+*amyotrophic lateral sclerosis/di [Diagnosis]
+
+*amyotrophic lateral sclerosis/dt [Drug Therapy]
+
+*amyotrophic lateral sclerosis/ep [Epidemiology]
+
+*amyotrophic lateral sclerosis/pc [Prevention]
+
+article
+
+brain depth stimulation
+
+clinical feature
+
+cognitive rehabilitation
+
+diagnostic procedure
+
+disease burden
+
+disease marker
+
+disease severity
+
+evidence based medicine
+
+exercise
+
+genetic screening
+
+genetic susceptibility
+
+human
+
+lifestyle modification
+
+mental disease
+
+mild cognitive impairment/dt [Drug Therapy]
+
+mild cognitive impairment/ep [Epidemiology]
+
+molecular imaging
+
+morbidity
+
+mortality
+
+motor dysfunction
+
+nerve degeneration
+
+neuroimaging
+
+nuclear magnetic resonance imaging
+
+*Parkinson disease/di [Diagnosis]
+
+*Parkinson disease/dt [Drug Therapy]
+
+*Parkinson disease/ep [Epidemiology]
+
+*Parkinson disease/pc [Prevention]
+
+*Parkinson disease/su [Surgery]
+
+*Parkinson disease/th [Therapy]
+
+patient care
+
+personalized medicine
+
+phenotypic variation
+
+positron emission tomography
+
+prevalence
+
+prognosis
+
+prophylaxis
+
+risk factor
+
+*sex difference
+
+statistical significance
+
+6 fluorodopa f 18
+
+alpha synuclein/ec [Endogenous Compound]
+
+amyloid beta protein/ec [Endogenous Compound]
+
+antiparkinson agent/dt [Drug Therapy]
+
+biological marker/ec [Endogenous Compound]
+
+carbidopa plus levodopa/dt [Drug Therapy]
+
+cholinergic receptor blocking agent/dt [Drug Therapy]
+
+cholinesterase inhibitor/dt [Drug Therapy]
+
+dopamine receptor stimulating agent/dt [Drug Therapy]
+
+high density lipoprotein/ec [Endogenous Compound]
+
+insulin/dt [Drug Therapy]
+
+insulin/na [Intranasal Drug Administration]
+
+levodopa/dt [Drug Therapy]
+
+microRNA 132/ec [Endogenous Compound]
+
+microRNA 29/ec [Endogenous Compound]
+
+monoamine oxidase B inhibitor/dt [Drug Therapy]
+
+neurofilament protein/ec [Endogenous Compound]
+
+nilvadipine/dt [Drug Therapy]
+
+norphenazone/dt [Drug Therapy]
+
+phosphatidylethanolamine/ec [Endogenous Compound]
+
+riluzole/dt [Drug Therapy]
+
+safinamide/dt [Drug Therapy]
+
+tacrine/dt [Drug Therapy]
+
+tau protein/ec [Endogenous Compound]
+
+unclassified drug
+
+vasculotropin B/ec [Endogenous Compound]
+
+zolpidem/dt [Drug Therapy]
+
+neurofilament H protein/ec [Endogenous Compound]","*Alzheimer disease / *diagnosis / *drug therapy / *epidemiology / *prevention / *therapy
+
+*amyotrophic lateral sclerosis / *diagnosis / *drug therapy / *epidemiology / *prevention
+
+Article
+
+brain depth stimulation
+
+clinical feature
+
+cognitive rehabilitation
+
+diagnostic procedure
+
+disease burden
+
+disease marker
+
+disease severity
+
+evidence based medicine
+
+exercise
+
+genetic screening
+
+genetic susceptibility
+
+human
+
+lifestyle modification
+
+mental disease
+
+mild cognitive impairment / drug therapy / epidemiology
+
+molecular imaging
+
+morbidity
+
+mortality
+
+motor dysfunction
+
+nerve degeneration
+
+neuroimaging
+
+nuclear magnetic resonance imaging
+
+*Parkinson disease / *diagnosis / *drug therapy / *epidemiology / *prevention / *surgery / *therapy
+
+patient care
+
+personalized medicine
+
+phenotypic variation
+
+positron emission tomography
+
+prevalence
+
+prognosis
+
+prophylaxis
+
+risk factor
+
+*sex difference
+
+statistical significance","Neurodegenerative diseases (NDs), including Alzheimer's disease (AD), Parkinson's disease (PD), and amyotrophic lateral sclerosis (ALS), exhibit high phenotypic variability and they are very common in the general population. These diseases are associated with poor prognosis and a significant burden on patients and their caregivers. Although increasing evidence suggests that biological sex is an important factor for the development and phenotypical expression of some NDs, the role of sex and gender in the diagnosis and prognosis of NDs has been poorly explored. Current knowledge relating to sex- and gender-related differences in the epidemiology, clinical features, biomarkers, and treatment of AD, PD, and ALS will be summarized in this narrative review. The cumulative evidence hitherto collected suggests that sex and gender are factors to be considered in explaining the heterogeneity of these NDs. Clarifying the role of sex and gender in AD, PD, and ALS is a key topic in precision medicine, which will facilitate sex-specific prevention and treatment strategies to be implemented in the near future.Copyright © 2023 Elsevier B.V.",Mechanisms of Ageing and Development,Jun-23,"6 fluorodopa f 18
+
+alpha synuclein / endogenous compound
+
+amyloid beta protein / endogenous compound
+
+antiparkinson agent / drug therapy
+
+biological marker / endogenous compound
+
+carbidopa plus levodopa / drug therapy
+
+cholinergic receptor blocking agent / drug therapy
+
+cholinesterase inhibitor / drug therapy
+
+dopamine receptor stimulating agent / drug therapy
+
+high density lipoprotein / endogenous compound
+
+insulin / drug therapy / intranasal drug administration
+
+levodopa / drug therapy
+
+microRNA 132 / endogenous compound
+
+microRNA 29 / endogenous compound
+
+monoamine oxidase B inhibitor / drug therapy
+
+neurofilament protein / endogenous compound
+
+nilvadipine / drug therapy
+
+norphenazone / drug therapy
+
+phosphatidylethanolamine / endogenous compound
+
+riluzole / drug therapy
+
+safinamide / drug therapy
+
+tacrine / drug therapy
+
+tau protein / endogenous compound
+
+unclassified drug
+
+vasculotropin B / endogenous compound
+
+zolpidem / drug therapy"
+An updated overview of recent and ongoing deep brain stimulation (DBS) trials in patients with dementia: a systematic review.,"Remoli G.
+
+Tariciotti L.
+
+Remore L.G.
+
+Palmisciano P.
+
+Sciancalepore F.
+
+Canevelli M.
+
+Lacorte E.
+
+Da Re F.
+
+Bruno G.
+
+Ferrarese C.
+
+Appollonio I.
+
+Locatelli M.
+
+Vanacore N.","Alzheimer's disease
+
+Cognitive decline
+
+DBS
+
+Deep brain stimulation
+
+Dementia","adult
+
+*Alzheimer disease
+
+*brain depth stimulation
+
+*cognitive defect
+
+controlled study
+
+*dementia
+
+feasibility study
+
+female
+
+human
+
+informed consent
+
+male
+
+Medline
+
+open study
+
+outcome assessment
+
+PsycINFO
+
+review
+
+risk assessment
+
+Scopus
+
+systematic review
+
+validity","adult [m]
+
+*Alzheimer disease [m]
+
+*brain depth stimulation [m]
+
+*cognitive defect [m]
+
+controlled study [m]
+
+*dementia [m]
+
+feasibility study [m]
+
+female [m]
+
+human [m]
+
+informed consent [m]
+
+male [m]
+
+Medline [m]
+
+open study [m]
+
+outcome assessment [m]
+
+PsycINFO [m]
+
+review [m]
+
+risk assessment [m]
+
+Scopus [m]
+
+systematic review [m]
+
+validity [m]","Background: Dementia affects more than 55 million people worldwide. Several technologies have been developed to slow cognitive decline: deep brain stimulation (DBS) of network targets in Alzheimer's disease (AD) and dementia with Lewy bodies (DLB) have been recently investigated. Objective(s): This study aimed to review the characteristics of the populations, protocols, and outcomes of patients with dementia enrolled in clinical trials investigating the feasibility and efficacy of DBS. Material(s) and Method(s): A systematic search of all registered RCTs was performed on Clinicaltrials.gov and EudraCT, while a systematic literature review was conducted on PubMed, Scopus, Cochrane, and APA PsycInfo to identify published trials. Result(s): The literature search yielded 2122 records, and the clinical trial search 15 records. Overall, 17 studies were included. Two of 17 studies were open-label studies reporting no NCT/EUCT code and were analysed separately. Of 12 studies investigating the role of DBS in AD, we included 5 published RCTs, 2 unregistered open-label (OL) studies, 3 recruiting studies, and 2 unpublished trials with no evidence of completion. The overall risk of bias was assessed as moderate-high. Our review showed significant heterogeneity in the recruited populations regarding age, disease severity, informed consent availability, inclusion, and exclusion criteria. Notably, the standard mean of overall severe adverse events was moderately high (SAEs: 9.10 +/- 7.10%). Conclusion(s): The population investigated is small and heterogeneous, published results from clinical trials are under-represented, severe adverse events not negligible, and cognitive outcomes uncertain. Overall, the validity of these studies requires confirmation based on forthcoming higher-quality clinical trials.Copyright © 2023, Fondazione Societa Italiana di Neurologia.",Neurological Sciences,2023,
+Special issue on brain-computer interface and neurostimulation.,Hu Y.,,"Alzheimer disease
+
+amyotrophic lateral sclerosis
+
+brain depth stimulation
+
+cerebrovascular accident
+
+clinical outcome
+
+clinical practice
+
+cognitive defect
+
+degenerative disease
+
+editorial
+
+electroencephalogram
+
+gamma rhythm
+
+human
+
+motor performance
+
+*nerve stimulation
+
+neuromodulation
+
+schizophrenia
+
+visual evoked potential
+
+*brain computer interface","Alzheimer disease
+
+amyotrophic lateral sclerosis
+
+brain depth stimulation
+
+cerebrovascular accident
+
+clinical outcome
+
+clinical practice
+
+cognitive defect
+
+degenerative disease
+
+Editorial
+
+electroencephalogram
+
+gamma rhythm
+
+human
+
+motor performance
+
+*nerve stimulation
+
+neuromodulation
+
+schizophrenia
+
+visual evoked potential",,Journal of Neurorestoratology,05-Mar-20,
+Noninvasive brain stimulation for the treatment of neurocognitive disorders: right for prime time?.,Rajji T.K.,"Alzheimer's disease
+
+mild cognitive impairment
+
+noninvasive brain stimulation
+
+repetitive transcranial magnetic stimulation
+
+transcranial direct current stimulation","*Alzheimer disease
+
+*brain depth stimulation
+
+caregiver
+
+cognitive rehabilitation
+
+dementia
+
+*disorders of higher cerebral function
+
+human
+
+*mild cognitive impairment
+
+*repetitive transcranial magnetic stimulation
+
+review
+
+sample size
+
+*transcranial direct current stimulation","*Alzheimer disease [m]
+
+*brain depth stimulation [m]
+
+caregiver [m]
+
+cognitive rehabilitation [m]
+
+dementia [m]
+
+*disorders of higher cerebral function [m]
+
+human [m]
+
+*mild cognitive impairment [m]
+
+*repetitive transcranial magnetic stimulation [m]
+
+review [m]
+
+sample size [m]
+
+*transcranial direct current stimulation [m]","Purpose of reviewNeurocognitive disorders are associated with tremendous burden at the level of the individual, the care giver, and society at large. No effective treatments have been discovered to date.Recent findingsNoninvasive brain stimulation (NIBS) comprises several promising interventions that have been studied in Alzheimer's disease and related dementias. Most recent studies have tested transcranial direct current stimulation or repetitive transcranial magnetic stimulation on their own or in combination with other interventions, particularly cognitive training. While most studies were proof-of-principle studies with small sample sizes, combination and long-duration protocols seem to be promising approaches to pursue. Some studies also investigated novel neurophysiological markers as predictors of response to NIBS.SummaryNIBS presents several interventional options that are ready to be evaluated using well powered, long-duration trials. These future studies should build on the promising leads from the current literature, including the potential advantage of combining NIBS with other interventions; the delivery of interventions for long durations to assess long-term impact; and the use of neurophysiological markers that could optimize the personalization and efficacy of NIBS. Copyright © 2021 Wolters Kluwer Health, Inc. All rights reserved.",Current Opinion in Psychiatry,01-Mar-21,
+Proteostasis failure exacerbates neuronal circuit dysfunction and sleep impairments in Alzheimer's disease.,"Morrone C.D.
+
+Raghuraman R.
+
+Hussaini S.A.
+
+Yu W.H.","Alzheimer's disease
+
+Autophagy
+
+Proteostasis
+
+Sleep
+
+Tau
+
+Unfolded protein response
+
+beta-amyloid","aging
+
+*Alzheimer disease/et [Etiology]
+
+*Alzheimer disease/th [Therapy]
+
+arousal
+
+autophagy (cellular)
+
+behavior therapy
+
+brain depth stimulation
+
+brain nerve cell
+
+cell function
+
+cholinergic system
+
+circadian rhythm
+
+clinical feature
+
+continuous positive airway pressure
+
+degenerative disease/et [Etiology]
+
+disease association
+
+*disease exacerbation/et [Etiology]
+
+*disease exacerbation/th [Therapy]
+
+disease marker
+
+disease model
+
+dorsal raphe nucleus
+
+forebrain
+
+GABAergic system
+
+glutamatergic transmission
+
+glymphatic system
+
+hippocampus
+
+homeostasis
+
+human
+
+hypothalamus
+
+locus ceruleus
+
+memory disorder/et [Etiology]
+
+music therapy
+
+nerve cell network
+
+nerve degeneration/et [Etiology]
+
+neuromodulation
+
+*neuropathy/et [Etiology]
+
+*neuropathy/th [Therapy]
+
+nonhuman
+
+noradrenergic system
+
+parabrachial nucleus
+
+phototherapy
+
+positive feedback
+
+protein degradation
+
+*protein homeostasis
+
+protein metabolism
+
+REM sleep
+
+review
+
+risk factor
+
+serotoninergic system
+
+sleep debt
+
+*sleep disorder/dt [Drug Therapy]
+
+*sleep disorder/et [Etiology]
+
+*sleep disorder/th [Therapy]
+
+sleep waking cycle
+
+slow wave sleep
+
+suprachiasmatic nucleus
+
+tauopathy/et [Etiology]
+
+unfolded protein response
+
+4 aminobutyric acid A receptor stimulating agent/dt [Drug Therapy]
+
+adrenergic receptor stimulating agent/dt [Drug Therapy]
+
+alpha adrenergic receptor stimulating agent/dt [Drug Therapy]
+
+alpha synuclein/ec [Endogenous Compound]
+
+amyloid beta protein/ec [Endogenous Compound]
+
+anticonvulsive agent/dt [Drug Therapy]
+
+antidepressant agent/dt [Drug Therapy]
+
+antihistaminic agent/dt [Drug Therapy]
+
+biological marker/ec [Endogenous Compound]
+
+cannabis/dt [Drug Therapy]
+
+citicoline/dt [Drug Therapy]
+
+huntingtin
+
+mammalian target of rapamycin inhibitor/dt [Drug Therapy]
+
+melatonin/dt [Drug Therapy]
+
+neuroleptic agent/dt [Drug Therapy]
+
+orexin receptor antagonist/dt [Drug Therapy]
+
+probiotic agent/dt [Drug Therapy]
+
+proteasome/ec [Endogenous Compound]
+
+RNA binding protein FUS
+
+serotonin agonist/dt [Drug Therapy]
+
+suvorexant/dt [Drug Therapy]
+
+TAR DNA binding protein/ec [Endogenous Compound]
+
+tau protein/ec [Endogenous Compound]
+
+trazodone/dt [Drug Therapy]
+
+glymphatic clearance
+
+histaminergic system
+
+*neuronal circuit dysfunction/et [Etiology]
+
+*neuronal circuit dysfunction/th [Therapy]
+
+orexinergic system
+
+protein clearance","aging
+
+*Alzheimer disease / *etiology / *therapy
+
+arousal
+
+autophagy (cellular)
+
+behavior therapy
+
+brain depth stimulation
+
+brain nerve cell
+
+cell function
+
+cholinergic system
+
+circadian rhythm
+
+clinical feature
+
+continuous positive airway pressure
+
+degenerative disease / etiology
+
+disease association
+
+*disease exacerbation / *etiology / *therapy
+
+disease marker
+
+disease model
+
+dorsal raphe nucleus
+
+forebrain
+
+GABAergic system
+
+glutamatergic transmission
+
+glymphatic system
+
+hippocampus
+
+homeostasis
+
+human
+
+hypothalamus
+
+locus ceruleus
+
+memory disorder / etiology
+
+music therapy
+
+nerve cell network
+
+nerve degeneration / etiology
+
+neuromodulation
+
+*neuropathy / *etiology / *therapy
+
+nonhuman
+
+noradrenergic system
+
+parabrachial nucleus
+
+phototherapy
+
+positive feedback
+
+protein degradation
+
+*protein homeostasis
+
+protein metabolism
+
+REM sleep
+
+Review
+
+risk factor
+
+serotoninergic system
+
+sleep debt
+
+*sleep disorder / *drug therapy / *etiology / *therapy
+
+sleep waking cycle
+
+slow wave sleep
+
+suprachiasmatic nucleus
+
+tauopathy / etiology
+
+unfolded protein response","Failed proteostasis is a well-documented feature of Alzheimer's disease, particularly, reduced protein degradation and clearance. However, the contribution of failed proteostasis to neuronal circuit dysfunction is an emerging concept in neurodegenerative research and will prove critical in understanding cognitive decline. Our objective is to convey Alzheimer's disease progression with the growing evidence for a bidirectional relationship of sleep disruption and proteostasis failure. Proteostasis dysfunction and tauopathy in Alzheimer's disease disrupts neurons that regulate the sleep-wake cycle, which presents behavior as impaired slow wave and rapid eye movement sleep patterns. Subsequent sleep loss further impairs protein clearance. Sleep loss is a defined feature seen early in many neurodegenerative disorders and contributes to memory impairments in Alzheimer's disease. Canonical pathological hallmarks, beta-amyloid, and tau, directly disrupt sleep, and neurodegeneration of locus coeruleus, hippocampal and hypothalamic neurons from tau proteinopathy causes disruption of the neuronal circuitry of sleep. Acting in a positive-feedback-loop, sleep loss and circadian rhythm disruption then increase spread of beta-amyloid and tau, through impairments of proteasome, autophagy, unfolded protein response and glymphatic clearance. This phenomenon extends beyond beta-amyloid and tau, with interactions of sleep impairment with the homeostasis of TDP-43, alpha-synuclein, FUS, and huntingtin proteins, implicating sleep loss as an important consideration in an array of neurodegenerative diseases and in cases of mixed neuropathology. Critically, the dynamics of this interaction in the neurodegenerative environment are not fully elucidated and are deserving of further discussion and research. Finally, we propose sleep-enhancing therapeutics as potential interventions for promoting healthy proteostasis, including beta-amyloid and tau clearance, mechanistically linking these processes. With further clinical and preclinical research, we propose this dynamic interaction as a diagnostic and therapeutic framework, informing precise single- and combinatorial-treatments for Alzheimer's disease and other brain disorders. Graphical Abstract: [Figure not available: see fulltext.].Copyright © 2023, The Author(s).",Molecular Neurodegeneration,Dec-23,"4 aminobutyric acid A receptor stimulating agent / drug therapy
+
+adrenergic receptor stimulating agent / drug therapy
+
+alpha adrenergic receptor stimulating agent / drug therapy
+
+alpha synuclein / endogenous compound
+
+amyloid beta protein / endogenous compound
+
+anticonvulsive agent / drug therapy
+
+antidepressant agent / drug therapy
+
+antihistaminic agent / drug therapy
+
+biological marker / endogenous compound
+
+cannabis / drug therapy
+
+citicoline / drug therapy
+
+huntingtin
+
+mammalian target of rapamycin inhibitor / drug therapy
+
+melatonin / drug therapy
+
+neuroleptic agent / drug therapy
+
+orexin receptor antagonist / drug therapy
+
+probiotic agent / drug therapy
+
+proteasome / endogenous compound
+
+RNA binding protein FUS
+
+serotonin agonist / drug therapy
+
+suvorexant / drug therapy
+
+TAR DNA binding protein / endogenous compound
+
+tau protein / endogenous compound
+
+trazodone / drug therapy"
+Views of stakeholders at risk for dementia about deep brain stimulation for cognition.,"Klein E.
+
+Montes Daza N.
+
+Dasgupta I.
+
+MacDuffie K.
+
+Schonau A.
+
+Flynn G.
+
+Song D.
+
+Goering S.",,"adult
+
+aged
+
+article
+
+*brain depth stimulation
+
+clinical protocol
+
+*cognition
+
+*dementia
+
+human
+
+human experiment
+
+perception","adult
+
+aged
+
+Article
+
+*brain depth stimulation
+
+clinical protocol
+
+*cognition
+
+*dementia
+
+human
+
+human experiment
+
+perception",,Brain Stimulation,01-May-23,
+Clinical Evaluation of Sleep Disorders in Parkinson's Disease.,"Lauretani F.
+
+Testa C.
+
+Salvi M.
+
+Zucchini I.
+
+Giallauria F.
+
+Maggio M.","Braak's stages
+
+drugs
+
+Parkinson's disease
+
+sleep disorders
+
+treatment","anxiety
+
+behavior disorder
+
+binge eating disorder
+
+bipolar disorder
+
+brain depth stimulation
+
+caregiver
+
+*clinical evaluation
+
+cognition
+
+cognitive behavioral therapy
+
+cognitive defect
+
+degenerative disease
+
+delirium
+
+dementia
+
+depression
+
+Epworth sleepiness scale
+
+follow up
+
+gastrointestinal disease
+
+gastrointestinal motility
+
+geriatrician
+
+heart repolarization
+
+human
+
+insomnia
+
+major depression
+
+Mini Mental State Examination
+
+motor performance
+
+myalgia
+
+nerve cell plasticity
+
+nerve degeneration
+
+*Parkinson disease
+
+polypharmacy
+
+polysomnography
+
+prevalence
+
+psychiatrist
+
+psychosis
+
+quality of life
+
+questionnaire
+
+randomized controlled trial (topic)
+
+REM sleep
+
+restless legs syndrome
+
+review
+
+schizophrenia
+
+sleep
+
+*sleep disorder
+
+sleep disordered breathing
+
+sleep quality
+
+sleep waking cycle
+
+substantia nigra
+
+synucleinopathy
+
+Unified Parkinson Disease Rating Scale
+
+antidepressant agent
+
+cabergoline
+
+carbidopa
+
+carbidopa plus levodopa
+
+clonazepam
+
+dopamine
+
+dopamine receptor
+
+dopamine receptor stimulating agent
+
+eszopiclone
+
+gabapentin
+
+haloperidol
+
+levodopa
+
+lorazepam
+
+meclofenamic acid
+
+melatonin
+
+mirtazapine
+
+neuroleptic agent
+
+olanzapine
+
+pimavanserin
+
+pramipexole
+
+pregabalin
+
+psychotropic agent
+
+quetiapine
+
+risperidone
+
+rivastigmine
+
+ropinirole
+
+serotonin noradrenalin reuptake inhibitor
+
+serotonin uptake inhibitor
+
+sodium glucose cotransporter 2 inhibitor
+
+trazodone
+
+tricyclic antidepressant agent
+
+valproic acid
+
+venlafaxine","anxiety
+
+behavior disorder
+
+binge eating disorder
+
+bipolar disorder
+
+brain depth stimulation
+
+caregiver
+
+*clinical evaluation
+
+cognition
+
+cognitive behavioral therapy
+
+cognitive defect
+
+degenerative disease
+
+delirium
+
+dementia
+
+depression
+
+Epworth sleepiness scale
+
+follow up
+
+gastrointestinal disease
+
+gastrointestinal motility
+
+geriatrician
+
+heart repolarization
+
+human
+
+insomnia
+
+major depression
+
+Mini Mental State Examination
+
+motor performance
+
+myalgia
+
+nerve cell plasticity
+
+nerve degeneration
+
+*Parkinson disease
+
+polypharmacy
+
+polysomnography
+
+prevalence
+
+psychiatrist
+
+psychosis
+
+quality of life
+
+questionnaire
+
+randomized controlled trial (topic)
+
+REM sleep
+
+restless legs syndrome
+
+Review
+
+schizophrenia
+
+sleep
+
+*sleep disorder
+
+sleep disordered breathing
+
+sleep quality
+
+sleep waking cycle
+
+substantia nigra
+
+synucleinopathy
+
+Unified Parkinson Disease Rating Scale","The paradigm of the framing of Parkinson's disease (PD) has undergone significant revision in recent years, making this neurodegenerative disease a multi-behavioral disorder rather than a purely motor disease. PD affects not only the ""classic"" substantia nigra at the subthalamic nuclei level but also the nerve nuclei, which are responsible for sleep regulation. Sleep disturbances are the clinical manifestations of Parkinson's disease that most negatively affect the quality of life of patients and their caregivers. First-choice treatments for Parkinson's disease determine amazing effects on improving motor functions. However, it is still little known whether they can affect the quantity and quality of sleep in these patients. In this perspective article, we will analyze the treatments available for this specific clinical setting, hypothesizing a therapeutic approach in relation to neurodegenerative disease state.Copyright © 2023 by the authors.",Brain Sciences,Apr-23,"antidepressant agent
+
+cabergoline
+
+carbidopa
+
+carbidopa plus levodopa
+
+clonazepam
+
+dopamine
+
+dopamine receptor
+
+dopamine receptor stimulating agent
+
+eszopiclone
+
+gabapentin
+
+haloperidol
+
+levodopa
+
+lorazepam
+
+meclofenamic acid
+
+melatonin
+
+mirtazapine
+
+neuroleptic agent
+
+olanzapine
+
+pimavanserin
+
+pramipexole
+
+pregabalin
+
+psychotropic agent
+
+quetiapine
+
+risperidone
+
+rivastigmine
+
+ropinirole
+
+serotonin noradrenalin reuptake inhibitor
+
+serotonin uptake inhibitor
+
+sodium glucose cotransporter 2 inhibitor
+
+trazodone
+
+tricyclic antidepressant agent
+
+valproic acid
+
+venlafaxine"
+Brain network modulation in Alzheimer's disease: clinical phenotypes and windows of opportunity.,Pini L.,,"agnosia
+
+*Alzheimer disease
+
+anterior cingulate
+
+article
+
+blood oxygenation
+
+brain blood flow
+
+brain depth stimulation
+
+brain perfusion
+
+cognition
+
+degenerative disease
+
+dementia
+
+disease duration
+
+emotion
+
+functional connectivity
+
+functional magnetic resonance imaging
+
+hippocampus
+
+human
+
+language ability
+
+memory disorder
+
+mental disease
+
+*nerve cell network
+
+nerve degeneration
+
+neuromodulation
+
+oculomotor apraxia
+
+pathophysiology
+
+*phenotype
+
+social cognition
+
+transcranial magnetic stimulation
+
+amyloid beta protein/ec [Endogenous Compound]
+
+tau protein/ec [Endogenous Compound]","agnosia
+
+*Alzheimer disease
+
+anterior cingulate
+
+Article
+
+blood oxygenation
+
+brain blood flow
+
+brain depth stimulation
+
+brain perfusion
+
+cognition
+
+degenerative disease
+
+dementia
+
+disease duration
+
+emotion
+
+functional connectivity
+
+functional magnetic resonance imaging
+
+hippocampus
+
+human
+
+language ability
+
+memory disorder
+
+mental disease
+
+*nerve cell network
+
+nerve degeneration
+
+neuromodulation
+
+oculomotor apraxia
+
+pathophysiology
+
+*phenotype
+
+social cognition
+
+transcranial magnetic stimulation",,Neural Regeneration Research,Jan-23,"amyloid beta protein / endogenous compound
+
+tau protein / endogenous compound"
+Deep brain stimulation for the treatment of Alzheimer's disease: A systematic review and meta-analysis.,"Majdi A.
+
+Deng Z.
+
+Sadigh-Eteghad S.
+
+De Vloo P.
+
+Nuttin B.
+
+Mc Laughlin M.","Alzheimer's disease
+
+cognition
+
+deep brain stimulation
+
+meta-analysis
+
+systematic review","*Alzheimer disease/th [Therapy]
+
+*brain depth stimulation
+
+cognition
+
+confidence interval
+
+data analysis
+
+data extraction
+
+data quality assessment
+
+human
+
+meta analysis
+
+publication bias
+
+review
+
+statistical bias
+
+systematic review
+
+treatment outcome","*Alzheimer disease / *therapy
+
+*brain depth stimulation
+
+cognition
+
+confidence interval
+
+data analysis
+
+data extraction
+
+data quality assessment
+
+human
+
+meta analysis
+
+publication bias
+
+Review
+
+statistical bias
+
+systematic review
+
+treatment outcome","Background: One of the experimental neuromodulation techniques being researched for the treatment of Alzheimer's disease (AD) is deep brain stimulation (DBS). To evaluate the effectiveness of DBS in AD, we performed a systematic review and meta-analysis of the available evidence. Method(s): From the inception through December 2021, the following databases were searched: Medline via PubMed, Scopus, Embase, Cochrane Library, and Web of Science. The search phrases used were ""Alzheimer's disease,"" ""AD,"" ""deep brain stimulation,"" and ""DBS."" The information from the included articles was gathered using a standardized data-collecting form. In the included papers, the Cochrane Collaboration methodology was used to evaluate the risk of bias. A fixed-effects model was used to conduct the meta-analysis. Result(s): Only five distinct publications and 6 different comparisons (one study consisted of two phases) were included out of the initial 524 papers that were recruited. DBS had no impact on the cognitive ability in patients with AD [0.116 SMD, 95% confidence interval (CI), -0.236 to 0.469, p = 0.518]. The studies' overall heterogeneity was not significant (kappa2 = 6.23, T2 = 0.053, df = 5, I2 = 19.76%, p = 0.284). According to subgroup analysis, the fornix-DBS did not improve cognitive function in patients with AD (0.145 SMD, 95%CI, -0.246 to 0.537, p = 0.467). Unfavorable neurological and non-neurological outcomes were also reported. Conclusion(s): The inconsistencies and heterogeneity of the included publications in various target and age groups of a small number of AD patients were brought to light by this meta-analysis. To determine if DBS is useful in the treatment of AD, further studies with larger sample sizes and randomized, double-blinded, sham-controlled designs are required.Copyright © 2023 Majdi, Deng, Sadigh-Eteghad, De Vloo, Nuttin and Mc Laughlin.",Frontiers in Neuroscience,2023,
+Eleven-Year Outcomes of Deep Brain Stimulation in Early-Stage Parkinson Disease.,"Hacker M.L.
+
+Meystedt J.C.
+
+Turchan M.
+
+Cannard K.R.
+
+Harper K.
+
+Fan R.
+
+Ye F.
+
+Davis T.L.
+
+Konrad P.E.
+
+Charles D.","Deep brain stimulation
+
+dyskinesia
+
+longitudinal studies
+
+movement disorders
+
+Parkinson disease","adult
+
+aged
+
+article
+
+*brain depth stimulation
+
+clinical article
+
+dementia
+
+depression
+
+dyskinesia
+
+dysphagia
+
+female
+
+hallucination
+
+human
+
+impulse control disorder
+
+incontinence
+
+insomnia
+
+male
+
+motor dysfunction
+
+*Parkinson disease/dt [Drug Therapy]
+
+*Parkinson disease/th [Therapy]
+
+pilot study
+
+psychosis
+
+questionnaire
+
+randomized controlled trial
+
+Unified Parkinson Disease Rating Scale
+
+levodopa/ct [Clinical Trial]
+
+levodopa/dt [Drug Therapy]
+
+levodopa/pv [Special Situation for Pharmacovigilance]
+
+multidimensional caregiver strain index
+
+Quality of Life in Essential Tremor Questionnaire
+
+questionnaire for impulsive control disorder","adult
+
+aged
+
+Article
+
+*brain depth stimulation
+
+clinical article
+
+dementia
+
+depression
+
+dyskinesia
+
+dysphagia
+
+female
+
+hallucination
+
+human
+
+impulse control disorder
+
+incontinence
+
+insomnia
+
+male
+
+motor dysfunction
+
+*Parkinson disease / *drug therapy / *therapy
+
+pilot study
+
+psychosis
+
+questionnaire
+
+randomized controlled trial
+
+Unified Parkinson Disease Rating Scale","Objective: The deep brain stimulation (DBS) in early-stage Parkinson's disease (PD) pilot clinical trial randomized 30 patients (Hoehn & Yahr II off; medication duration 0.5-4 years; without dyskinesia/motor fluctuations) to optimal drug therapy (ODT) (early ODT) or bilateral subthalamic nucleus (STN) DBS plus ODT (early DBS+ODT). This study aims to report the 11-year outcomes of patients who completed the DBS in early-stage PD pilot clinical trial. Material(s) and Method(s): Attempts were made to contact all 29 subjects who completed the two-year trial to participate in an 11-year follow-up study. Mixed-effects models compared overall trend in outcomes for randomization groups (fixed-effects: assigned treatment, year, their interaction; random-effect: subject) to account for repeated measures. Result(s): Twelve subjects participated in this 11-year follow-up study (n = 8 early ODT, n = 4 early DBS+ODT). Participating subjects were 70.0 +/- 4.8 years old with a PD medication duration of 13.7 +/- 1.7 years (early DBS duration 11.5 +/- 1.3 years, n = 4). Three early ODT subjects received STN-DBS as standard of care (DBS duration 6.5 +/- 2.0 years). Early ODT subjects had worse motor complications (Unified Parkinson's Disease Rating Scale [UPDRS]-IV) than early DBS+ODT subjects over the 11-year follow-up period (between-group difference = 3.5 points; pinteraction = 0.03). Early DBS+ODT was well-tolerated after 11 years and showed comparable outcomes to early ODT for other UPDRS domains, Parkinson Disease Questionnaire-39 (PDQ-39), and levodopa equivalent daily dose (LEDD). Conclusion(s): Eleven years after randomization, early DBS+ODT subjects had fewer motor complications than early ODT subjects. These results should be interpreted with caution because only 40% of pilot trial subjects participated in this 11-year follow-up study. The Food and Drug Administration has approved the conduct of a pivotal clinical trial evaluating DBS in early-stage PD (IDEG050016). Clinical Trial Registration: The Clinicaltrials.gov registration number for the study is NCT00282152.Copyright © 2022 International Neuromodulation Society",Neuromodulation,Feb-23,levodopa / clinical trial / drug therapy / special situation for pharmacovigilance
+Bladder outlet surgery is effective only in patients with central nervous system disorders and voiding dysfunction proven to be obstructed.,Kuo H.-C.,"Bladder outlet surgery
+
+Cerebrovascular accident
+
+Dementia
+
+Neurogenic voiding dysfunction
+
+Parkinson's disease","behavior therapy
+
+bladder obstruction/su [Surgery]
+
+*bladder surgery
+
+brain damage
+
+brain depth stimulation
+
+*central nervous system disease
+
+cerebrovascular disease
+
+conservative treatment
+
+dementia
+
+human
+
+letter
+
+lower urinary tract symptom
+
+*micturition disorder/co [Complication]
+
+*micturition disorder/th [Therapy]
+
+overactive bladder/co [Complication]
+
+Parkinson disease/th [Therapy]
+
+pelvic floor muscle training
+
+transurethral resection
+
+transurethral resection of the bladder
+
+treatment failure
+
+urodynamics
+
+*bladder outlet surgery","behavior therapy
+
+bladder obstruction / surgery
+
+*bladder surgery
+
+brain damage
+
+brain depth stimulation
+
+*central nervous system disease
+
+cerebrovascular disease
+
+conservative treatment
+
+dementia
+
+human
+
+Letter
+
+lower urinary tract symptom
+
+*micturition disorder / *complication / *therapy
+
+overactive bladder / complication
+
+Parkinson disease / therapy
+
+pelvic floor muscle training
+
+transurethral resection
+
+transurethral resection of the bladder
+
+treatment failure
+
+urodynamics",,International Urology and Nephrology,May-23,
+Leveraging the glymphatic and meningeal lymphatic systems as therapeutic strategies in Alzheimer's disease: an updated overview of nonpharmacological therapies.,"Formolo D.A.
+
+Yu J.
+
+Lin K.
+
+Tsang H.W.H.
+
+Ou H.
+
+Kranz G.S.
+
+Yau S.-Y.","Alzheimer's disease
+
+Glymphatic system
+
+Meningeal lymphatics
+
+Non-invasive brain stimulation
+
+Nutrition
+
+Physical exercise
+
+Traditional Chinese medicine","*Alzheimer disease
+
+*brain depth stimulation
+
+*Chinese medicine
+
+dementia
+
+diet supplementation
+
+*exercise
+
+*glymphatic system
+
+human
+
+*lymphatic system
+
+narrative
+
+*nutrition
+
+physician
+
+protein function
+
+review
+
+solute
+
+therapy effect
+
+amyloid beta protein
+
+endogenous compound","*Alzheimer disease [m]
+
+*brain depth stimulation [m]
+
+*Chinese medicine [m]
+
+dementia [m]
+
+diet supplementation [m]
+
+*exercise [m]
+
+*glymphatic system [m]
+
+human [m]
+
+*lymphatic system [m]
+
+narrative [m]
+
+*nutrition [m]
+
+physician [m]
+
+protein function [m]
+
+review [m]
+
+solute [m]
+
+therapy effect [m]","Understanding and treating Alzheimer's disease (AD) has been a remarkable challenge for both scientists and physicians. Although the amyloid-beta and tau protein hypothesis have largely explained the key pathological features of the disease, the mechanisms by which such proteins accumulate and lead to disease progression are still unknown. Such lack of understanding disrupts the development of disease-modifying interventions, leaving a therapeutic gap that remains unsolved. Nonetheless, the recent discoveries of the glymphatic pathway and the meningeal lymphatic system as key components driving central solute clearance revealed another mechanism underlying AD pathogenesis. In this regard, this narrative review integrates the glymphatic and meningeal lymphatic systems as essential components involved in AD pathogenesis. Moreover, it discusses the emerging evidence suggesting that nutritional supplementation, non-invasive brain stimulation, and traditional Chinese medicine can improve the pathophysiology of the disease by increasing glymphatic and/or meningeal lymphatic function. Given that physical exercise is a well-regarded preventive and pro-cognitive intervention for dementia, we summarize the evidence suggesting the glymphatic system as a mediating mechanism of the physical exercise therapeutic effects in AD. Targeting these central solute clearance systems holds the promise of more effective treatment strategies.Copyright © 2023, The Author(s).",Molecular Neurodegeneration,Dec-23,"amyloid beta protein [m]
+
+endogenous compound [m]"
+Protocol of a randomized controlled trial investigating Deep Brain Stimulation for MOtor symptoms in patients with Parkinson's disease DEmentia (DBS-MODE).,"Sisodia V.
+
+Swinnen B.E.K.S.
+
+Dijk J.M.
+
+Verwijk E.
+
+van Rooijen G.
+
+Lemstra A.W.
+
+Schuurman P.R.
+
+de Bie R.M.A.","Deep brain stimulation
+
+Dementia
+
+Parkinson's disease
+
+Randomized controlled trial","adult
+
+article
+
+bradykinesia
+
+*brain depth stimulation
+
+caregiver burden
+
+clinical article
+
+clinical trial registry
+
+comparative effectiveness
+
+controlled study
+
+*dementia
+
+drug safety
+
+dyskinesia
+
+dystonia
+
+female
+
+human
+
+informed consent
+
+male
+
+mental disease
+
+*motor dysfunction
+
+outcome assessment
+
+*Parkinson disease
+
+prospective study
+
+randomization
+
+randomized controlled trial
+
+satisfaction
+
+single blind procedure
+
+subthalamic nucleus
+
+Unified Parkinson Disease Rating Scale","adult [m]
+
+article [m]
+
+bradykinesia [m]
+
+*brain depth stimulation [m]
+
+caregiver burden [m]
+
+clinical article [m]
+
+clinical trial registry [m]
+
+comparative effectiveness [m]
+
+controlled study [m]
+
+*dementia [m]
+
+drug safety [m]
+
+dyskinesia [m]
+
+dystonia [m]
+
+female [m]
+
+human [m]
+
+informed consent [m]
+
+male [m]
+
+mental disease [m]
+
+*motor dysfunction [m]
+
+outcome assessment [m]
+
+*Parkinson disease [m]
+
+prospective study [m]
+
+randomization [m]
+
+randomized controlled trial [m]
+
+satisfaction [m]
+
+single blind procedure [m]
+
+subthalamic nucleus [m]
+
+Unified Parkinson Disease Rating Scale [m]","Background: Deep brain stimulation (DBS) of the subthalamic nucleus (STN) is an established treatment for disabling motor symptoms of Parkinson's disease (PD) that persist despite optimal pharmacological treatment. Currently, DBS is not performed if there is concomitant significant cognitive impairment based on concerns of cognitive deterioration, higher complication rate and less functional improvement. However, this has not been investigated so far. Method(s): A single center, prospective, randomized, open-label, blinded end-point (PROBE design) pilot clinical trial is being performed. Patients are eligible for the trial if they have PD dementia (PDD), are able to provide informed consent, and experience disabling motor response fluctuations, bradykinesia, dyskinesia, or painful dystonia, despite optimal pharmacological treatment. In total 44 patients will be randomized to either STN-DBS accompanied by best medical treatment (DBS group) or to best medical treatment alone (BMT group). The primary outcome measure is the change from baseline to 30 weeks on the Movement Disorder Society-Unified Parkinson's Disease Rating Scale part III score in a standardized off-drug phase. The main secondary outcome measures consist of scales assessing cognitive aspects of daily living, neuropsychiatric symptoms and impulsive compulsive disorders. Additional secondary outcome measures include motor signs during on-drug phase, dyskinesia, motor fluctuations, cognitive performance, (severe) adverse events, treatment satisfaction, and caregiver burden. Patients will be followed during 52 weeks after randomization. Discussion(s): The Deep Brain Stimulation for MOtor symptoms in patients with Parkinson's disease DEmentia (DBS-MODE) trial directly compares the effectiveness and safety of DBS with BMT in patients with PDD. Trial registration: The DBS-MODE trial has been registered in the International Clinical Trial Registry Platform (NL9361) on the 24th of March 2021 (https://trialsearch.who.int/Trial2.aspx?TrialID=NL9361).Copyright © 2023, The Author(s).",BMC Neurology,Dec-23,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
