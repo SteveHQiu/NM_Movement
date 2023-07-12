@@ -51,7 +51,7 @@ Notes:
 ## Results
 | | Total number of included articles | Number of articles with outcomes data | Clinicaltrials.gov trials (completed/active) | Clinicaltrials.gov trials (recruiting) | Clinicaltrials.gov trials (unknown status) | 
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| Any substance addiction | 213 | 23 (10.8%) | 10 | 2 | 8 |
+| Any dementia | 213 | 23 (10.8%) | 10 | 2 | 8 |
 
 # Literature covering DBS for movement disorders
 ## Methodology
